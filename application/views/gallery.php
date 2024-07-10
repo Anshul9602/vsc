@@ -41,6 +41,17 @@
         }
 
     }
+
+    .ttb .nav-item .active {
+        background-color: #3a89c9;
+        color: #fff !important;
+    }
+
+    .ttb .nav-item .nav-link {
+        text-align: center;
+        font-size: 18px;
+        color: #000;
+    }
 </style>
 <div class="mainimg" style="position: relative;background:black;">
     <img src="assets/img/news.jpg" alt="" width="100%" style="    opacity: 0.4;">
@@ -48,3 +59,30 @@
         <h1 class="h0 mt-30 mt-4 mtt"> <span class="orange text-white">Gallery</span></h1>
     </div>
 </div>
+<div class="container ttb mt-5">
+
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item" style="width: 100%;max-width:50%;">
+            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Photos</a>
+        </li>
+        <li class="nav-item" style="width: 100%;max-width:50%;">
+            <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Videos</a>
+        </li>
+
+    </ul>
+    <!-- Tab content -->
+    <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+          <p>Photos</p>
+        </div>
+        <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+            <p>Videos</p>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

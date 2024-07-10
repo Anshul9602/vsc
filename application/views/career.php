@@ -196,6 +196,36 @@
             <h1 class="h0 mt-30 mt-4 mtt"> <span class="orange text-white">Career</span></h1>
         </div>
     </div>
+<div class="container">
+    <div class="row mt-md-5 mt-3 pb-4">
+        <div class="col-md-6 ">
+            <div class="card p-4">
+                <h3>As An Employee</h3>
+                <img src="assets/img/car1.jpg" alt="">
+                <p>Join us as an employee with assigned roles & responsibilities and get remunerated on monthly basis as
+                    per applicable HR norms. Take up a role befitting your futuristic vision and career aspirations.
+                    Advance your skills holistically with guidance of senior mentors, ample practical exposure and
+                    consistent team support. Get opportunities to grow with transparent appraisal policies.</p>
+                    <br>
+            </div>
+
+        </div>
+        <div class="col-md-6 ">
+            <div class="card p-4">
+                <h3>As An Article</h3>
+                <img src="assets/img/car1.jpg" alt="">
+                <p>Join us as an article to gain a wholesome training through our nurturing way of practice. We treat
+                    our articles as futuristic professionals and provide them with the dignity and work experience like
+                    a professional. Through rotation of areas of work, weekly training sessions, outing activities and
+                    outstation exposure they gain thorough insight to the demands of the Chartered Accountancy
+                    profession and gain proficiency in handling the same.</p>
+                <a href="<?php echo base_url('article'); ?>">Click Here For Registration</a>
+            </div>
+
+        </div>
+    </div>
+</div>
+    
 
     <div class="hero-section ehite wf-section ">
         <div class="testbox container job_bg">
@@ -227,7 +257,8 @@
                         </div>
                         <div class="col-md-5 mt-3">
                             <h6>Date Of Birth<span class="star">*</span></h6>
-                            <input type="text" id="dob" name="dob" class="form-control" required placeholder="Date of Birth dd-MMM-yyyy" />
+                            <input type="text" id="dob" name="dob" class="form-control" required
+                                placeholder="Date of Birth dd-MMM-yyyy" />
                         </div>
                     </div>
                     <div class="row " style="justify-content: space-around;">
@@ -241,16 +272,16 @@
                         </div>
                     </div>
                     <div class="row " style="justify-content: space-around;">
-                    
+
                         <div class="col-md-5 mt-3">
                             <h6>Year Of Experience </h6>
-                            <input type="text" name="exp"  placeholder="No. years" />
+                            <input type="text" name="exp" placeholder="No. of years" />
                         </div>
                         <div class="col-md-5 mt-3">
-                            <h6>Last Employment ( Company Name )</h6>
-                            <input type="text" name="last_com"  placeholder="No. years" />
+                            <h6>Last Employment </h6>
+                            <input type="text" name="last_com" placeholder="Company Name" />
                         </div>
-                        
+
                     </div>
                     <div class="row " style="justify-content: space-around;">
                         <div class="col-md-11 mt-3">
@@ -261,7 +292,7 @@
                     <div class="row " style="justify-content: space-around;">
                         <div class="col-md-11 mt-3">
                             <h6>Message</h6>
-                           <textarea name="message" id="message" rows="3"></textarea>
+                            <textarea name="message" id="message" rows="3"></textarea>
                         </div>
                     </div>
                     <div class="col-md-11 mt-3">
@@ -278,7 +309,7 @@
 
 </section>
 <script>
-    $(document).ready(function() {
+    $(document).ready(function () {
         $('#dob').datepicker({
             format: 'yyyy-mm-dd',
             autoclose: true,

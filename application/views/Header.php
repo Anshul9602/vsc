@@ -74,15 +74,15 @@
     <header id="header" class="header d-flex align-items-center addclass nav-down" style="   width:100%;">
 
         <div class="container-fluid container-xl d-flex align-items-center  row "
-            style="max-width: 100%;margin: auto;        justify-content: space-around;">
+            style="max-width: 100%;margin: 0 auto;        justify-content: space-around;">
             <a href="<?php echo base_url(); ?>"
-                class="logo d-flex align-items-center col-md-1 col-6 justify-content-start">
+                class="logo d-flex align-items-center col-md-2 col-6 justify-content-start">
 
-                <img class="ds" src="<?php echo base_url(); ?>/assets/img/logo1.png" style="max-width:250px;" alt="">
+                <img class="ds" src="<?php echo base_url(); ?>/assets/img/logo1.png" style="max-width:270px;" alt="">
 
 
             </a>
-            <nav id="navbar" class="navbar col-md-10 ">
+            <nav id="navbar" class="navbar col-md-9 ">
                 <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
 
                 <ul style="width: 100%;     justify-content: space-around;">
@@ -117,7 +117,7 @@
                     <li><a href="<?php echo base_url('Grievanace'); ?>">GRIEVANCE</a></li>
                     <li><a href="<?php echo base_url('Contact'); ?>" class="contact"
                             style="color:#000;background:#fff;">CONTACT</a></li>
-                    <li><a href="<?php echo base_url(''); ?>" class="contact">ADMIN LOGIN</a></li>
+              
 
                 </ul>
             </nav><!-- .navbar -->
