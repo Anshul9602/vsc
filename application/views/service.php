@@ -7,6 +7,7 @@
     position: relative;
     height: 80vh;
     overflow: hidden;
+    background: black;
   }
 
 
@@ -20,6 +21,7 @@
     background-attachment: fixed;
     background-position: center center;
     transition: transform 0.2s;
+    opacity: 0.3;
   }
 
   .fusion-builder-row {
@@ -68,34 +70,119 @@
     }
   }
 </style>
+<style>
+  /* Popup container */
+  .popup {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 999;
+    /* Sit on top */
+    padding-top: 100px;
+    /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* Black w/ opacity */
+  }
+
+  /* Popup content */
+  .popup-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 40px;
+    border: 1px solid #888;
+    width: 80%;
+    max-height: 80vh;
+    overflow-y: scroll;
+    z-index: 9999999;
+    border-radius: 20px;
+  }
+
+  /* Close button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  .sses .row {
+    margin-top: 20px;
+  }
+
+  @media (max-width:680px) {
+    .popup-content {
+
+      width: 91%;
+      max-height: 85vh;
+      overflow-y: scroll;
+      z-index: 9999999;
+    }
+  }
+
+  .ttb .nav-item .active {
+    background-color: #3a89c9;
+    color: #fff !important;
+  }
+
+  .ttb .nav-item .nav-link {
+    text-align: center;
+    font-size: 18px;
+    color: #000;
+  }
+</style>
+
 <link href="<?php echo base_url(); ?>/assets/css/mainpage.css" rel="stylesheet">
 
-
-
-<section id="content" class="full-width p-0">
+<section class="full-width p-0">
   <div class="post-content">
     <div class="fusion-fullwidth fullwidth-box" id="parallax-container">
-      <div class="parallax-inner" style="background-image: url('assets/img/Bolour_Home_4.jpg');">
+      <div class="parallax-inner"
+        style="background-image: url('assets/img/servicemain.png');">
       </div>
-      <div class="fusion-builder-row fusion-row" style="height:100%;align-items: center;
+      <div class="fusion-builder-row fusion-row"
+        style="height:100%;align-items: center;
     display: flex;   justify-content: start;">
         <div class="container">
-          <div class="">
-            <h1>FINANCE</h1>
+          <div class>
+            <h1>OFFERINGS</h1>
             <p style="height: 2px;width:10%;background:#fff;"></p>
             <div class="contiontt">
               <p style="color: #fff;max-width:50%;line-height:1.9">
 
-                Recognizing the need for flexibility, certainty of closing, speed of execution, and creative deal
-                structuring among entrepreneurial borrowers, Vinod Singhal & Company launched its bridge lending
-                platform in 2009. Over the years, we have expanded and refined our offerings, creating a comprehensive
-                lending platform that now provides financing solutions across 17 states (CA, AZ, TX, OR, CO, ID, UT, WA,
-                TN, NC, GA, PA, MA, MD, VA, IL, FL) and the District of Columbia. Our lending portfolio includes various
-                product classes such as retail, office, multi-family, industrial, mixed-use, non-owner occupied
+                Recognizing the need for flexibility, certainty of closing,
+                speed of execution, and creative deal
+                structuring among entrepreneurial borrowers, Vinod Singhal &
+                Company launched its bridge lending
+                platform in 2009. Over the years, we have expanded and refined
+                our offerings, creating a comprehensive
+                lending platform that now provides financing solutions across 17
+                states (CA, AZ, TX, OR, CO, ID, UT, WA,
+                TN, NC, GA, PA, MA, MD, VA, IL, FL) and the District of
+                Columbia. Our lending portfolio includes various
+                product classes such as retail, office, multi-family,
+                industrial, mixed-use, non-owner occupied
                 single-family residences (SFRs), and urban infill land.
               </p>
               <br>
-              <a href="" class="contact mt-5">Lending Criteria</a>
+              <a href class="contact mt-5">Lending Criteria</a>
             </div>
           </div>
         </div>
@@ -107,176 +194,87 @@
 
 </section>
 
-<section style="">
-  <div class="container">
-    <div class="row justify-content-between">
-      <div class="col-md-4 text-black">
-        <h1>HIGHLIGHTED TRANSACTIONS</h1>
-      </div>
-      <div class="col-md-6 " style="border-left: 2px solid #e0dede;padding-left:4%;align-items: center;display: flex;">
-        <h5> <em>Here are a few examples of recent VSC transactions, showcasing closings across various sectors such as
-            retail, office, multi-family, industrial, mixed-use, and urban infill land.</em></h5>
-
-      </div>
-    </div>
-  </div>
-</section>
+<div id="COMPLIANCE_PROTFOLIO"></div>
+<div id="ADVISORY_PROTFOLIO"></div>
 <section>
-
-  <style>
-    /* Popup container */
-    .popup {
-      display: none;
-      /* Hidden by default */
-      position: fixed;
-      /* Stay in place */
-      z-index: 999;
-      /* Sit on top */
-      padding-top: 100px;
-      /* Location of the box */
-      left: 0;
-      top: 0;
-      width: 100%;
-      /* Full width */
-      height: 100%;
-      /* Full height */
-      overflow: auto;
-      /* Enable scroll if needed */
-      background-color: rgb(0, 0, 0);
-      /* Fallback color */
-      background-color: rgba(0, 0, 0, 0.4);
-      /* Black w/ opacity */
-    }
-
-    /* Popup content */
-    .popup-content {
-      background-color: #fefefe;
-      margin: auto;
-      padding: 40px;
-      border: 1px solid #888;
-      width: 80%;
-      max-height: 80vh;
-      overflow-y: scroll;
-      z-index: 9999999;
-      border-radius: 20px;
-    }
-
-    /* Close button */
-    .close {
-      color: #aaa;
-      float: right;
-      font-size: 28px;
-      font-weight: bold;
-    }
-
-    .close:hover,
-    .close:focus {
-      color: black;
-      text-decoration: none;
-      cursor: pointer;
-    }
-
-    .sses .row {
-      margin-top: 20px;
-    }
-
-    @media (max-width:680px) {
-      .popup-content {
-
-        width: 91%;
-        max-height: 85vh;
-        overflow-y: scroll;
-        z-index: 9999999;
-      }
-    }
-
-    .ttb .nav-item .active {
-      background-color: #3a89c9;
-      color: #fff !important;
-    }
-
-    .ttb .nav-item .nav-link {
-      text-align: center;
-      font-size: 18px;
-      color: #000;
-    }
-  </style>
-
 
   <div id="popup1" class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
-      <h2>Audit & Assurance</h2>
+      <h2>Accounting/ Policy Drafting </h2>
       <hr>
       <div class="imagesec"
-        style="background-image: url('assets/img/se1.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/img/assurance.png');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
-
 
       <br>
       <div class="spaece mt-4"></div>
       <div class="row">
-        <div class="col-md-4">
-          <p> &#x2022; Statutory Audits </p>
-          <p> &#x2022; Tax Audit </p>
-          <p> &#x2022; Internal Audit</p>
-          <p> &#x2022; Management Audit</p>
-          <p> &#x2022; Stock Audit</p>
-
+        <div class="col-md-6">
+          <p> &#x2022; Design, implementation and review of accounting manuals
+          </p>
+          <p> &#x2022; Various Policy drafting </p>
 
         </div>
-        <div class="col-md-4">
+        <div class="col-md-6">
 
-          <p> &#x2022; Investigative (Special purpose) Audit</p>
-          <p> &#x2022; Internal Control Review</p>
-          <p> &#x2022; Due-diligence Review</p>
-          <p> &#x2022; Forensic Audits</p>
-          <p> &#x2022; GST Audit</p>
-        </div>
-        <div class="col-md-4">
-          <p> &#x2022; Fixed Assets Audit</p>
-          <p> &#x2022; Revenue Audit</p>
-          <p> &#x2022; Compliance Audit</p>
-          <p> &#x2022; Concurrent Audit</p>
-          <p> &#x2022; Information Systems Audit</p>
+          <p> &#x2022; Advice on various accounting issues including those
+            related to Indian GAAPs, & IFRS</p>
+          <p> &#x2022; SOP drafting & implementation</p>
 
         </div>
       </div>
 
+    </div>
+  </div>
 
-
-
+  <div id="popup2" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Agro & MSME </h2>
+      <hr>
+      <div class="imagesec"
+        style="background-image: url('assets/img/se4.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+      </div>
+      <br>
+      <div class="spaece mt-4"></div>
+      <div class="row">
+        <div class="col-md-6">
+          <p> &#x2022; Preparation of DPRs</p>
+          <p> &#x2022; Help in getting various Central & State govt.
+            Subsidies</p>
+        </div>
+        <div class="col-md-6">
+          <p> &#x2022; Finance under various MSME schemes</p>
+          <p> &#x2022; Various related Compliances</p>
+          <p> &#x2022; End to end consultancy</p>
+        </div>
+      </div>
     </div>
   </div>
   <div id="popup3" class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
-      <h2>Taxation Services</h2>
+      <h2>Corporate Consultancy</h2>
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se3.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/img/se1.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
       <div class="spaece mt-4"></div>
       <div class="row">
         <div class="col-md-6">
-          <p> &#x2022; Personal Tax Compliance</p>
-          <p> &#x2022; Corporate Tax Compliance</p>
-          <p> &#x2022; Income-tax Assessments/Appeals before the Commissioner (Appeals) and Appellate Tribunal</p>
-          <p> &#x2022; International Tax Planning</p>
-          <p> &#x2022; Domestic Tax Planning</p>
-
-
+          <p> &#x2022; Share Valuations</p>
+          <p> &#x2022; Advising on various matters under the Companies Act, 2013
+            including appearance before the CLB</p>
         </div>
         <div class="col-md-6">
-          <p> &#x2022; Filing of Income Tax Return</p>
-          <p> &#x2022; Filing of Wealth Tax Returns</p>
-          <p> &#x2022; GST Compliances</p>
-          <p> &#x2022; Indirect Tax Advisory including preparation of tax effective business model, appellate level
-            hearing, due diligence projects etc</p>
+          <p> &#x2022; Corporate Restructuring</p>
+          <p> &#x2022; Merger & Acquisitions</p>
+          <p> &#x2022; Project financing</p>
 
         </div>
       </div>
@@ -285,59 +283,75 @@
   <div id="popup4" class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
-      <h2>Business Process Outsourcing</h2>
+      <h2>Cross Border Services</h2>
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se4.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/img/company.png');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
       <div class="spaece mt-4"></div>
       <div class="row">
         <div class="col-md-6">
-          <p> &#x2022; Accounting Process Outsourcing Services</p>
-          <p> &#x2022; Payroll Process Outsourcing Services</p>
-          <p> &#x2022; Preparation of Management Accounts</p>
-
-
-
+          <p> &#x2022; Foreign Company Incorporation</p>
+          <p> &#x2022; International Taxation Advisory</p>
+          <p> &#x2022; Laision office setup</p>
         </div>
         <div class="col-md-6">
-          <p> &#x2022; Preparation of Management Information Systems (MIS)</p>
-          <p> &#x2022; Fixed Assets verification and record compilation</p>
-
-
+          <p> &#x2022; Transfer Pricing</p>
+          <p> &#x2022; FEMA/RBI Compliances</p>
         </div>
       </div>
+    </div>
+  </div>
+  <div id="popup5" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>INSOLVENCY AND BANKRUPTCY</h2>
+      <hr>
+
+      <div class="imagesec"
+        style="background-image: url('assets/img/se2.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+
+      </div>
+
+      <br>
+      <div class="spaece mt-4"></div>
+      <div class="row">
+        <div class="col-md-6">
+          <p>&#x2022;Asset Tracing and Investigation Services</p>
+          <p>&#x2022;Due Diligence on Debtors' Creditworthiness</p>
+          <p>&#x2022;Litigation Support For Debt Recovery</p>
+        </div>
+        <div class="col-md-6">
+          <p>&#x2022;Debt Restructuring and Negotiation</p>
+          <p>&#x2022;Debt Recovery through Insolvency and Bankruptcy</p>
+        </div>
+      </div>
+
     </div>
   </div>
   <div id="popup6" class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
-      <h2>Real Estate Consultancy Related Services (RERA)</h2>
+      <h2>IT & Blockchain</h2>
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se1.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/img/company.png');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
       <div class="spaece mt-4"></div>
       <div class="row">
         <div class="col-md-6">
-          <p> &#x2022; Registration of Real Estate Projects/Real Estate Agents etc.</p>
-          <p> &#x2022; RERA related consultancy</p>
-
-
-
-
+          <p> &#x2022; Blockchian development</p>
+          <p> &#x2022; Blockchain consultancy</p>
         </div>
         <div class="col-md-6">
-          <p> &#x2022; Cash Flow/Fund Flow and Financial Planning for Projects</p>
-          <p> &#x2022; Overall Compliance & review under RERA Act.</p>
-
-
+          <p> &#x2022; Strategy workshop & training</p>
+          <p> &#x2022; Ideation & Integration</p>
         </div>
       </div>
     </div>
@@ -345,45 +359,31 @@
   <div id="popup7" class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
-      <h2>Company Law Matters</h2>
+      <h2>Labour Laws </h2>
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se7.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/img/se5.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
       <div class="spaece mt-4"></div>
-
-      <p> &#x2022; Formation of Indian and Offshore Companies</p>
-      <p> &#x2022; Advising on various matters under the Companies Act, 1956 including appearance before the Company Law
-        Board</p>
-      <p> &#x2022; Assisting in Winding-up of companies/striking off the name from the Registrar of Companies under the
-        Act</p>
+      <div class="row">
+        <div class="col-md-6">
+          <p> &#x2022; PF/ESI Consultancy</p>
+          <p> &#x2022; Surrender of Trusts</p>
+        </div>
+        <div class="col-md-6">
+          <p> &#x2022; CLRA/ BOCW/ PT/ LWF/ Factories related consultancy</p>
+          <p> &#x2022; Payroll management consultancy</p>
+        </div>
+      </div>
     </div>
   </div>
   <div id="popup8" class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
-      <h2>Secretarial Services</h2>
-      <hr>
-
-      <div class="imagesec"
-        style="background-image: url('assets/img/se8.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
-      </div>
-      <br>
-      <div class="spaece mt-4"></div>
-
-      <p> &#x2022; Maintenance of Statutory Records and Registers</p>
-      <p> &#x2022; Maintenance of Minutes Book</p>
-      <p> &#x2022; Assistance in preparation and filing of various forms with the Registrar</p>
-    </div>
-  </div>
-  <div id="popup9" class="popup">
-    <div class="popup-content">
-      <span class="close">&times;</span>
-      <h2>Financial Services</h2>
+      <h2>Start-up Solutions</h2>
       <hr>
 
       <div class="imagesec"
@@ -394,27 +394,44 @@
       <div class="spaece mt-4"></div>
       <div class="row">
         <div class="col-md-6">
-          <p> &#x2022; Design, Implementation and Review of Accounting Manuals</p>
-          <p> &#x2022; Advice on various accounting issues including those related to Indian GAAPs, & IFRS</p>
-          <p> &#x2022; Share Valuations</p>
-          <p> &#x2022; Mergers and Acquisitions</p>
-          <p> &#x2022; Corporate Restructuring</p>
+          <p> &#x2022; Company incorporation</p>
+          <p> &#x2022; Accounting Advisory</p>
+
         </div>
         <div class="col-md-6">
-          <p> &#x2022; Project Financing</p>
-          <p> &#x2022; Various Certifications</p>
-          <p> &#x2022; Personal Financial Planning</p>
-          <p> &#x2022; Formation of Trusts</p>
-          <p> &#x2022; Setting up of liaison office & branches in India and overseas</p>
+          <p> &#x2022; Regular Compliances</p>
+          <p> &#x2022; Fund Raising</p>
+
         </div>
       </div>
 
     </div>
   </div>
-  <div id="popup5" class="popup">
+  <div id="popup9" class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
-      <h2>Labour Laws Related Services</h2>
+      <h2>Taxation</h2>
+      <hr>
+
+      <div class="imagesec"
+        style="background-image: url('assets/img/se3.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+
+      </div>
+      <br>
+      <div class="spaece mt-4"></div>
+      <div class="row">
+        <div class="col-md-6">
+          <p> &#x2022; International and Domestic Tax Planning</p>
+          <p> &#x2022; Related consultancy</p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="popup10" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Valuation Services</h2>
       <hr>
 
       <div class="imagesec"
@@ -423,188 +440,415 @@
       </div>
       <br>
       <div class="spaece mt-4"></div>
-
-      <p> &#x2022; Advisory on the various labour related laws viz. PF/ESI/Factory Act/Etc.</p>
-
-
-
-
+      <div class="row">
+        <div class="col-md-6">
+          <p> &#x2022; Business Valuation</p>
+          <p> &#x2022; Financial Reporting Valuation</p>
+          <p> &#x2022; Specialised Valuation</p>
+        </div>
+        <div class="col-md-6">
+          <p> &#x2022; Financial Modeling</p>
+          <p> &#x2022; Liquidation Value, arbitration & dispute</p>
+          <p> &#x2022; Intangible Assets Valuation</p>
+        </div>
+      </div>
     </div>
   </div>
-  <div id="popup2" class="popup">
+  <div id="popup11" class="popup">
     <div class="popup-content">
       <span class="close">&times;</span>
-      <h2>INSOLVENCY AND BANKRUPTCY CONSULTANCY</h2>
+      <h2>Other Services</h2>
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se2.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/img/se5.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
       <div class="spaece mt-4"></div>
       <div class="row">
         <div class="col-md-6">
-          <p>1. Advise/ Consultancy to the entities in Insolvency & Bankruptcy matters Action plans for the Corporate
-            Debtors:</p>
-          <p>2. Drafting of Application for insolvency to NCLT</p>
-          <p>3. Exploring the possibility of action under Insolvency Law</p>
-
-          <p>4. Representing the Corporate Debtors in NCLT hearing</p>
+          <p> &#x2022; Virtual CFO Services</p>
+          <p> &#x2022; Capital budgeting & planning</p>
+          <p> &#x2022; ISO Registration</p>
+          <p> &#x2022; FSSAI Registration</p>
+          <p> &#x2022; PSARA Licence</p>
 
         </div>
         <div class="col-md-6">
-          <p>5. Notice Drafting</p>
-          <p>6. Providing all kind of legal & professional support</p>
-          <p>7. Action plans for the Corporate Creditors:</p>
-          <ul>
-            <li>
-              &#x2022; Advisory on voluntary insolvency process
-            </li>
-            <li>&#x2022; Advisory on notices/claims received under Insolvency Law</li>
-            <li> &#x2022; Advisory on the preparation of the resolution plan</li>
-          </ul>
+          <p> &#x2022; Formation of Trusts/NGOs & registration</p>
+          <p> &#x2022; Any other related services</p>
+          <p> &#x2022; UDYAM Registration</p>
+          <p> &#x2022; Shop & Establishment Act</p>
+          <p> &#x2022; Wage Compliances</p>
         </div>
       </div>
+    </div>
+  </div>
 
+  <!-- COMPLIANCE PORTFOLIO   -->
 
+  <div id="popup21" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Audit & Assurance</h2>
+      <hr>
 
+      <div class="imagesec"
+        style="background-image: url('assets/img/se8.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+
+      </div>
+      <br>
+      <div class="spaece mt-4"></div>
+      <div class="row">
+        <div class="col-md-6">
+
+          <p> &#x2022; Statutory Audit </p>
+          <p> &#x2022; Tax Audit</p>
+          <p> &#x2022; GST Audit</p>
+          <p> &#x2022; Internal Audit</p>
+          <p> &#x2022; Management Audit </p>
+        </div>
+        <div class="col-md-6">
+
+          <p> &#x2022; Stock/FA Audit with barcoding </p>
+          <p> &#x2022; Revenue Audit</p>
+          <p> &#x2022; Internal Control Review</p>
+          <p> &#x2022; Due Diligence</p>
+          <p> &#x2022; Forensic/ Special Inspections </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="popup22" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Taxation</h2>
+      <hr>
+
+      <div class="imagesec"
+        style="background-image: url('assets/img/se3.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+
+      </div>
+      <br>
+      <div class="spaece mt-4"></div>
+      <div class="row">
+        <div class="col-md-6">
+
+          <p> &#x2022; Corporate and personal tax compliance </p>
+          <p> &#x2022; Income-tax assessments</p>
+          <p> &#x2022; Appeals before the Commissioner (Appeals) and the
+            Income-tax Appellate Tribunal</p>
+
+        </div>
+        <div class="col-md-6">
+
+          <p> &#x2022; Indirect Tax Compliances and advisory </p>
+          <p> &#x2022; Compliance with law relating to GST</p>
+          <p> &#x2022; GST new registration</p>
+          <p> &#x2022; GST Assessments</p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="popup23" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Labour Law</h2>
+      <hr>
+
+      <div class="imagesec"
+        style="background-image: url('assets/img/se5.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+
+      </div>
+      <br>
+      <div class="spaece mt-4"></div>
+      <h3>PF/ESI</h3>
+      <div class="row">
+        <div class="col-md-6">
+
+          <p> &#x2022; Registration and Monthly Compliances </p>
+          <p> &#x2022; Litigations </p>
+       
+
+        </div>
+        <div class="col-md-6">
+
+          <p> &#x2022; Soft Audit/ Compliance Audit </p>
+          <p> &#x2022; Exempted Trust Audit</p>
+        
+
+        </div>
+      </div>
+      <h3 class="mt-4">CLRA/ BOCW/ PT/ LWF/ Factories</h3>
+      <div class="row">
+        <div class="col-md-6">
+
+          <p> &#x2022; Registration, Licence & Compliances </p>
+          <p> &#x2022; Litigations </p>
+          
+
+        </div>
+        <div class="col-md-6">
+
+          <p> &#x2022; Soft Audit/ Compliance Audit </p>
+          
+
+        </div>
+      </div>
+      <h3 class="mt-4">Payroll Management</h3>
+      <div class="row">
+        <div class="col-md-6">
+  
+          <p> &#x2022; Payroll Preparation, Storage and Management </p>
+          <p> &#x2022; Litigations </p>
+          
+
+        </div>
+        <div class="col-md-6">
+
+          <p> &#x2022; Soft Audit/ Compliance Audit </p>
+          <p> &#x2022; TDS and Tax Planning </p>
+          
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="popup24" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Company Law Matters & Secretarial Services</h2>
+      <hr>
+
+      <div class="imagesec"
+        style="background-image: url('assets/img/se5.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+
+      </div>
+      <br>
+      <div class="spaece mt-4"></div>
+      <div class="row">
+        <div class="col-md-6">
+
+          <p> &#x2022; Formation of Indian & Offshore Companies </p>
+          <p> &#x2022; Maintenance of Statutory records & register </p>
+          <p> &#x2022; Assistance in preparation & filing of various forms with
+            the registrar</p>
+
+        </div>
+        <div class="col-md-6">
+
+          <p> &#x2022; Assisting in Winding Up of Companies </p>
+          <p> &#x2022; Maintenance of Minutes book</p>
+
+        </div>
+      </div>
     </div>
   </div>
 
 
-  <div class="container ttb">
+  <div class="container ttb mt-4">
 
     <ul class="nav nav-tabs" id="myTab" role="tablist">
       <li class="nav-item" style="width: 100%;max-width:50%;">
-        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home"
-          aria-selected="true">service1</a>
+        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home"
+          role="tab" aria-controls="home"
+          aria-selected="true">ADVISORY PROTFOLIO</a>
       </li>
       <li class="nav-item" style="width: 100%;max-width:50%;">
-        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile"
-          aria-selected="false">service2</a>
+        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile"
+          role="tab" aria-controls="profile"
+          aria-selected="false">COMPLIANCE PROTFOLIO</a>
       </li>
 
     </ul>
     <!-- Tab content -->
     <div class="tab-content" id="myTabContent">
-      <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+      <div class="tab-pane fade show active" id="home" role="tabpanel"
+        aria-labelledby="home-tab">
         <div class="row justify-content-between sses">
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se1.jpg" alt="">
+              <img src="assets/img/assurance.png" alt>
             </div>
             <div class="col-md-8 mt-3">
-              <h5 style="font-weight: 500;">ASSURANCE SERVICES</h5>
-              <p class="mt-3">Our professionals provide leading-edge services on systems, software, data analytics,
-                automation and controls design and effectiveness, including related specialist services on external
-                audit
-                engagements.</p>
-              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup1"> Read More</button>
+              <h5 style="font-weight: 500;">ACCOUNTING/ POLICY DRAFTING </h5>
+              <p class="mt-3">Design, implementation and review of accounting
+                manuals</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup1"> Read More</button>
             </div>
-
 
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se2.jpg" alt="">
+              <img src="assets/img/bpo.png" alt>
             </div>
             <div class="col-md-8 mt-3">
-              <h5 style="font-weight: 500;">INSOLVENCY AND BANKRUPTCY CONSULTANCY</h5>
-              <p class="mt-3">Providing appropriate services under IBC Code for Corporate as well as Individual
-                insolvency
-                and bankruptcy procedures ensuring fair negotiations between debtor and creditor along with strategic
-                evaluation of entity’s revival options.</p>
-              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup2"> Read More</button>
+              <h5 style="font-weight: 500;">AGRO & MSME </h5>
+              <p class="mt-3">Help in getting various Central & State govt.
+                Subsidies</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup2"> Read More</button>
             </div>
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se3.jpg" alt="">
+              <img src="assets/img/se7.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
-              <h5 style="font-weight: 500;">TAXATION SERVICES</h5>
-              <p class="mt-3">Formulate effective strategies to optimise taxes, implement innovative tax planning
-                strategies
-                and effectivelymanage compliance-related requirements.</p>
-              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup3"> Read More</button>
+              <h5 style="font-weight: 500;">CORPORATE CONSULTANCY</h5>
+              <p class="mt-3">Advising on various matters under the Companies
+                Act, 2013 including appearance before the CLB</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup3"> Read More</button>
             </div>
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se4.jpg" alt="">
+              <img src="assets/img/se8.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
-              <h5 style="font-weight: 500;">BUSINESS PROCESS OUTSOURCING</h5>
-              <p class="mt-3">Focus is the key & it's only possible when you focus completely on your core competencies
-                and
-                outsource non-core business processes to our experts.</p>
-              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup4"> Read More</button>
+              <h5 style="font-weight: 500;">CROSS BORDER SERVICES</h5>
+              <p class="mt-3">Foreign Company Incorporation</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup4"> Read More</button>
+            </div>
+          </div>
+
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/img/bankruptcy.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">INSOLVENCY AND BANKRUPTCY</h5>
+              <p class="mt-3">Asset Tracing and Investigation Services</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup5"> Read More</button>
             </div>
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se5.jpg" alt="">
+              <img src="assets/img/secretarial.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">IT & BLOCKCHAIN SERVICES</h5>
+              <p class="mt-3">Blockchian development</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup6"> Read More</button>
+            </div>
+          </div>
+
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/img/labourlaw.png" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">LABOUR LAWS RELATED SERVICES</h5>
-              <p class="mt-3">Experienced consulting in all aspects of labour law compliance and providing expert
-                services
-                for ensuring compliance in face of ever evolving labour legislations.</p>
-              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup5"> Read More</button>
+              <p class="mt-3">PF/ESI Consultancy</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup7"> Read More</button>
             </div>
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se1.jpg" alt="">
+              <img src="assets/img/financial.png" alt>
             </div>
             <div class="col-md-8 mt-3">
-              <h5 style="font-weight: 500;">REAL ESTATE CONSULTANCY RELATED SERVICES (RERA)</h5>
-              <p class="mt-3">Advisory & Compliance management services under RERA dealing with regulations &
-                compliances
-                for the Real Estate Sector.</p>
-              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup6"> Read More</button>
-            </div>
-          </div>
-          <div class="col-md-6 text-black row mt-5">
-            <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se7.jpg" alt="">
-            </div>
-            <div class="col-md-8 mt-3">
-              <h5 style="font-weight: 500;">COMPANY LAW MATTERS</h5>
-              <p class="mt-3">Services at all stages of a business cycle, right from the inception of an entity to
-                general
-                corporate matters.</p>
-              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup7"> Read More</button>
-            </div>
-          </div>
-          <div class="col-md-6 text-black row mt-5">
-            <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se8.jpg" alt="">
-            </div>
-            <div class="col-md-8 mt-3">
-              <h5 style="font-weight: 500;">SECRETARIAL SERVICES</h5>
-              <p class="mt-3">Corporate secretarial service stands as a supporting structure to the company’s compliance
-                needs.</p>
-              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup8"> Read More</button>
-            </div>
-          </div>
-          <div class="col-md-6 text-black row mt-5">
-            <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se9.jpg" alt="">
-            </div>
-            <div class="col-md-8 mt-3">
-              <h5 style="font-weight: 500;">FINANCIAL SERVICES</h5>
-              <p class="mt-3">Supporting you in future-proofing your business to become risk resilient and risk ready.
+              <h5 style="font-weight: 500;">START-UP SOLUTIONS</h5>
+              <p class="mt-3">Company incorporation
               </p>
-              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup9"> Read More</button>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup8"> Read More</button>
             </div>
           </div>
 
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/img/tax1.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">TAXATION</h5>
+              <p class="mt-3">International and Domestic Tax Planning</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup9"> Read More</button>
+            </div>
+          </div>
+
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/img/financial.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">VALUATION SERVICES</h5>
+              <p class="mt-3">Business Valuation</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup10"> Read More</button>
+            </div>
+          </div>
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/img/ser11.jpg" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">OTHER SERVICES</h5>
+              <p class="mt-3">Formation of Trusts/NGOs & registration</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup11"> Read More</button>
+            </div>
+          </div>
         </div>
       </div>
-      <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-        <p>This is the profile tab content.</p>
+      <div class="tab-pane fade" id="profile" role="tabpanel"
+        aria-labelledby="profile-tab">
+        <!-- <p>This is the profile tab content.</p> -->
+        <div class="row justify-content-between sses">
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/img/assurance.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">AUDIT & ASSURANCE</h5>
+              <p class="mt-3">Statutory Audit </p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup21"> Read More</button>
+            </div>
+          </div>
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/img/tax1.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">Taxation</h5>
+              <p class="mt-3"> Corporate and personal tax compliance</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup22"> Read More</button>
+            </div>
+          </div>
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/img/labourlaw.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">Labour Law</h5>
+              <p class="mt-3">Registration and Monthly Compliances</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup23"> Read More</button>
+            </div>
+          </div>
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/img/company.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">Company Law</h5>
+              <p class="mt-3"> Formation of Indian & Offshore Companies</p>
+              <button class="btn btn-outline-primary readMoreBtn"
+                data-popup="popup24"> Read More</button>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div>
@@ -612,8 +856,10 @@
   </div>
 </section>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script
+  src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script
+  src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 <script>
   // Get all buttons that open a popup

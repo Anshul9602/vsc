@@ -7,6 +7,8 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js
 https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 " rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 <style>
   section {
     z-index: 999;
@@ -141,10 +143,12 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   .mob {
     display: none;
   }
+
   .cstm_key_people .member_txt h5 {
     font-size: 16px;
     margin-bottom: 10px;
   }
+
   .cstm_key_people .member_txt span {
     font-size: 14px;
     margin-bottom: 5px;
@@ -334,40 +338,88 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     display: block;
     max-width: 250px;
   }
+
+  /* Custom styles if needed */
+  .modal-content {
+    border-radius: 10px;
+  }
+
+  .close {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    font-size: 1.5rem;
+  }
+
+  .pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 </style>
 
-<div class="video-section desk" >
-<div class="splide sp" aria-label="Splide Basic HTML Example">
-  <div class="splide__track">
-		<ul class="splide__list">
-			<li class="splide__slide">  <div class="video-overlay" style="position: relative;">
-    <img src="<?php echo base_url(); ?>assets/img/banner.png" alt="" style="width: 100%;">
-    <div class="text-overlay">
-      <h1 style="font-weight:400;">EXPERT SERVICES</h1>
-      <p class="foot">Time bound quality solutions in tune with advance & evolving technologies.</p>
-      <a href="#" class="ban" style="padding:10px 30px;">Here's what we offer</a>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"><br></h5>
+        <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
+        <!-- <span aria-hidden="true">&times;</span> -->
+        <span class="close" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body pic">
+        <img src="assets/img/popup.png">
+      </div>
     </div>
-  </div></li>
-			<li class="splide__slide">  <div class="video-overlay" style="position: relative;">
-    <img src="<?php echo base_url(); ?>assets/img/banner.png" alt="" style="width: 100%;">
-    <div class="text-overlay">
-      <h1 style="font-weight:400;">EXPERT SERVICES</h1>
-      <p class="foot">Time bound quality solutions in tune with advance & evolving technologies.</p>
-      <a href="#" class="ban" style="padding:10px 30px;">Here's what we offer</a>
-    </div>
-  </div></li>
-			<li class="splide__slide">  <div class="video-overlay" style="position: relative;">
-    <img src="<?php echo base_url(); ?>assets/img/banner.png" alt="" style="width: 100%;">
-    <div class="text-overlay">
-      <h1 style="font-weight:400;">EXPERT SERVICES</h1>
-      <p class="foot">Time bound quality solutions in tune with advance & evolving technologies.</p>
-      <a href="#" class="ban" style="padding:10px 30px;">Here's what we offer</a>
-    </div>
-  </div></li>
-		
-		</ul>
   </div>
 </div>
+
+
+
+
+
+
+<div class="video-section desk">
+  <div class="splide sp" aria-label="Splide Basic HTML Example">
+    <div class="splide__track">
+      <ul class="splide__list">
+        <li class="splide__slide">
+          <div class="video-overlay" style="position: relative;">
+            <img src="<?php echo base_url(); ?>assets/img/mainban.png" alt="" style="width: 100%;">
+            <div class="text-overlay">
+              <h1 style="font-weight:400;">EXPERT SERVICES</h1>
+              <p class="foot">Time bound quality solutions in tune with advance & evolving technologies.</p>
+              <a href="#" class="ban" style="padding:10px 30px;">Here's what we offer</a>
+            </div>
+          </div>
+        </li>
+        <li class="splide__slide">
+          <div class="video-overlay" style="position: relative;">
+            <img src="<?php echo base_url(); ?>assets/img/mainban2.png" alt="" style="width: 100%;">
+            <div class="text-overlay">
+              <h1 style="font-weight:400;">EXPERT SERVICES</h1>
+              <p class="foot">Time bound quality solutions in tune with advance & evolving technologies.</p>
+              <a href="#" class="ban" style="padding:10px 30px;">Here's what we offer</a>
+            </div>
+          </div>
+        </li>
+        <li class="splide__slide">
+          <div class="video-overlay" style="position: relative;">
+            <img src="<?php echo base_url(); ?>assets/img/banner.png" alt="" style="width: 100%;">
+            <div class="text-overlay">
+              <h1 style="font-weight:400;">EXPERT SERVICES</h1>
+              <p class="foot">Time bound quality solutions in tune with advance & evolving technologies.</p>
+              <a href="#" class="ban" style="padding:10px 30px;">Here's what we offer</a>
+            </div>
+          </div>
+        </li>
+
+      </ul>
+    </div>
+  </div>
 
 
 </div>
@@ -472,13 +524,13 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 <section id="content" class="full-width p-0">
   <div class="post-content">
     <div class="fusion-fullwidth fullwidth-box" id="parallax-container">
-      <div class="parallax-inner" style="background-image: url('<?php echo base_url(); ?>assets/img/tds.png');">
+      <div class="parallax-inner" style="background-image: url('<?php echo base_url(); ?>assets/img/expertise1.png');">
       </div>
       <div class="fusion-builder-row fusion-row" style="height:100%;align-items: center;
   display: flex;   justify-content: center;">
         <div class="container">
           <div class="">
-            <h1>TDS</h1>
+            <h1>EXPERTISE</h1>
 
           </div>
         </div>
@@ -493,13 +545,13 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 <section id="content" class="full-width p-0">
   <div class="post-content">
     <div class="fusion-fullwidth fullwidth-box" id="parallax-container1">
-      <div class="parallax-inner" style="background-image: url('<?php echo base_url(); ?>assets/img/tax.png');">
+      <div class="parallax-inner" style="background-image: url('<?php echo base_url(); ?>assets/img/india.png');">
       </div>
       <div class="fusion-builder-row fusion-row" style="height:100%;align-items: center;
   display: flex;   justify-content: start;">
         <div class="container">
           <div class="">
-            <h1>INCOME TAX</h1>
+            <h1>PAN INDIA PRESENCE</h1>
 
           </div>
         </div>
@@ -513,13 +565,14 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 <section id="content" class="full-width p-0">
   <div class="post-content">
     <div class="fusion-fullwidth fullwidth-box" id="parallax-container2">
-      <div class="parallax-inner" style="background-image: url('<?php echo base_url(); ?>assets/img/gst.png');">
+      <div class="parallax-inner"
+        style="background-image: url('<?php echo base_url(); ?>assets/img/peoplestrong1.png');">
       </div>
       <div class="fusion-builder-row fusion-row" style="height:100%;align-items: center;
   display: flex;   justify-content: start;">
         <div class="container">
           <div class="">
-            <h1>GST</h1>
+            <h1>PEOPLE STRONG</h1>
 
           </div>
         </div>
@@ -550,7 +603,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <div class="col-md-6 sm-12">
         <h6 class="foot who">ABOUT US</h6>
         <h1 class="foot" style="font-weight:800;">Who we are?</h1>
-        <p>With exceptional professional journey of spanning 32 years, Vinod Singhal & Co LLP has established itself as
+        <p>With exceptional professional journey of spanning 33 years, Vinod Singhal & Co LLP has established itself as
           a premier Chartered Accountancy firm, offering a comprehensive suite of Strategical, Financial, Taxation,
           Auditing, and Advisory services. Our esteemed team, consisting of 34 Partners, a cadre of experienced
           professionals and dedicated hardworking staff, represents the epitome of expertise and commitment.</p>
@@ -586,10 +639,23 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     background-position: center;
     background-size: cover;
   }
+
+  .sp1 li p {
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  .sp1 li img {
+    width: 60px !important;
+  }
+
+  .sp1 li {
+    text-align: center;
+  }
 </style>
 
 <section class="mt-3 p-0" style="background-color:#0D4771;">
-  <div class="container">
+  <div class="" style="max-width: 80%; margin:auto;">
     <div class="row mt-0 justify-content-between">
       <div class="col-md-6 sm-12 h_bb" style="padding: 5% 4%;">
         <h1 class="foot" style="color:#fff;font-weight:700;">Mission</h1>
@@ -686,7 +752,8 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           </div>
           <div class="content-c" style="min-height: 200px;">
             <h4 class="mt-4" style="font-weight: 600;">TAXATION SERVICES</h4>
-            <p>Formulate effective strategies to optimise taxes, implement innovative tax planning strategies and effectivelymanage compliance-related requirements.
+            <p>Formulate effective strategies to optimise taxes, implement innovative tax planning strategies and
+              effectivelymanage compliance-related requirements.
             </p>
           </div>
         </div>
@@ -697,9 +764,10 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             <img src="<?php echo base_url(); ?>assets/img/approval2.png" class="original-image">
             <img src="<?php echo base_url(); ?>assets/img/approval1.png" class="hover-image">
           </div>
-          <div class="content-c"style="min-height: 200px;">
+          <div class="content-c" style="min-height: 200px;">
             <h4 class="mt-4" style="font-weight: 600;">BUSINESS PROCESS OUTSOURCING</h4>
-            <p>Focus is the key & it's only possible when you focus completely on your core competencies and outsource non-core business processes to our experts.
+            <p>Focus is the key & it's only possible when you focus completely on your core competencies and outsource
+              non-core business processes to our experts.
             </p>
           </div>
         </div>
@@ -710,14 +778,15 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             <img src="<?php echo base_url(); ?>assets/img/approval2.png" class="original-image">
             <img src="<?php echo base_url(); ?>assets/img/approval1.png" class="hover-image">
           </div>
-          <div class="content-c"style="min-height: 200px;">
+          <div class="content-c" style="min-height: 200px;">
             <h4 class="mt-4" style="font-weight: 600;">FINANCIAL SERVICES</h4>
             <p>Supporting you in future-proofing your business to become risk resilient and risk ready.
             </p>
           </div>
         </div>
       </div>
-      <div class="col-md-12 mt-5 text-center"> <a href="<?php echo base_url('Service'); ?>" class="view">View More</a></div>
+      <div class="col-md-12 mt-5 text-center"> <a href="<?php echo base_url('Service'); ?>" class="view">View More</a>
+      </div>
     </div>
 
   </div>
@@ -725,40 +794,140 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 
 
 <section style="background-color: #055460;">
-  <div class="container text-white">
+  <div class=" text-white" style="max-width: 80%;margin:auto;">
     <h1 class="mt-4 pb-4 text-center">Industries We Serve</h1>
-    <div class="splide sp1" role="group" aria-label="Splide Basic HTML Example">
+    <div class="splide sp1 mt-5" role="group" aria-label="Splide Basic HTML Example">
       <div class="splide__track">
         <ul class="splide__list">
           <li class="splide__slide">
-          <img src="assets/img/team1.png" alt="">  
-          <p>test</p>
+            <img src="assets/img/icons/agriculture.png" alt="" style="width:90px;">
+            <p>Agriculture</p>
           </li>
           <li class="splide__slide">
-          <img src="assets/img/team1.png" alt="">  
-          <p>test</p>
+            <img src="assets/img/icons/aviation.png" alt="" style="width:90px;">
+            <p>Aviation</p>
           </li>
           <li class="splide__slide">
-          <img src="assets/img/team1.png" alt="">  
-          <p>test</p>
+            <img src="assets/img/icons/banking.png" alt="" style="width:90px;">
+            <p>Banking</p>
           </li>
           <li class="splide__slide">
-          <img src="assets/img/team1.png" alt="">  
-          <p>test</p>
+            <img src="assets/img/icons/beverages.png" alt="" style="width:90px;">
+            <p>Beverages</p>
           </li>
           <li class="splide__slide">
-          <img src="assets/img/team1.png" alt="">  
-          <p>test</p>
+            <img src="assets/img/icons/bpo.png" alt="" style="width:90px;">
+            <p>BPO</p>
           </li>
           <li class="splide__slide">
-          <img src="assets/img/team1.png" alt="">  
-          <p>test</p>
+            <img src="assets/img/icons/coal.png" alt="" style="width:90px;">
+            <p>Coal</p>
           </li>
           <li class="splide__slide">
-          <img src="assets/img/team1.png" alt="">  
-          <p>test</p>
+            <img src="assets/img/icons/contractors.png" alt="" style="width:90px;">
+            <p>Contractors</p>
           </li>
-          
+          <li class="splide__slide">
+            <img src="assets/img/icons/co-operatives.png" alt="" style="width:90px;">
+            <p>Co-operatives</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/dairy.png" alt="" style="width:90px;">
+            <p>Dairy</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/food.png" alt="" style="width:90px;">
+            <p>Food</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/gems.png" alt="" style="width:90px;">
+            <p>Gems and Jewelry</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/government.png" alt="" style="width:90px;">
+            <p>Government</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/highway.png" alt="" style="width:90px;">
+            <p>Highway Authorities</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/hotel.png" alt="" style="width:90px;">
+            <p>Hotel & Tiurism</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/housing.png" alt="" style="width:90px;">
+            <p>Housing</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/import.png" alt="" style="width:90px;">
+            <p>Import/Export</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/it.png" alt="" style="width:90px;">
+            <p>IT</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/institution.png" alt="" style="width:90px;">
+            <p>Institutions</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/insurance.png" alt="" style="width:90px;">
+            <p>Insurance</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/manufacturing.png" alt="" style="width:90px;">
+            <p>Manaufacturing</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/mining.png" alt="" style="width:90px;">
+            <p>Mining</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/ngo.png" alt="" style="width:90px;">
+            <p>NGOs</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/nbfc.png" alt="" style="width:90px;">
+            <p>NBFCs</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/oil.png" alt="" style="width:90px;">
+            <p>Oil & Gas</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/pharmaceuticals.png" alt="" style="width:90px;">
+            <p>Pharmaceuticals</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/power.png" alt="" style="width:90px;">
+            <p>Power & Electricity</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/professional.png" alt="" style="width:90px;">
+            <p>Professionals</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/retail.png" alt="" style="width:90px;">
+            <p>Retail</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/services.png" alt="" style="width:90px;">
+            <p>Service</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/telecommunication.png" alt="" style="width:90px;">
+            <p>Telecommunication</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/textile.png" alt="" style="width:90px;">
+            <p>Textiles</p>
+          </li>
+          <li class="splide__slide">
+            <img src="assets/img/icons/water.png" alt="" style="width:90px;">
+            <p>Water Supplies</p>
+          </li>
+
         </ul>
       </div>
     </div>
@@ -768,7 +937,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 <section>
   <div class="container  pump">
 
-    <h5 class="foot whhh" >OUR</h5>
+    <h5 class="foot whhh">OUR</h5>
     <h1 class="foot text-center" style="font-weight: 800;">Values</h1>
     <p class="text-center">In every decision, we weigh both short-term and long-term risks and benefits. SWOT Analysis
       of our action helps us to understand and enhance our clients overall growth.</p>
@@ -798,8 +967,6 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 
   </div>
 </section>
-
-
 <style>
   /* Popup container */
   .popup {
@@ -928,7 +1095,153 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   .cstm-key-popup .member_profile_left img {
     width: 100%;
   }
+
+  .get-to-know.cstm_bg {
+    background-image: url(https://asaandassociates.co.in/wp-content/uploads/2020/03/get-know.jpg);
+  }
+
+  .get-to-know {
+    padding: 90px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    background-image: url(//asaandassociates.co.in/wp-content/themes/asa/css/../images/get-know.jpg);
+    min-height: 724px;
+    color: #fff;
+    background-attachment: fixed;
+    width: 100%;
+    text-align: center;
+  }
+
+  .getto-now-top {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+  }
+
+  .get-to-know h2 {
+    font-size: 70px;
+    line-height: 70px;
+    font-weight: 800;
+    margin-bottom: 40px;
+  }
+
+  .sprite-know {
+    background: url(//asaandassociates.co.in/wp-content/themes/asa/css/../images/sprite.png) no-repeat;
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    background-position: -23px -5485px;
+    cursor: pointer;
+  }
+
+  .cstm_video_section {
+    padding: 30px 0;
+  }
+
+  .youtabe-mission .modal-dialog {
+    max-width: 100%;
+    height: 100%;
+    margin: auto;
+  }
+
+  .youtabe-mission .modal-content {
+    height: 100%;
+    padding: 10px 60px 10px 10px;
+  }
+
+  .youtbe-section {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 70vh;
+    padding-right: 60px;
+    bottom: 0;
+    margin: auto;
+    right: 0;
+  }
+
+  .youtabe-mission .close {
+    right: 18px;
+    top: 30px;
+  }
+
+  .youtabe-mission .modal-dialog {
+    max-width: 1106px
+  }
+
+  .youtabe-mission .modal-content {
+    border: none;
+    background-color: transparent
+  }
+
+  .youtbe-section iframe {
+    width: 100% !important;
+    height: 100%;
+    border: none;
+  }
+
+  .youtabe-mission .close {
+    position: absolute;
+    top: 10%;
+    right: -340px;
+    opacity: 1;
+    z-index: 999
+  }
+
+  button.close {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none
+  }
+
+  a.close.disabled {
+    pointer-events: none
+  }
+
+  .youtabe-mission .close img {
+    max-width: 20px
+  }
 </style>
+<div class="get-to-know cstm_bg">
+  <div class="container">
+    <div class="getto-now-top">
+      <h2>GET TO KNOW US</h2>
+      <a class="sprite-know" data-toggle="modal" data-target="#exampleModalCenter"></a>
+    </div>
+  </div>
+</div>
+
+<div class="youtabe-mission">
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <img src="https://asaandassociates.co.in/wp-content/themes/asa/images/close.png" alt="img">
+        </button>
+        <div class="youtbe-section" id="youtube_video_section">
+          <video controls style="width: 100%; height: 100%;">
+            <source src="assets/vsc.mp4" type="video/mp4">
+
+          </video>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 
@@ -954,9 +1267,12 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 </section>
 
 
-
-
+<div id="preloader"></div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 <script>
+
   // Get all buttons that open a popup
   var buttons = document.querySelectorAll(".partner");
 
@@ -991,29 +1307,50 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   }
 </script>
 
-<script>
- 
-</script>
 
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
 <script>
-  
 
 
-var splide = new Splide( '.sp', {
-  perPage: 1,
-  rewind : true,
- 
-} );
 
-splide.mount();
+  var splide = new Splide('.sp', {
+    perPage: 1,
+    rewind: true,
 
-var splide = new Splide( '.sp1', {
-  perPage: 5,
-  rewind : true,
- 
-} );
+  });
 
-splide.mount();
+  splide.mount();
+
+  var splide = new Splide('.sp1', {
+    perPage: 7,
+    perMove: 2,
+    rewind: true,
+    autoplay: true,
+    pagination: false, // Hide pagination
+    breakpoints: {
+      768: { // Screen width up to 768px (example for tablets and mobiles)
+        perPage: 3,
+      },
+    },
+  });
+
+  splide.mount();
+</script>
+
+
+<!-- Bootstrap and jQuery scripts -->
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script>
+  $(document).ready(function () {
+    // Show the modal every time the user visits
+    $('#myModal').modal('show');
+
+    // Custom close button functionality
+    $('.modal .close').click(function () {
+      $('#myModal').modal('hide');
+    });
+  });
 </script>

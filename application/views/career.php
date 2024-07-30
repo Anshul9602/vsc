@@ -191,7 +191,7 @@
 
 <section class="top p-0 main_bg">
     <div class="mainimg" style="position: relative;background:black;">
-        <img src="assets/img/news.jpg" alt="" width="100%" style="    opacity: 0.4;">
+        <img src="assets/img/carer.png" alt="" width="100%" style="    opacity: 0.4;">
         <div class="over" style="position: absolute;  top: 50%;left: 50%; transform: translate(-50%, -50%)">
             <h1 class="h0 mt-30 mt-4 mtt"> <span class="orange text-white">Career</span></h1>
         </div>
@@ -258,7 +258,7 @@
                         <div class="col-md-5 mt-3">
                             <h6>Date Of Birth<span class="star">*</span></h6>
                             <input type="text" id="dob" name="dob" class="form-control" required
-                                placeholder="Date of Birth dd-MMM-yyyy" />
+                                placeholder="dd-mm-yyyy" />
                         </div>
                     </div>
                     <div class="row " style="justify-content: space-around;">

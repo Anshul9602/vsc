@@ -59,7 +59,7 @@
 
         <div class="col-md-10 mt-5 mt-lg-0" data-aos="fade-left">
 
-          <form action="artical_mail" method="post" role="form" class="php-email-form"enctype="multipart/form-data">
+          <form action="Artical_mail" method="post" role="form" class="php-email-form"enctype="multipart/form-data">
 
             <div class="btt pb-5">
               <button class="btn btn-primary" style="padding: 10px 20px;background-color: #3a89c9;">Read

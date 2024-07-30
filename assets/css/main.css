@@ -3777,3 +3777,6 @@ a:hover {
   height: 200vh; /* Ensure the circle covers the full height */
   transform: translate(-50%, -50%);
 }
+.margs{
+  margin-bottom:30px;
+}

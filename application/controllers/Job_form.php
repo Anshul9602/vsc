@@ -10,6 +10,13 @@ class Job_form extends CI_Controller
 		if (empty($_POST)) {
 			redirect(base_url());
 		}
+
+// echo "<pre>";
+// 		print_r($_POST);
+// 		print_r($_FILES['img']['name']);
+// 		echo "</pre>";
+// 		die();
+
 		if (!empty($_FILES['img']['name'])) {
 			$config['upload_path'] = 'upload';  // Change this to the actual path on your server
 			$config['allowed_types'] = 'gif|jpg|png|pdf';  // Specify allowed file types

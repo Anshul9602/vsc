@@ -27,6 +27,8 @@
     <link href="<?php echo base_url(); ?>/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
     <!-- Template Main CSS File -->
     <link href="<?php echo base_url(); ?>/assets/css/main.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/ScrollMagic.min.js"></script>
@@ -91,30 +93,22 @@
                                 class="bi bi-chevron-down"></i> </a>
                         <ul>
                             <li> <a href="<?php echo base_url('About_Us');?>">ABOUT US</a> </li>
-                            <li> <a href="<?php echo base_url('About_Us');?>">EXPERT TEAM</a> </li>
+                            <li> <a href="<?php echo base_url('Expert');?>">EXPERT TEAM</a> </li>
                         </ul>
                     </li>
                     <li class="dropdown"><a href="<?php echo base_url('Service'); ?>">SERVICES <i
                                 class="bi bi-chevron-down"></i></a>
                         <ul>
-                            <li><a href="<?php echo base_url('Assurance');?>">ASSURANCE SERVICES</a></li>
-                            <li><a href="<?php echo base_url('Bankruptancy');?>">INSOLVENCY AND BANKRUPTCY
-                                    CONSULTANCY</a></li>
-                            <li><a href="<?php echo base_url('Taxation');?>">TAXATION SERVICES</a></li>
-                            <li><a href="<?php echo base_url('Outsourcing');?>">BUSINESS PROCESS OUTSOURCING</a></li>
-                            <li><a href="<?php echo base_url('Labour');?>">LABOUR LAWS RELATED SERVICES</a></li>
-                            <li><a href="<?php echo base_url('Estate');?>">REAL ESTATE CONSULTANCY RELATED SERVICES
-                                    (RERA)</a></li>
-                            <li><a href="<?php echo base_url('Company');?>">COMPANY LAW MATTERS</a></li>
-                            <li><a href="<?php echo base_url('Secretarial');?>">SECRETARIAL SERVICES</a></li>
-                            <li><a href="<?php echo base_url('Finance');?>">FINANCIAL SERVICES</a></li>
+                            <li><a href="<?php echo base_url('Service'); ?>#ADVISORY_PROTFOLIO">ADVISORY PROTFOLIO</a></li>
+                            <li><a href="<?php echo base_url('Service'); ?>#COMPLIANCE_PROTFOLIO">COMPLIANCE PROTFOLIO</a></li>
+                           
                         </ul>
                     </li>
 
-                    <li><a href="<?php echo base_url('Network'); ?>">NETWORK</a></li>
                     <li><a href="<?php echo base_url('Gallery'); ?>">GALLERY</a></li>
                     <li><a href="<?php echo base_url('Career'); ?>">CAREER</a></li>
                     <li><a href="<?php echo base_url('Grievanace'); ?>">GRIEVANCE</a></li>
+                    <li><a href="<?php echo base_url('Network'); ?>">BRANCHES</a></li>
                     <li><a href="<?php echo base_url('Contact'); ?>" class="contact"
                             style="color:#000;background:#fff;">CONTACT</a></li>
               

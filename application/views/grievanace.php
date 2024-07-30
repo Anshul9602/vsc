@@ -39,15 +39,15 @@
     }
 </style>
 <div class="mainimg" style="position: relative;background:black;">
-    <img src="assets/img/news.jpg" alt="" width="100%" style="    opacity: 0.4;">
+    <img src="assets/img/grievence.png" alt="" width="100%" style="    opacity: 0.4;">
     <div class="over" style="position: absolute;  top: 50%;left: 50%; transform: translate(-50%, -50%)">
-        <h1 class="h0 mt-30 mt-4 mtt"> <span class="orange text-white">Grievanace</span></h1>
+        <h1 class="h0 mt-30 mt-4 mtt"> <span class="orange text-white">Grievance</span></h1>
     </div>
 </div>
 <section>
     <div class="container">
 
-        <h1 class="text-center">Grievanace</h1>
+        
         <div class="row mt-4 justify-content-center">
             <p class="col-md-8 text-center" style="">Welcome to our grievance page. Please share your concerns and
                 feedback for Founder Partner CA Vinod Kumar Singhal here. Your grievances will be handled confidentially
