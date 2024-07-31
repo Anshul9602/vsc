@@ -80,12 +80,13 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 
   .text-overlay h1 {
     margin: 0;
-    font-size: 6em;
+    font-size: 4em;
+    text-transform: uppercase;
   }
 
   .text-overlay h3 {
     margin: 0;
-    font-size: 1.5em;
+    font-size: 2em;
     line-height: 1.2;
     letter-spacing: 2px;
     line-height: 36px;
@@ -186,7 +187,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 
     .text-overlay h1 {
       margin: 0;
-      font-size: 3em;
+      font-size: 2em;
     }
 
     .desk {
@@ -356,11 +357,17 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     justify-content: center;
     align-items: center;
   }
+  .mmd1{
+    top : 55% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+
+  }
 </style>
 
 
 <!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade mmd1" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
@@ -612,7 +619,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           and cutting-edge technology, ensuring seamless support for the diverse needs of our esteemed clients. </p>
       </div>
       <div class="col-md-5 sm-12 pump">
-        <img src="<?php echo base_url(); ?>assets/img/about2.png" width="100%">
+        <img src="<?php echo base_url(); ?>assets/img/about21.png" width="100%">
       </div>
     </div>
   </div>
@@ -793,7 +800,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 </section>
 
 
-<section style="background-color: #055460;">
+<section style="background-color: #0D4771;">
   <div class=" text-white" style="max-width: 80%;margin:auto;">
     <h1 class="mt-4 pb-4 text-center">Industries We Serve</h1>
     <div class="splide sp1 mt-5" role="group" aria-label="Splide Basic HTML Example">
