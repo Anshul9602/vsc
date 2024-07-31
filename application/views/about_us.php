@@ -284,11 +284,11 @@
                 Straightforward, consensual and dynamic approach summarises our Work Process
               </p>
               <ul class="row" style="color:#fff;">
-                <li class="col-md-6 col-6 mt-3">Finalising Scope Of Work</li>
-                <li class="col-md-6 col-6 mt-3">Charting Timelines, Approach And Team</li>
-                <li class="col-md-6 col-6 mt-3">Work Execution – Based On Applicable Legal Guidelines</li>
-                <li class="col-md-6 col-6 mt-3">Interim Discussions</li>
-                <li class="col-md-6 col-6 mt-3">Presentation Of Final Report</li>
+                <li class="col-md-6 col-6 mt-3"> • &nbsp; Finalising Scope Of Work</li>
+                <li class="col-md-6 col-6 mt-3"> • &nbsp; Charting Timelines, Approach And Team</li>
+                <li class="col-md-6 col-6 mt-3"> • &nbsp; Work Execution – Based On Applicable Legal Guidelines</li>
+                <li class="col-md-6 col-6 mt-3"> • &nbsp; Interim Discussions</li>
+                <li class="col-md-6 col-6 mt-3"> • &nbsp; Presentation Of Final Report</li>
               </ul>
             </div>
           </div>

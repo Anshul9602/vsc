@@ -166,23 +166,10 @@
             <p style="height: 2px;width:10%;background:#fff;"></p>
             <div class="contiontt">
               <p style="color: #fff;max-width:50%;line-height:1.9">
-
-                Recognizing the need for flexibility, certainty of closing,
-                speed of execution, and creative deal
-                structuring among entrepreneurial borrowers, Vinod Singhal &
-                Company launched its bridge lending
-                platform in 2009. Over the years, we have expanded and refined
-                our offerings, creating a comprehensive
-                lending platform that now provides financing solutions across 17
-                states (CA, AZ, TX, OR, CO, ID, UT, WA,
-                TN, NC, GA, PA, MA, MD, VA, IL, FL) and the District of
-                Columbia. Our lending portfolio includes various
-                product classes such as retail, office, multi-family,
-                industrial, mixed-use, non-owner occupied
-                single-family residences (SFRs), and urban infill land.
+              Vinod Singhal & Co. LLP, with more than three decades of experience, delivers expert financial controls and performance reporting. Serving PSUs, banks, and private sectors, we are empanelled with major regulatory bodies, ensuring comprehensive, top-tier solutions across India.
               </p>
               <br>
-              <a href class="contact mt-5">Lending Criteria</a>
+             
             </div>
           </div>
         </div>

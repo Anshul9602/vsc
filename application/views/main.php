@@ -390,9 +390,9 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           <div class="video-overlay" style="position: relative;">
             <img src="<?php echo base_url(); ?>assets/img/mainban.png" alt="" style="width: 100%;">
             <div class="text-overlay">
-              <h1 style="font-weight:400;">EXPERT SERVICES</h1>
-              <p class="foot">Time bound quality solutions in tune with advance & evolving technologies.</p>
-              <a href="#" class="ban" style="padding:10px 30px;">Here's what we offer</a>
+              <h1 style="font-weight:400;">Unparalleled Auditing & Assurance Services</h1>
+              <p class="foot">With three decades of expertise, we ensure your financial integrity and compliance with precision and diligence.</p>
+              <a href="#" class="ban" style="padding:10px 30px;">Discover Our Auditing Excellence</a>
             </div>
           </div>
         </li>
@@ -400,9 +400,9 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           <div class="video-overlay" style="position: relative;">
             <img src="<?php echo base_url(); ?>assets/img/mainban2.png" alt="" style="width: 100%;">
             <div class="text-overlay">
-              <h1 style="font-weight:400;">EXPERT SERVICES</h1>
-              <p class="foot">Time bound quality solutions in tune with advance & evolving technologies.</p>
-              <a href="#" class="ban" style="padding:10px 30px;">Here's what we offer</a>
+              <h1 style="font-weight:400;">Expert Tax & Regulatory Services</h1>
+              <p class="foot">Navigating complex tax landscapes and regulatory frameworks with expert guidance and strategic solutions.</p>
+              <a href="#" class="ban" style="padding:10px 30px;">Optimize Your Tax Strategy</a>
             </div>
           </div>
         </li>
@@ -410,9 +410,9 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           <div class="video-overlay" style="position: relative;">
             <img src="<?php echo base_url(); ?>assets/img/banner.png" alt="" style="width: 100%;">
             <div class="text-overlay">
-              <h1 style="font-weight:400;">EXPERT SERVICES</h1>
-              <p class="foot">Time bound quality solutions in tune with advance & evolving technologies.</p>
-              <a href="#" class="ban" style="padding:10px 30px;">Here's what we offer</a>
+              <h1 style="font-weight:400;">Comprehensive Financial Services</h1>
+              <p class="foot">Empowering businesses with robust financial controls, performance reporting, and strategic financial management.</p>
+              <a href="#" class="ban" style="padding:10px 30px;">Explore Our Financial Solutions</a>
             </div>
           </div>
         </li>
