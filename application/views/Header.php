@@ -37,12 +37,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.5/plugins/animation.gsap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/ScrollMagic.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/ScrollMagic/2.0.8/plugins/debug.addIndicators.min.js"></script>
-    <!-- =======================================================
-  * Template Name: Impact - v1.2.0
-  * Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+   
     <style>
         ul,
         ol {
@@ -87,7 +82,7 @@
             <nav id="navbar" class="navbar col-md-9 ">
                 <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
 
-                <ul style="width: 100%;     justify-content: space-around;">
+                <ul style="width: 100%; justify-content: space-around;">
                     <li><a href="<?php echo base_url(); ?>">HOME</a></li>
                     <li class="dropdown"><a href="<?php echo base_url('About_Us'); ?>">ABOUT <i
                                 class="bi bi-chevron-down"></i> </a>

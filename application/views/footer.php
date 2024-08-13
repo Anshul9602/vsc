@@ -84,7 +84,7 @@ color: #4494D4;
                 <div class="col-md-4  mb-3 mt-3" style="color:white;">
                     <h5 class="">VINOD SINGHAL & CO. LLP</h5>
                     <p class="str" style="height:2px; width:130px;background:#4494D4;"></p>
-                    <p style="max-width: 80%;">VINOD SINGHAL & CO. LLP is a LLP firm based in Rajasthan providing the Audit and Assurance Services pan-India.</p>
+                    <p style="max-width: 80%;">VINOD SINGHAL & CO. LLP is a LLP firm based in Rajasthan providing the Audit and Assurance Services pan-Bharat.</p>
                 
                 </div>
                 <div class=" row col-md-8 mt-md-3 mb-md-3 mb-0 mt-0">
@@ -112,10 +112,9 @@ color: #4494D4;
                             <p class="str"style="height:2px; width:80px;background:#4494D4;"></p>
                         </div>
                         <div class="col-footer d-flex">
-                            <a style="margin-right: 10px;" href="<?php echo base_url('#'); ?>" class="footer-links mt-16 pr-2"> <i class="bi bi-facebook"style="border:1px solid white;padding:5px;"></i> </a>
-                            <a style="margin-right: 10px;" href="<?php echo base_url('#'); ?>" class="footer-links mt-16"><i class="bi bi-twitter"style="border:1px solid white;padding:5px;"></i></a>
-                            <a style="margin-right: 10px;" href="<?php echo base_url('#'); ?>" class="footer-links mt-16"><i class="bi bi-skype"style="border:1px solid white;padding:5px;"></i></a>
-
+                            <a style="margin-right: 10px;" href="https://www.linkedin.com/company/vinod-singhal-co-chartered-accountants" class="footer-links mt-16 pr-2"> <i class="bi bi-linkedin"style="border:1px solid white;padding:5px;"></i> </a>
+                            <a style="margin-right: 10px;" href="<?php echo base_url('#'); ?>" class="footer-links mt-16"><i class="bi bi-x"style="border:1px solid white;padding:5px;"></i></a>
+                   
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-12 col-12 mt-2  tc">

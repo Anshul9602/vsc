@@ -246,14 +246,14 @@
             <div class="contiontt">
               <p style="color: #fff;max-width:80%;line-height:1.7">
                 Vinod Singhal & Co. LLP is a premier Chartered Accountants firm established in Jaipur, Rajasthan with
-                PAN India operations. Founded in Year 1991, the firm possesses around three decades experience across
+                PAN Bharat operations. Founded in Year 1991, the firm possesses around three decades experience across
                 industries and public/private sectors. The firm is focused on providing Auditing & Assurance services,
                 Tax & Regulatory Services and Financial Services.
               </p>
               <p style="color: #fff;max-width:80%;line-height:1.7">
                 The firm has expertise in the development and implementation of financial controls and performance
                 reporting across PSUs, Banks and Private Sector Entities. It is empanelled with the Comptroller &
-                Auditor General of India (CAG), Reserve Bank of India (RBI), Telecom Regulatory Authority of India
+                Auditor General of Bharat (CAG), Reserve Bank of Bharat (RBI), Telecom Regulatory Authority of Bharat
                 (TRAI), MUDRA Ltd. almost all public Sector banks for Concurrent, Internal, Stock, Revenue & System
                 Audit and Office of the Registrar, Rajasthan Co-operative Society, Bihar Cooperative Society.
               </p>
@@ -313,7 +313,7 @@
             <p style="height: 2px;width:10%;background:#fff;"></p>
             <div class="contiontt">
               <p style="color: #fff;max-width:80%;line-height:1.7">
-                The firm has a huge network of professionals & experts across India making it possible to provide the
+                The firm has a huge network of professionals & experts across Bharat making it possible to provide the
                 expert services with local assistance. The firm is peer reviewed by ICAI.
               </p>
             </div>
@@ -623,7 +623,7 @@
 						<div class="date d1">2021</div>
 						<i class="icon fa fa-home"></i>
 						<div class="content co1">
-							<h2>The firm took a significant leap by onboarding 13 partners nationwide, resulting in a total of 27 partners and establishing 24 branches across India.</h2>
+							<h2>The firm took a significant leap by onboarding 13 partners nationwide, resulting in a total of 27 partners and establishing 24 branches across Bharat.</h2>
 
 						</div>
 					</div>
@@ -631,7 +631,7 @@
 						<div class="date d1">2023</div>
 						<i class="icon fa fa-home"></i>
 						<div class="content co1">
-							<h2>With offices in nearly every Indian state capital, Vinod Singhal & Co LLP has 30+ partners and 30 branches nationwide, now offering Agro & MSME consultancy services.</h2>
+							<h2>With offices in nearly every Bharatn state capital, Vinod Singhal & Co LLP has 30+ partners and 30 branches nationwide, now offering Agro & MSME consultancy services.</h2>
 
 						</div>
 					</div>

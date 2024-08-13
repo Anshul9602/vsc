@@ -1,4 +1,4 @@
-<link href="<?php echo base_url(); ?><?php echo base_url(); ?>assets/css/mainpage.css" rel="stylesheet">
+<link href="<?php echo base_url(); ?>assets/css/mainpage.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <script src="
 https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js
@@ -80,7 +80,8 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 
   .text-overlay h1 {
     margin: 0;
-    font-size: 4em;
+    font-size: 2.9em;
+    letter-spacing:1px;
     text-transform: uppercase;
   }
 
@@ -363,22 +364,21 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     transform: translate(-50%, -50%) !important;
 
   }
+  .foot{
+  margin-top:20px;
+  font-size:20px;
+  letter-spacing:1px;
+  }
 </style>
 
 
 <!-- Modal -->
 <div class="modal fade mmd1" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel"><br></h5>
-        <!-- <button type="button" class="close" data-dismiss="modal" aria-label="Close"> -->
-        <!-- <span aria-hidden="true">&times;</span> -->
-        <span class="close" aria-hidden="true">&times;</span>
-        </button>
-      </div>
+    <div style="background:none; box-shadow:0px" class="modal-content">
       <div class="modal-body pic">
-        <img src="assets/img/popup.png">
+      <span class="close" style="margin-right:50px" aria-hidden="true">&times;</span>
+        <img src="assets/img/popp.png">
       </div>
     </div>
   </div>
@@ -526,7 +526,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     }
   }
 </style>
-<link href="<?php echo base_url(); ?><?php echo base_url(); ?>assets/css/mainpage.css" rel="stylesheet">
+<link href="<?php echo base_url(); ?>assets/css/mainpage.css" rel="stylesheet">
 
 <section id="content" class="full-width p-0">
   <div class="post-content">
@@ -558,7 +558,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   display: flex;   justify-content: start;">
         <div class="container">
           <div class="">
-            <h1>PAN INDIA PRESENCE</h1>
+            <h1>PAN Bharat PRESENCE</h1>
 
           </div>
         </div>
@@ -614,7 +614,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           a premier Chartered Accountancy firm, offering a comprehensive suite of Strategical, Financial, Taxation,
           Auditing, and Advisory services. Our esteemed team, consisting of 34 Partners, a cadre of experienced
           professionals and dedicated hardworking staff, represents the epitome of expertise and commitment.</p>
-        <p>Vinod Singhal & Co LLP stands as a Bharatiya Firm with an expansive presence across 24 states in India,
+        <p>Vinod Singhal & Co LLP stands as a Bharatiya Firm with an expansive presence across 24 states in Bharat,
           having 32 offices, including our Head Office. Our firm's foundation is fortified by a robust infrastructure
           and cutting-edge technology, ensuring seamless support for the diverse needs of our esteemed clients. </p>
       </div>

@@ -166,7 +166,7 @@
             <p style="height: 2px;width:10%;background:#fff;"></p>
             <div class="contiontt">
               <p style="color: #fff;max-width:50%;line-height:1.9">
-              Vinod Singhal & Co. LLP, with more than three decades of experience, delivers expert financial controls and performance reporting. Serving PSUs, banks, and private sectors, we are empanelled with major regulatory bodies, ensuring comprehensive, top-tier solutions across India.
+              Vinod Singhal & Co. LLP, with more than three decades of experience, delivers expert financial controls and performance reporting. Serving PSUs, banks, and private sectors, we are empanelled with major regulatory bodies, ensuring comprehensive, top-tier solutions across Bharat.
               </p>
               <br>
              
@@ -191,7 +191,7 @@
       <h2>Accounting/ Policy Drafting </h2>
       <hr>
       <div class="imagesec"
-        style="background-image: url('assets/img/assurance.png');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as11.jpg');width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
 
@@ -207,7 +207,7 @@
         <div class="col-md-6">
 
           <p> &#x2022; Advice on various accounting issues including those
-            related to Indian GAAPs, & IFRS</p>
+            related to Bharatn GAAPs, & IFRS</p>
           <p> &#x2022; SOP drafting & implementation</p>
 
         </div>
@@ -222,7 +222,7 @@
       <h2>Agro & MSME </h2>
       <hr>
       <div class="imagesec"
-        style="background-image: url('assets/img/se4.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as22.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -247,7 +247,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se1.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as33.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -274,7 +274,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/company.png');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as44.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -299,7 +299,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se2.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as55.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
 
@@ -326,7 +326,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/company.png');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as66.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -350,7 +350,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se5.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as77.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -374,7 +374,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se9.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as88.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -401,7 +401,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se3.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as99.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -422,7 +422,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se5.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as100.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -448,7 +448,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se5.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/as111.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -482,7 +482,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se8.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/cs11.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -514,7 +514,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se3.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/cs22.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -546,7 +546,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se5.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/cs33.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -610,7 +610,7 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/img/se5.jpg');height:250px;width:80%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="background-image: url('assets/sinner/cs44.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
       </div>
       <br>
@@ -618,7 +618,7 @@
       <div class="row">
         <div class="col-md-6">
 
-          <p> &#x2022; Formation of Indian & Offshore Companies </p>
+          <p> &#x2022; Formation of Bharatn & Offshore Companies </p>
           <p> &#x2022; Maintenance of Statutory records & register </p>
           <p> &#x2022; Assistance in preparation & filing of various forms with
             the registrar</p>
@@ -657,7 +657,7 @@
         <div class="row justify-content-between sses">
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/assurance.png" alt>
+              <img src="assets/sout/as1.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">ACCOUNTING/ POLICY DRAFTING </h5>
@@ -670,7 +670,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/bpo.png" alt>
+              <img src="assets/sout/as2.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">AGRO & MSME </h5>
@@ -682,7 +682,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se7.jpg" alt>
+              <img src="assets/sout/as3.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">CORPORATE CONSULTANCY</h5>
@@ -694,7 +694,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/se8.jpg" alt>
+              <img src="assets/sout/as4.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">CROSS BORDER SERVICES</h5>
@@ -706,7 +706,7 @@
 
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/bankruptcy.png" alt>
+              <img src="assets/sout/bankruptcy.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">INSOLVENCY AND BANKRUPTCY</h5>
@@ -717,7 +717,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/secretarial.png" alt>
+              <img src="assets/sout/as6.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">IT & BLOCKCHAIN SERVICES</h5>
@@ -729,7 +729,7 @@
 
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/labourlaw.png" alt>
+              <img src="assets/sout/as7.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">LABOUR LAWS RELATED SERVICES</h5>
@@ -740,7 +740,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/financial.png" alt>
+              <img src="assets/sout/as8.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">START-UP SOLUTIONS</h5>
@@ -753,7 +753,7 @@
 
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/tax1.png" alt>
+              <img src="assets/sout/as9.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">TAXATION</h5>
@@ -765,7 +765,7 @@
 
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/financial.png" alt>
+              <img src="assets/sout/as10.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">VALUATION SERVICES</h5>
@@ -776,7 +776,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/ser11.jpg" alt>
+              <img src="assets/imgsout/as11.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">OTHER SERVICES</h5>
@@ -793,7 +793,7 @@
         <div class="row justify-content-between sses">
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/assurance.png" alt>
+              <img src="assets/sout/cs1.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">AUDIT & ASSURANCE</h5>
@@ -804,7 +804,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/tax1.png" alt>
+              <img src="assets/sout/cs2.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">Taxation</h5>
@@ -815,7 +815,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/labourlaw.png" alt>
+              <img src="assets/sout/cs3.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">Labour Law</h5>
@@ -826,11 +826,11 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/img/company.png" alt>
+              <img src="assets/sout/cs4.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">Company Law</h5>
-              <p class="mt-3"> Formation of Indian & Offshore Companies</p>
+              <p class="mt-3"> Formation of Bharatn & Offshore Companies</p>
               <button class="btn btn-outline-primary readMoreBtn"
                 data-popup="popup24"> Read More</button>
             </div>

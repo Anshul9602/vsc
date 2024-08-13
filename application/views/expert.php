@@ -594,7 +594,7 @@
           controls, as well as designing robust Internal Control Systems.</p>
 
         <p>His proficiency extends to diverse areas, including due-diligence studies, navigating company law matters,
-          conducting project feasibility studies, and addressing Accounting Matters in accordance with Indian Accounting
+          conducting project feasibility studies, and addressing Accounting Matters in accordance with Bharatn Accounting
           Guidelines.</p>
 
         <p>Among his notable skills is his ability to address critical issues for clients, such as GST matters,
@@ -632,7 +632,7 @@
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
         <p>Sandeep Kumar Agarwal brings a wealth of professional expertise to the table as his extensive experience
-          spans across the landscape of PSU/Govt. Audits, with a notable footprint covering the entirety of India.</p>
+          spans across the landscape of PSU/Govt. Audits, with a notable footprint covering the entirety of Bharat.</p>
 
         <p>Furthermore, Sandeep has established himself as a trusted consultant within the construction sector,
           showcasing a profound understanding of its intricate dynamics. His consultancy services encompass a spectrum
@@ -801,7 +801,7 @@
           conducting internal audits, process/internal control reviews, fraud investigations, information systems audit,
           application audits and the formulation of Standard Operating Procedures (SOPs).</p>
 
-        <p>Her portfolio includes engagements with numerous large Indian and global companies, a testament to her
+        <p>Her portfolio includes engagements with numerous large Bharatn and global companies, a testament to her
           proficiency and versatility in handling diverse audit and advisory responsibilities. </p>
 
         <p>Having previously contributed to the renowned firm PricewaterhouseCoopers (PWC) for 10 years, Richa brings a
@@ -1285,7 +1285,7 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Mohit Mittal, a distinguished Associate Member of The Institute of Chartered Accountants of India (ICAI),
+        <p>Mohit Mittal, a distinguished Associate Member of The Institute of Chartered Accountants of Bharat (ICAI),
           brings a wealth of professional acumen to the fields of Internal Audit and Statutory Audit. </p>
 
         <p>His commitment to excellence is showcased through his extensive experience, navigating the intricacies of
@@ -1741,7 +1741,7 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Yogesh Sarin, a distinguished Associate Member of The Institute of Chartered Accountants of India (ICAI),
+        <p>Yogesh Sarin, a distinguished Associate Member of The Institute of Chartered Accountants of Bharat (ICAI),
           brings a wealth of professional expertise to the spheres of Internal Audit and Statutory Audit. Yogesh's
           substantial experience in Internal Audit and Statutory Audit showcases his dedication to delivering meticulous
           financial scrutiny services.</p>
@@ -1783,7 +1783,7 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Munish, an esteemed Associate Member of The Institute of Chartered Accountants of India (ICAI), brings a
+        <p>Munish, an esteemed Associate Member of The Institute of Chartered Accountants of Bharat (ICAI), brings a
           wealth of professional expertise to the domains of Internal Audit and Statutory Audit. </p>
 
         <p>Munish's substantial experience in Internal Audit and Statutory Audit showcases his dedication to delivering
@@ -1825,7 +1825,7 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Vemula Venkatesh, an esteemed Associate Member of The Institute of Chartered Accountants of India (ICAI),
+        <p>Vemula Venkatesh, an esteemed Associate Member of The Institute of Chartered Accountants of Bharat (ICAI),
           brings a wealth of professional expertise to the domains of Internal Audit and Statutory Audit.</p>
 
         <p>Vemula's substantial experience in Internal Audit and Statutory Audit showcases his dedication to delivering
@@ -2063,7 +2063,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+          <img src="<?php echo base_url(); ?>assets/part/aasani.JPG">
         </figure>
         <h1>ASHISH AMAR SAINI</h1>
         <p><b>Executive Partner - Agro & MSME</b></p>
@@ -2260,7 +2260,7 @@
 
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup40">
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/aasani.JPG" alt="" width="100%">
           <div class="member_txt">
             <h5>ASHISH AMAR SAINI</h5>
             <span>Executive Partner - Agro & MSME</span>
@@ -2405,7 +2405,7 @@
 
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup29">
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/divs.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>DIVYANSH SINGHAL</h5>
             <span>Practice Head - Dehradun</span>
