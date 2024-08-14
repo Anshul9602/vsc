@@ -73,12 +73,12 @@
             <br /><br /><br /><br />
             <h3 style="color:#3177AF">Pan India Presence </h3>
             <p style="text-align:justify">
-                Welcome to our nationwide network! We are proud to have a strong presence across various states in
+                Welcome to our nationwide network! We are proud to have a strong presence across all states in
                 India, ensuring that we are always close to our clients.
                 <br /><br />
-                Explore our map to find our offices and service centers.
+                Explore our map to find our own .
                 <br /><br />
-                <b>Interactive Map:</b> Hover over or click on a state to reveal our locations within that region.
+                <b>Interactive Map:</b>Click on the state to reveal our branches details  within that region.
 
             </p>
         </div>
@@ -1019,6 +1019,7 @@
             const trElement = document.getElementById('INTR');
             const mlElement = document.getElementById('INML');
             const mzElement = document.getElementById('INMZ');
+            const skElement = document.getElementById('INSK');
             const arElement = document.getElementById('INAR'); // Assuming INIA is the ID for the corresponding state
 
             if (asElement) {
@@ -1029,6 +1030,7 @@
                 arElement.setAttribute('fill', '#3a89c9'); // Set fill color to #3a89c9
                 mlElement.setAttribute('fill', '#3a89c9'); // Set fill color to #3a89c9
                 mzElement.setAttribute('fill', '#3a89c9'); // Set fill color to #3a89c9
+                skElement.setAttribute('fill', '#3a89c9'); // Set fill color to #3a89c9
             }
            
 
@@ -1040,6 +1042,7 @@
             var mlActiveElement = document.getElementById('ML');
             var trActiveElement = document.getElementById('TR');
             var arActiveElement = document.getElementById('AR');
+            var skActiveElement = document.getElementById('SK');
 
             if (asActiveElement) {
                 asActiveElement.classList.add('active');
@@ -1049,6 +1052,7 @@
                 trActiveElement.classList.add('active');
                 arActiveElement.classList.add('active');
                 mlActiveElement.classList.add('active');
+                skActiveElement.classList.add('active');
             }
            
         } else {

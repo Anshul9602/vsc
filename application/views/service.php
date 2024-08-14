@@ -147,6 +147,10 @@
     font-size: 18px;
     color: #000;
   }
+
+  .tab-pane h5{
+    text-transform: uppercase;
+  }
 </style>
 
 <link href="<?php echo base_url(); ?>/assets/css/mainpage.css" rel="stylesheet">
@@ -190,9 +194,10 @@
       <span class="close">&times;</span>
       <h2>Accounting/ Policy Drafting </h2>
       <hr>
-      <div class="imagesec"
-        style="background-image: url('assets/sinner/as11.jpg');width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
 
+      <div class="imagesec"
+        style="">
+<img src="assets/sinner/as11.jpg" alt="" width="100%">
       </div>
 
       <br>
@@ -222,7 +227,8 @@
       <h2>Agro & MSME </h2>
       <hr>
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as22.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
+        style="">
+        <img src="assets/sinner/as22.jpg" width="100%" alt="">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -247,8 +253,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as33.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/as33.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -274,8 +280,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as44.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/as44.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -299,8 +305,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as55.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/as55.jpg" alt="" width="100%">
       </div>
 
       <br>
@@ -326,8 +332,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as66.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/as66.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -350,8 +356,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as77.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/as77.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -374,8 +380,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as88.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/as88.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -401,8 +407,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as99.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/as99.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -422,8 +428,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as100.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/as100.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -448,8 +454,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/as111.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/as111.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -482,8 +488,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/cs11.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/cs11.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -514,8 +520,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/cs22.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/cs22.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -546,8 +552,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/cs33.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/cs33.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -610,8 +616,8 @@
       <hr>
 
       <div class="imagesec"
-        style="background-image: url('assets/sinner/cs44.jpg');height:250px;width:100%;margin: auto;background-repeat: no-repeat;background-size: cover;">
-
+        style="">
+<img src="assets/sinner/cs44.jpg" alt="" width="100%">
       </div>
       <br>
       <div class="spaece mt-4"></div>
@@ -776,7 +782,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/imgsout/as11.jpg" alt>
+              <img src="assets/sout/as11.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">OTHER SERVICES</h5>

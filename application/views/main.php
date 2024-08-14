@@ -558,7 +558,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   display: flex;   justify-content: start;">
         <div class="container">
           <div class="">
-            <h1>PAN Bharat PRESENCE</h1>
+            <h1>PAN BHARAT PRESENCE</h1>
 
           </div>
         </div>
@@ -610,11 +610,11 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <div class="col-md-6 sm-12">
         <h6 class="foot who">ABOUT US</h6>
         <h1 class="foot" style="font-weight:800;">Who we are?</h1>
-        <p>With exceptional professional journey of spanning 33 years, Vinod Singhal & Co LLP has established itself as
+        <p style="text-align: justify;">With exceptional professional journey of spanning 33 years, Vinod Singhal & Co LLP has established itself as
           a premier Chartered Accountancy firm, offering a comprehensive suite of Strategical, Financial, Taxation,
           Auditing, and Advisory services. Our esteemed team, consisting of 34 Partners, a cadre of experienced
           professionals and dedicated hardworking staff, represents the epitome of expertise and commitment.</p>
-        <p>Vinod Singhal & Co LLP stands as a Bharatiya Firm with an expansive presence across 24 states in Bharat,
+        <p style="text-align: justify;">Vinod Singhal & Co LLP stands as a Bharatiya Firm with an expansive presence across 24 states in Bharat,
           having 32 offices, including our Head Office. Our firm's foundation is fortified by a robust infrastructure
           and cutting-edge technology, ensuring seamless support for the diverse needs of our esteemed clients. </p>
       </div>
