@@ -666,18 +666,18 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     <div class="row mt-0 justify-content-between">
       <div class="col-md-6 sm-12 h_bb" style="padding: 5% 4%;">
         <h1 class="foot" style="color:#fff;font-weight:700;">Mission</h1>
-        <p class="vision">To establish as prominent Bhartiya firm with global footprints catering strategic & financial
+        <p class="vision"style="text-align: justify;">To establish as prominent Bhartiya firm with global footprints catering strategic & financial
           services with excellence.</p>
-        <p class="vision">To provide reliable, practical, contemporary & transparent global value-added services in
+        <p class="vision"style="text-align: justify;">To provide reliable, practical, contemporary & transparent global value-added services in
           strategic & financial domain as per global best practices that are futuristic & scalable without compromising
           on professional standards and regulatory & legal requirements.</p>
         <div class="hover-overlay" style="background-image: url('<?php echo base_url(); ?>assets/img/bgg.png');"></div>
       </div>
       <div class="col-md-6 sm-12 h_bb" style="padding: 5% 4%;">
         <h1 class="foot" style="color:#fff;font-weight:700;">Vision</h1>
-        <p class="vision">To network competent strategic & financial professionals at all levels (Global, National,
+        <p class="vision"style="text-align: justify;" >To network competent strategic & financial professionals at all levels (Global, National,
           State, Towns) and mentor them with opportunity & support.</p>
-        <p class="vision">To provide standardised, contemporary, scalable, and implementable solutions in strategic &
+        <p class="vision"style="text-align: justify;">To provide standardised, contemporary, scalable, and implementable solutions in strategic &
           financial domain as per global best practices that is contextual based on the scale, sector & industry to
           which the clients business belongs and is within the legal, ethical, and regulatory framework.</p>
         <div class="hover-overlay" style="background-image: url('<?php echo base_url(); ?>assets/img/bgg.png');"></div>

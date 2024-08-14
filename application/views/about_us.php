@@ -244,13 +244,13 @@
             <h1>OUR STORY</h1>
             <p style="height: 2px;width:10%;background:#fff;"></p>
             <div class="contiontt">
-              <p style="color: #fff;max-width:80%;line-height:1.7">
+              <p style="color: #fff;max-width:80%;line-height:1.7;text-align: justify;">
                 Vinod Singhal & Co. LLP is a premier Chartered Accountants firm established in Jaipur, Rajasthan with
                 PAN Bharat operations. Founded in Year 1991, the firm possesses around three decades experience across
                 industries and public/private sectors. The firm is focused on providing Auditing & Assurance services,
                 Tax & Regulatory Services and Financial Services.
               </p>
-              <p style="color: #fff;max-width:80%;line-height:1.7">
+              <p style="color: #fff;max-width:80%;line-height:1.7;text-align: justify;">
                 The firm has expertise in the development and implementation of financial controls and performance
                 reporting across PSUs, Banks and Private Sector Entities. It is empanelled with the Comptroller &
                 Auditor General of Bharat (CAG), Reserve Bank of Bharat (RBI), Telecom Regulatory Authority of Bharat

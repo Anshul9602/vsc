@@ -202,7 +202,7 @@
             <div class="card p-4">
                 <h3>As An Employee</h3>
                 <img src="assets/img/car1.jpg" alt="">
-                <p>Join us as an employee with assigned roles & responsibilities and get remunerated on monthly basis as
+                <p style="text-align: justify;">Join us as an employee with assigned roles & responsibilities and get remunerated on monthly basis as
                     per applicable HR norms. Take up a role befitting your futuristic vision and career aspirations.
                     Advance your skills holistically with guidance of senior mentors, ample practical exposure and
                     consistent team support. Get opportunities to grow with transparent appraisal policies.</p>
@@ -214,7 +214,7 @@
             <div class="card p-4">
                 <h3>As An Article</h3>
                 <img src="assets/img/car1.jpg" alt="">
-                <p>Join us as an article to gain a wholesome training through our nurturing way of practice. We treat
+                <p style="text-align: justify;">Join us as an article to gain a wholesome training through our nurturing way of practice. We treat
                     our articles as futuristic professionals and provide them with the dignity and work experience like
                     a professional. Through rotation of areas of work, weekly training sessions, outing activities and
                     outstation exposure they gain thorough insight to the demands of the Chartered Accountancy

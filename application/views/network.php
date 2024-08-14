@@ -370,7 +370,7 @@
                     <div class="card-body">
                         <h4 class="card-title">Rajasthan</h4>
                         <h5 class="card-subtitle mb-2 text-muted">Jaipur (B.O.)</h5>
-                        <p class="card-text">222, Ganpati Plaza, M I Road, Jaipur-302001</p>
+                        <p class="card-text">207, Ganpati Plaza, M I Road, Jaipur-302001</p>
                         <p class="card-text">CA Hemant Kumar Bansal</p>
                         <p class="card-text"> <i class="fa fa-phone"></i>+91 941 452 0922<br>
                             <i class="fa fa-envelope"></i> hemantbansal@vsc.co.in
@@ -587,28 +587,34 @@
                 </div>
             </div>
             <div class="card mt-3 csr" id="PB">
-                <div class="card-body">
-                    <h4 class="card-title">Punjab</h4>
-                    <h5 class="card-subtitle mb-2 text-muted">Bhatinda</h5>
-                    <p class="card-text">19085, St.No.12, Bibi wala Road, Opp. ICICI Bank,Bhatinda-151001</p>
-                    <p class="card-text">CA Prince Bansal</p>
-                    <p class="card-text"> <i class="fa fa-phone"></i>+91 941 774 9678<br>
-                        <i class="fa fa-envelope"></i> princebansal@vsc.co.in
-                    </p>
-                    <p class="card-text">GSTn : 03AADFV8895M1ZE</p>
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Chandigarh</h4>
+                        <h5 class="card-subtitle mb-2 text-muted">Chandigarh</h5>
+                        <p class="card-text">SCO 285, I Floor, Sector 32D, Near Nirman Theatre, Chandigarh-160032</p>
+                        <p class="card-text">CA Jatinder Bansal</p>
+                        <p class="card-text"> <i class="fa fa-phone"></i>+91 998 866 6349<br>
+                            <i class="fa fa-envelope"></i> jatinderbansal@vsc.co.in
+                        </p>
+                    </div>
                 </div>
+                <div class="card mt-3">
+                    <div class="card-body">
+                        <h4 class="card-title">Punjab</h4>
+                        <h5 class="card-subtitle mb-2 text-muted">Bhatinda</h5>
+                        <p class="card-text">19085, St.No.12, Bibi wala Road, Opp. ICICI Bank,Bhatinda-151001</p>
+                        <p class="card-text">CA Prince Bansal</p>
+                        <p class="card-text"> <i class="fa fa-phone"></i>+91 941 774 9678<br>
+                            <i class="fa fa-envelope"></i> princebansal@vsc.co.in
+                        </p>
+                        <p class="card-text">GSTn : 03AADFV8895M1ZE</p>
+                    </div>
+                </div>
+                
             </div>
 
             <div class="card mt-3 csr" id="CH">
-                <div class="card-body">
-                    <h4 class="card-title">Chandigarh</h4>
-                    <h5 class="card-subtitle mb-2 text-muted">Chandigarh</h5>
-                    <p class="card-text">SCO 285, I Floor, Sector 32D, Near Nirman Theatre, Chandigarh-160032</p>
-                    <p class="card-text">CA Jatinder Bansal</p>
-                    <p class="card-text"> <i class="fa fa-phone"></i>+91 998 866 6349<br>
-                        <i class="fa fa-envelope"></i> jatinderbansal@vsc.co.in
-                    </p>
-                </div>
+               
             </div>
             <div class="card mt-3 csr " id="HP">
                 <div class="card-body">
@@ -978,8 +984,10 @@
         }
         if (e.target.id == 'INPB') {
             var rajElement = document.getElementById('PB');
+            var chElement = document.getElementById('CH');
             if (rajElement) {
                 rajElement.classList.add('active');
+                chElement.classList.add('active');
 
             }
         }
