@@ -26,7 +26,8 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    padding: 6px 12px 50px;
+    min-height: 92px;
+    padding: 6px 12px 10px;
     transition: .4s ease-in-out;
   }
 
@@ -864,7 +865,7 @@
           <img src="<?php echo base_url(); ?>assets/part/pratek.jpg">
         </figure>
         <h1>PRATEEK GOYAL</h1>
-        <p><b>FCA, FCS, Concurrent Audit (ICAI), </b></p>
+        <p><b>FCA, FCS, Concurrent Audit (ICAI), IndAS (ICAI), CSR (ICAI), StartUp (ICAI), Forensic Auditor (ICAI), Public Finance and Government Accounting (ICAI), Anti Money Laundering (ICAI) </b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -1272,7 +1273,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+          <img src="<?php echo base_url(); ?>assets/part/mohitm.jpg">
         </figure>
         <h1>MOHIT MITTAL</h1>
         <p><b>ACA</b></p>
@@ -1728,7 +1729,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+          <img src="<?php echo base_url(); ?>assets/part/yogesh.jpg">
         </figure>
         <h1>YOGESH SARIN</h1>
         <p><b>ACA</b></p>
@@ -1849,8 +1850,6 @@
   </div>
 </div>
 
-
-
 <div id="popup35" class="popup cstm-key-popup">
   <span class="close">&times;</span>
   <div class="popup-content">
@@ -1858,7 +1857,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+          <img src="<?php echo base_url(); ?>assets/part/sha.jpg">
         </figure>
         <h1>SHASHWAT SINGHAL</h1>
         <p><b>AI, Blockchains & Digital Literacy</b></p>
@@ -1899,7 +1898,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+          <img src="<?php echo base_url(); ?>assets/part/Vikram.JPG">
         </figure>
         <h1>VIKRAM SINGH DAGUR</h1>
         <p><b>AI, Blockchains & Digital Literacy</b></p>
@@ -1940,7 +1939,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+          <img src="<?php echo base_url(); ?>assets/part/Prachi.jpg">
         </figure>
         <h1>PRACHI LATH</h1>
         <p><b>Practice Co-Head - Guwahati</b></p>
@@ -2063,7 +2062,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/aasani.JPG">
+          <img src="<?php echo base_url(); ?>assets/part/aasani.jpg">
         </figure>
         <h1>ASHISH AMAR SAINI</h1>
         <p><b>Executive Partner - Agro & MSME</b></p>
@@ -2077,6 +2076,93 @@
         <div class="at-above-post addthis_tool" data-url=""></div>
         <p> ASHISH AMAR SAINI - His commitment to excellence is evident through his extensive experience, navigating the intricacies of
           financial scrutiny practices across diverse sectors.</p>
+
+        <div class="at-below-post addthis_tool" data-url=""></div>
+        <!-- AddThis Share Buttons generic via filter on the_content -->
+      </div>
+      <!-- Right Side -->
+    </div>
+
+  </div>
+</div>
+<div id="popup41" class="popup cstm-key-popup">
+  <span class="close">&times;</span>
+  <div class="popup-content">
+    <div class="member_profile clearfix">
+      <!-- Left Side -->
+      <div class="member_profile_left">
+        <figure>
+          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+        </figure>
+        <h1>RAJAT RAJ</h1>
+        <p><b>Practice Co-Head - Patna</b></p>
+
+        <ul class="social-icons list-inline d-none">
+          <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        </ul>
+      </div>
+     
+      <div class="member_profile_right">
+        <div class="at-above-post addthis_tool" data-url=""></div>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, tempore non beatae quia officia impedit quas rerum, porro repudiandae similique iste ipsa voluptates consequatur rem, fuga doloremque nesciunt eius totam fugiat possimus consectetur deleniti.</p>
+
+        <div class="at-below-post addthis_tool" data-url=""></div>
+        <!-- AddThis Share Buttons generic via filter on the_content -->
+      </div>
+      <!-- Right Side -->
+    </div>
+
+  </div>
+</div>
+<div id="popup42" class="popup cstm-key-popup">
+  <span class="close">&times;</span>
+  <div class="popup-content">
+    <div class="member_profile clearfix">
+      <!-- Left Side -->
+      <div class="member_profile_left">
+        <figure>
+          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+        </figure>
+        <h1>SHIV SHANKAR GUPTA</h1>
+        <p><b>Practice Co-Head - Raipur</b></p>
+
+        <ul class="social-icons list-inline d-none">
+          <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        </ul>
+      </div>
+     
+      <div class="member_profile_right">
+        <div class="at-above-post addthis_tool" data-url=""></div>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, tempore non beatae quia officia impedit quas rerum, porro repudiandae similique iste ipsa voluptates consequatur rem, fuga doloremque nesciunt eius totam fugiat possimus consectetur deleniti.</p>
+
+        <div class="at-below-post addthis_tool" data-url=""></div>
+        <!-- AddThis Share Buttons generic via filter on the_content -->
+      </div>
+      <!-- Right Side -->
+    </div>
+
+  </div>
+</div>
+<div id="popup43" class="popup cstm-key-popup">
+  <span class="close">&times;</span>
+  <div class="popup-content">
+    <div class="member_profile clearfix">
+      <!-- Left Side -->
+      <div class="member_profile_left">
+        <figure>
+          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+        </figure>
+        <h1>ASHISH KUMAR</h1>
+        <p><b>Practice Co-Head - Chandigarh</b></p>
+
+        <ul class="social-icons list-inline d-none">
+          <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        </ul>
+      </div>
+     
+      <div class="member_profile_right">
+        <div class="at-above-post addthis_tool" data-url=""></div>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, tempore non beatae quia officia impedit quas rerum, porro repudiandae similique iste ipsa voluptates consequatur rem, fuga doloremque nesciunt eius totam fugiat possimus consectetur deleniti.</p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
@@ -2157,7 +2243,6 @@
       <h4 class="mb-4 p-0" style="font-weight: 700;">CORE TEAM MEMBERS
 
       </h4>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup3">
           <img src="<?php echo base_url(); ?>assets/part/raj.jpg" alt="" width="100%">
@@ -2167,7 +2252,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup7">
           <img src="<?php echo base_url(); ?>assets/part/shyam.jpg" alt="" width="100%">
@@ -2177,7 +2261,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup5">
           <img src="<?php echo base_url(); ?>assets/part/sunil.jpg" alt="" width="100%">
@@ -2187,7 +2270,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup10">
           <img src="<?php echo base_url(); ?>assets/part/richa.jpg" alt="" width="100%">
@@ -2227,7 +2309,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup15">
           <img src="<?php echo base_url(); ?>assets/part/nandan.jpg" alt="" width="100%">
@@ -2237,7 +2318,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup14">
           <img src="<?php echo base_url(); ?>assets/part/rakesh.jpg" alt="" width="100%">
@@ -2247,7 +2327,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup20">
           <img src="<?php echo base_url(); ?>assets/part/prince.jpg" alt="" width="100%">
@@ -2257,19 +2336,15 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup40">
-          <img src="<?php echo base_url(); ?>assets/part/aasani.JPG" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/aasani.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>ASHISH AMAR SAINI</h5>
             <span>Executive Partner - Agro & MSME</span>
           </div>
         </div>
       </div>
-
-   
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup13">
           <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
@@ -2279,7 +2354,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup19">
           <img src="<?php echo base_url(); ?>assets/part/manoj.jpg" alt="" width="100%">
@@ -2289,7 +2363,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup21">
           <img src="<?php echo base_url(); ?>assets/part/ramesh.jpg" alt="" width="100%">
@@ -2299,7 +2372,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup39">
           <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
@@ -2310,19 +2382,16 @@
           </div>
         </div>
       </div>
-
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup27">
           <img src="<?php echo base_url(); ?>assets/part/jatin.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>JATINDER BANSAL</h5>
-            <span>Practice Head - Chandigarh
+            <span>Practice Co-head - Chandigarh
             </span>
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup25">
           <img src="<?php echo base_url(); ?>assets/part/kaviya.jpg" alt="" width="100%">
@@ -2332,7 +2401,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup31">
           <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
@@ -2342,17 +2410,15 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup22">
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/mohitm.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>MOHIT MITTAL</h5>
             <span>Practice Head - Gurugram</span>
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup28">
           <img src="<?php echo base_url(); ?>assets/part/satya.jpg" alt="" width="100%">
@@ -2362,7 +2428,6 @@
           </div>
         </div>
       </div>
-    
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup38">
           <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
@@ -2372,7 +2437,6 @@
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup24">
           <img src="<?php echo base_url(); ?>assets/part/prag.jpg" alt="" width="100%">
@@ -2382,10 +2446,9 @@
           </div>
         </div>
       </div>
-     
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup32">
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/yogesh.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>YOGESH SARIN</h5>
             <span>Practice Co-Head - Jammu</span>
@@ -2465,10 +2528,37 @@
      
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup37">
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/Prachi.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>PRACHI LATH</h5>
             <span>Practice Co-Head - Guwahati</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup41">
+          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>RAJAT RAJ</h5>
+            <span>Practice Co-Head - Patna</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup42">
+          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>SHIV SHANKAR GUPTA</h5>
+            <span>Practice Co-Head - Raipur</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup43">
+          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>ASHISH KUMAR</h5>
+            <span>Practice Co-Head - Chandigarh</span>
           </div>
         </div>
       </div>
@@ -2479,9 +2569,9 @@
       </h4>
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup35">
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/sha.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>SHASHAWAT SINGHAL</h5>
+            <h5>SHASHWAT SINGHAL</h5>
             <span>AI, Blockchains & Digital Literacy</span>
           </div>
         </div>
@@ -2489,9 +2579,9 @@
 
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup36">
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/Vikram.JPG" alt="" width="100%">
           <div class="member_txt">
-            <h5>VIKRAM SINGH DAGUL</h5>
+            <h5>VIKRAM SINGH DAGUR</h5>
             <span>Legal - Civil</span>
           </div>
         </div>

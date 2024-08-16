@@ -7,6 +7,8 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js
 https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 " rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script
+  src="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-auto-scroll@0.5.3/dist/js/splide-extension-auto-scroll.min.js"> </script>
 
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 <style>
@@ -81,7 +83,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   .text-overlay h1 {
     margin: 0;
     font-size: 2.9em;
-    letter-spacing:1px;
+    letter-spacing: 1px;
     text-transform: uppercase;
   }
 
@@ -358,36 +360,34 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     justify-content: center;
     align-items: center;
   }
-  .mmd1{
-    top : 55% !important;
+
+  .mmd1 {
+    top: 55% !important;
     left: 50% !important;
     transform: translate(-50%, -50%) !important;
 
   }
-  .foot{
-  margin-top:20px;
-  font-size:20px;
-  letter-spacing:1px;
+
+  .foot {
+    margin-top: 20px;
+    font-size: 20px;
+    letter-spacing: 1px;
   }
 </style>
 
 
 <!-- Modal -->
-<div class="modal fade mmd1" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade mmd1" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  aria-hidden="true">
   <div class="modal-dialog" role="document">
     <div style="background:none; box-shadow:0px" class="modal-content">
       <div class="modal-body pic">
-      <span class="close" style="margin-right:50px" aria-hidden="true">&times;</span>
+        <span class="close" style="margin-right:50px" aria-hidden="true">&times;</span>
         <img src="assets/img/popp.png">
       </div>
     </div>
   </div>
 </div>
-
-
-
-
-
 
 <div class="video-section desk">
   <div class="splide sp" aria-label="Splide Basic HTML Example">
@@ -398,8 +398,9 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             <img src="<?php echo base_url(); ?>assets/img/mainban.png" alt="" style="width: 100%;">
             <div class="text-overlay">
               <h1 style="font-weight:400;">Unparalleled Auditing & Assurance Services</h1>
-              <p class="foot">With three decades of expertise, we ensure your financial integrity and compliance with precision and diligence.</p>
-              <a href="#" class="ban" style="padding:10px 30px;">Discover Our Auditing Excellence</a>
+              <p class="foot">With three decades of expertise, we ensure your financial integrity and compliance with
+                precision and diligence.</p>
+              <a href="#" class="ban d-none" style="padding:10px 30px;">Discover Our Auditing Excellence</a>
             </div>
           </div>
         </li>
@@ -408,8 +409,9 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             <img src="<?php echo base_url(); ?>assets/img/mainban2.png" alt="" style="width: 100%;">
             <div class="text-overlay">
               <h1 style="font-weight:400;">Expert Tax & Regulatory Services</h1>
-              <p class="foot">Navigating complex tax landscapes and regulatory frameworks with expert guidance and strategic solutions.</p>
-              <a href="#" class="ban" style="padding:10px 30px;">Optimize Your Tax Strategy</a>
+              <p class="foot">Navigating complex tax landscapes and regulatory frameworks with expert guidance and
+                strategic solutions.</p>
+              <a href="#" class="ban d-none" style="padding:10px 30px;">Optimize Your Tax Strategy</a>
             </div>
           </div>
         </li>
@@ -418,8 +420,9 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             <img src="<?php echo base_url(); ?>assets/img/banner.png" alt="" style="width: 100%;">
             <div class="text-overlay">
               <h1 style="font-weight:400;">Comprehensive Financial Services</h1>
-              <p class="foot">Empowering businesses with robust financial controls, performance reporting, and strategic financial management.</p>
-              <a href="#" class="ban" style="padding:10px 30px;">Explore Our Financial Solutions</a>
+              <p class="foot">Empowering businesses with robust financial controls, performance reporting, and strategic
+                financial management.</p>
+              <a href="#" class="ban d-none" style="padding:10px 30px;">Explore Our Financial Solutions</a>
             </div>
           </div>
         </li>
@@ -610,16 +613,29 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
       <div class="col-md-6 sm-12">
         <h6 class="foot who">ABOUT US</h6>
         <h1 class="foot" style="font-weight:800;">Who we are?</h1>
-        <p style="text-align: justify;">With exceptional professional journey of spanning 33 years, Vinod Singhal & Co LLP has established itself as
-          a premier Chartered Accountancy firm, offering a comprehensive suite of Strategical, Financial, Taxation,
-          Auditing, and Advisory services. Our esteemed team, consisting of 34 Partners, a cadre of experienced
-          professionals and dedicated hardworking staff, represents the epitome of expertise and commitment.</p>
-        <p style="text-align: justify;">Vinod Singhal & Co LLP stands as a Bharatiya Firm with an expansive presence across 24 states in Bharat,
-          having 32 offices, including our Head Office. Our firm's foundation is fortified by a robust infrastructure
-          and cutting-edge technology, ensuring seamless support for the diverse needs of our esteemed clients. </p>
+        <p style="text-align: justify;">With a distinguished legacy spanning over 33 years, Vinod Singhal & Co LLP has
+          firmly established itself as a premier Chartered Accountancy firm, renowned for its comprehensive suite of
+          strategic, financial, taxation, auditing, and advisory services. As a proud Bharatiya firm with an expansive
+          presence across 24 states in Bharat, we operate 32 offices, including our Head Office, strategically
+          positioned to serve a diverse clientele nationwide.</p>
+        <p style="text-align: justify;">Our firm's foundation is fortified by a robust infrastructure and cutting-edge
+          technology, ensuring seamless support for the diverse needs of our esteemed clients. Our strength lies in our
+          team—a formidable collective of more than 40 highly accomplished partners, supported by a cadre of seasoned
+          professionals and a dedicated workforce. Each member of our team is committed to delivering unparalleled
+          service, driven by a deep understanding of industry dynamics and a client-centric approach. </p>
       </div>
       <div class="col-md-5 sm-12 pump">
         <img src="<?php echo base_url(); ?>assets/img/about21.png" width="100%">
+      </div>
+      <div class="col-md-12">
+        <p style="text-align: justify;">At Vinod Singhal & Co LLP, we pride ourselves on our ability to navigate complex
+          financial landscapes, providing insights that empower our clients to make informed decisions and achieve their
+          goals. Our firm’s reputation is built on a foundation of integrity, innovation, and unwavering commitment to
+          excellence, making us a preferred partner for a broad spectrum of clients across India.<br><br>
+
+          More than just a Chartered Accountancy firm, Vinod Singhal & Co LLP embodies a legacy of trust, expertise, and
+          dedication. We continue to evolve, staying ahead of industry trends and embracing cutting-edge solutions to
+          deliver value-driven results, all while maintaining the highest standards of professionalism and service.</p>
       </div>
     </div>
   </div>
@@ -666,18 +682,22 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     <div class="row mt-0 justify-content-between">
       <div class="col-md-6 sm-12 h_bb" style="padding: 5% 4%;">
         <h1 class="foot" style="color:#fff;font-weight:700;">Mission</h1>
-        <p class="vision"style="text-align: justify;">To establish as prominent Bhartiya firm with global footprints catering strategic & financial
+        <p class="vision" style="text-align: justify;">To establish as prominent Bhartiya firm with global footprints
+          catering strategic & financial
           services with excellence.</p>
-        <p class="vision"style="text-align: justify;">To provide reliable, practical, contemporary & transparent global value-added services in
+        <p class="vision" style="text-align: justify;">To provide reliable, practical, contemporary & transparent global
+          value-added services in
           strategic & financial domain as per global best practices that are futuristic & scalable without compromising
           on professional standards and regulatory & legal requirements.</p>
         <div class="hover-overlay" style="background-image: url('<?php echo base_url(); ?>assets/img/bgg.png');"></div>
       </div>
       <div class="col-md-6 sm-12 h_bb" style="padding: 5% 4%;">
         <h1 class="foot" style="color:#fff;font-weight:700;">Vision</h1>
-        <p class="vision"style="text-align: justify;" >To network competent strategic & financial professionals at all levels (Global, National,
+        <p class="vision" style="text-align: justify;">To network competent strategic & financial professionals at all
+          levels (Global, National,
           State, Towns) and mentor them with opportunity & support.</p>
-        <p class="vision"style="text-align: justify;">To provide standardised, contemporary, scalable, and implementable solutions in strategic &
+        <p class="vision" style="text-align: justify;">To provide standardised, contemporary, scalable, and
+          implementable solutions in strategic &
           financial domain as per global best practices that is contextual based on the scale, sector & industry to
           which the clients business belongs and is within the legal, ethical, and regulatory framework.</p>
         <div class="hover-overlay" style="background-image: url('<?php echo base_url(); ?>assets/img/bgg.png');"></div>
@@ -798,7 +818,6 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 
   </div>
 </section>
-
 
 <section style="background-color: #0D4771;">
   <div class=" text-white" style="max-width: 80%;margin:auto;">
@@ -943,10 +962,10 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 
 <section>
   <div class="container  pump">
-
     <h5 class="foot whhh">OUR</h5>
     <h1 class="foot text-center" style="font-weight: 800;">Values</h1>
-    <p class="text-center">In every decision, we weigh both short-term and long-term risks and benefits. SWOT Analysis
+    <p class="text-center">In every decision, we weigh both short-term and long-term risks and benefits. SWOT
+      Analysis<br>
       of our action helps us to understand and enhance our clients overall growth.</p>
 
     <div class="row mt-md-5 mt-3 asds" style="width: 100%;">
@@ -1104,7 +1123,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
   }
 
   .get-to-know.cstm_bg {
-    background-image: url(https://asaandassociates.co.in/wp-content/uploads/2020/03/get-know.jpg);
+    background-image: url('assets/part/Cover.JPG');
   }
 
   .get-to-know {
@@ -1248,11 +1267,6 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     </div>
   </div>
 </div>
-
-
-
-
-
 <section class="p-0"
   style="background-image: url('<?php echo base_url(); ?>assets/img/con1.png');    background-size: cover;">
   <div class="container " style="padding: 5% 0;">
@@ -1318,22 +1332,19 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
 <script>
-
-
-
   var splide = new Splide('.sp', {
     perPage: 1,
     rewind: true,
-
   });
-
   splide.mount();
 
   var splide = new Splide('.sp1', {
     perPage: 7,
-    perMove: 2,
+    type: 'loop',
+    drag: 'free',
+    focus: 'center',
     rewind: true,
-    autoplay: true,
+autoplay: true,
     pagination: false, // Hide pagination
     breakpoints: {
       768: { // Screen width up to 768px (example for tablets and mobiles)
@@ -1342,7 +1353,9 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     },
   });
 
-  splide.mount();
+  splide.mount(window.splide.Extensions);
+
+
 </script>
 
 
