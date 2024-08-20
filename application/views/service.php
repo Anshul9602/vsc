@@ -209,7 +209,7 @@
 
 
           <p> &#x2022; Advice on various accounting issues including those
-            related to Bharatn GAAPs, & IFRS</p>
+            related to Indian GAAPs, & IFRS</p>
           <p> &#x2022; SOP drafting & implementation</p>
 
 
@@ -287,7 +287,7 @@
       <hr>
       <div class="row align-items-center">
         <div class="col-md-5 mt-3">
-          <img src="assets/sout/bankruptcy.jpg" width="100%" alt="">
+          <img src="assets/sout/inss.jpg" width="100%" alt="">
         </div>
         <div class="col-md-7 mt-3">
           <p>&#x2022;Asset Tracing and Investigation Services</p>
@@ -362,7 +362,7 @@
       <hr>
       <div class="row align-items-center">
         <div class="col-md-5 mt-3">
-          <img src="assets/sout/tax1.jpg" width="100%" alt="">
+          <img src="assets/sout/taxad.jpg" width="100%" alt="">
         </div>
         <div class="col-md-7 mt-3">
           <p> &#x2022; International and Domestic Tax Planning</p>
@@ -464,7 +464,7 @@
       <hr>
       <div class="row align-items-center">
         <div class="col-md-5 mt-3">
-          <img src="assets/sout/tax2.jpg" width="100%" alt="">
+          <img src="assets/sout/taxc.jpg" width="100%" alt="">
         </div>
         <div class="col-md-7 mt-3">
           
@@ -490,6 +490,7 @@
           <img src="assets/sout/lab1.jpg" width="100%" alt="">
         </div>
         <div class="col-md-7 mt-3">
+          <h3 class="mt-4">PF/ESI</h3>
           <p> &#x2022; Registration and Monthly Compliances </p>
           <p> &#x2022; Litigations </p> <p> &#x2022; Soft Audit/ Compliance Audit </p>
           <p> &#x2022; Exempted Trust Audit</p>
@@ -539,10 +540,10 @@
       <hr>
       <div class="row align-items-center">
         <div class="col-md-5 mt-3">
-          <img src="assets/sout/cs4.jpg" width="100%" alt="">
+          <img src="assets/sout/corp.jpg" width="100%" alt="">
         </div>
         <div class="col-md-7 mt-3">
-          <p> &#x2022; Formation of Bharatn & Offshore Companies </p>
+          <p> &#x2022; Formation of Indian & Offshore Companies </p>
           <p> &#x2022; Maintenance of Statutory records & register </p>
           <p> &#x2022; Assistance in preparation & filing of various forms with
             the registrar</p>
@@ -619,7 +620,7 @@
 
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/sout/bankruptcy.jpg" alt>
+              <img src="assets/sout/inss.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">INSOLVENCY AND BANKRUPTCY</h5>
@@ -643,7 +644,7 @@
               <img src="assets/sout/as7.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
-              <h5 style="font-weight: 500;">LABOUR LAWS RELATED SERVICES</h5>
+              <h5 style="font-weight: 500;">LABOUR LAWS </h5>
               <p class="mt-3">PF/ESI Consultancy</p>
               <button class="btn btn-outline-primary readMoreBtn" data-popup="popup7"> Read More</button>
             </div>
@@ -662,7 +663,7 @@
 
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/sout/tax1.jpg" alt>
+              <img src="assets/sout/taxad.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">TAXATION</h5>
@@ -708,7 +709,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/sout/tax2.jpg" alt>
+              <img src="assets/sout/taxc.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">Taxation</h5>
@@ -728,7 +729,7 @@
           </div>
           <div class="col-md-6 text-black row mt-5">
             <div class="col-md-4" style="    align-items: center;display:flex;">
-              <img src="assets/sout/cs4.jpg" alt>
+              <img src="assets/sout/corp.jpg" alt>
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">Company Law</h5>

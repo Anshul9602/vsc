@@ -2496,7 +2496,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <div style="position: relative;" class="partner" data-popup="popup24">
           <img src="<?php echo base_url(); ?>assets/part/prag.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>PARAG KUMAR SHAMBHUBHAI SHEKHADA</h5>
+            <h5>PARAG KUMAR SHEKHADA</h5>
             <span>Practice Head: Surat</span>
           </div>
         </div>
