@@ -1,6 +1,4 @@
 <style>
-
-
   .fusion-builder-row {
     position: relative;
     z-index: 2;
@@ -425,7 +423,8 @@
           <img src="<?php echo base_url(); ?>assets/part/vinod.jpg">
         </figure>
         <h1>VINOD KUMAR SINGHAL</h1>
-        <p><b>Founder Partner</b></p>
+        <p><b>FCA, M.Com, LLB, Insurance & Risk Management (ICAI), Forensic Audit (ICAI), CGST (ICAI), StartUp
+            (ICAI)</b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -435,17 +434,13 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Vinod Kumar Singhal, Founder Partner of VSC & Co. LLP has 30+ years standing in the financial fraternity. He
-          excels in discerning client requirements and translating them into successful outcomes.</p>
-        <p>He is strategist who consults organizations and professionals on planning, positive leadership, coordination,
-          seamless execution, and monitoring. His non-traditional approach towards his profession has resulted in growth
-          of the firm in terms of people, services, and network. He believes in stabilizing and scaling the prospects to
-          best possible outcome.</p>
-        <p>Demonstrating mastery in matters related to Business Process Outsourcing, he has played a pivotal role in
-          diversifying the firm's service portfolio beyond traditional audit and taxation to numerous value-added
-          services. As a pioneering entrepreneur and an informed investor, he believes in encouraging professionals
-          through the VSC network into entrepreneurship development. He supports them through resources and insightful
-          guidance.</p>
+        <p>Vinod Kumar Singhal, Founder Partner of VSC & Co. LLP has 30+ years standing in the financial fraternity. He excels in discerning client requirements and translating them into successful outcomes. He is strategist who consults organizations and professionals on planning, positive leadership, coordination, seamless execution, and monitoring.<br><br> His non-traditional approach towards his profession has resulted in growth of the firm in terms of people, services, and network. He believes in stabilizing and scaling the prospects to best possible outcome. Demonstrating mastery in matters related to Business Process Outsourcing, he has played a pivotal role in diversifying the firm's service portfolio beyond traditional audit and taxation to numerous value-added services. <br><br>As a pioneering entrepreneur and an informed investor, he believes in encouraging professionals through the VSC network into entrepreneurship development. He supports them through resources and insightful guidance. His visionary thoughts have led VSC & Co. LLP to establish itself as a Bhartiya firm with a global perspective. The firm has established itself as a pan India firm under his effective & encouraging leadership and positive guidance. He believes in creating long-term relations with clients and employees alike. To achieve this, he has given ‘Quality and Value addition with integrity’ as a mantra to be followed pervasively by the firm.
+
+<br><br>
+          Since over two decades, Vinod has obtained rich experience in almost every field, such as- Taxation Laws, Company Law, Auditing, Corporate Finance liaison, Non-Residents Exchange control regulations services relating to setting up of liaison/project office in India, etc. He handles various issues with equal ease but his core expertise lies in Financial & Industrial Consultancy. His core area of work is related to Industrial Consultancy, such as set up of new business ventures, SEZ related work, food processing units, cold storages etc. He has also mastered the art of handling matters related to Business Process Outsourcing.
+          <br><br>
+          
+          Besides, he has been a catalyst in expanding the portfolio of the firm’s services from the traditional audit and taxation to a range of services like representative office, consultancy for start up ventures of Non resident Indians in India, project finance etc.</p>
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
       </div>
@@ -485,6 +480,8 @@
           His vision has transformed the entire practice into a platform for quality-driven service in the industry.
           Demonstrating leadership qualities, he has been at the forefront of articulating the group's philosophy and
           values, emphasizing a team-building approach.</p>
+          <p>
+As a seasoned professional, Hemant brings a wealth of knowledge and experience to the table, ensuring that clients receive top-notch services tailored to their unique needs. His dedication to maintaining the highest standards of professionalism and fostering a collaborative team environment result in delivering quality & timely assignments.</p>
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
       </div>
@@ -595,7 +592,8 @@
           controls, as well as designing robust Internal Control Systems.</p>
 
         <p>His proficiency extends to diverse areas, including due-diligence studies, navigating company law matters,
-          conducting project feasibility studies, and addressing Accounting Matters in accordance with Bharatn Accounting
+          conducting project feasibility studies, and addressing Accounting Matters in accordance with Bharatn
+          Accounting
           Guidelines.</p>
 
         <p>Among his notable skills is his ability to address critical issues for clients, such as GST matters,
@@ -726,6 +724,7 @@
 
         <p>Her profound understanding of these specialized audit domains positions her as a subject matter expert,
           making her an invaluable asset to clients seeking meticulous and comprehensive audit services.</p>
+          <p>As the head of our Delhi branch, Shivani continues to exemplify a commitment to excellence, high ethical standards, and a results-oriented approach. Her leadership not only strengthens the position of VSC in the market but also reflects her unwavering dedication to providing top-tier audit services across diverse sectors and geographies.</p>
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
       </div>
@@ -865,7 +864,8 @@
           <img src="<?php echo base_url(); ?>assets/part/pratek.jpg">
         </figure>
         <h1>PRATEEK GOYAL</h1>
-        <p><b>FCA, FCS, Concurrent Audit (ICAI), IndAS (ICAI), CSR (ICAI), StartUp (ICAI), Forensic Auditor (ICAI), Public Finance and Government Accounting (ICAI), Anti Money Laundering (ICAI) </b></p>
+        <p><b>FCA, FCS, Concurrent Audit (ICAI), IndAS (ICAI), CSR (ICAI), StartUp (ICAI), Forensic Auditor (ICAI),
+            Public Finance and Government Accounting (ICAI), Anti Money Laundering (ICAI) </b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -1370,11 +1370,16 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Mohit Badani possesses professional expertise to the intricate domains of Audit, including Banking, Corporate, and Internal Audits.</p>
+        <p>Mohit Badani possesses professional expertise to the intricate domains of Audit, including Banking,
+          Corporate, and Internal Audits.</p>
 
-        <p>His robust experience underscores a commitment to excellence in financial scrutiny practices across various sectors. His proficiency in navigating the complexities of audits within the banking and corporate sectors reflects his commitment to upholding the highest standards of financial accountability and regulatory compliance.</p>
+        <p>His robust experience underscores a commitment to excellence in financial scrutiny practices across various
+          sectors. His proficiency in navigating the complexities of audits within the banking and corporate sectors
+          reflects his commitment to upholding the highest standards of financial accountability and regulatory
+          compliance.</p>
 
-        <p>In addition to his role as in-charge of our Lucknow branch, Mohit holds the esteemed position of Joint Secretary in the Lucknow Club of the Institute of Internal Auditors (Delhi Chapter). </p>
+        <p>In addition to his role as in-charge of our Lucknow branch, Mohit holds the esteemed position of Joint
+          Secretary in the Lucknow Club of the Institute of Internal Auditors (Delhi Chapter). </p>
 
 
 
@@ -1688,7 +1693,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+          <img src="<?php echo base_url(); ?>assets/part/akhil.jpg">
         </figure>
         <h1>AKHIL RAJ</h1>
         <p><b>ACA</b></p>
@@ -1771,7 +1776,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/munish.jpg">
+          <img src="<?php echo base_url(); ?>assets/part/munishs.JPG">
         </figure>
         <h1>MUNISH SHARMA</h1>
         <p><b>ACA</b></p>
@@ -1870,18 +1875,19 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore dolore et veniam ducimus illo iusto deserunt corrupti ut reiciendis!
-           Laborum maiores adipisci aperiam, nam aliquam blanditiis inventore facilis temporibus quis dignissimos aspernatur corporis obcaecati!.</p>
+        <p>Shashwat Singhal brings 7-8 years of experience across multiple digital frontiers, including Artificial
+          Intelligence, blockchain technology, and other emerging digital tools. A UCLA alum and an accomplished
+          entrepreneur, Shashwat has successfully built an AI music startup and provided strategic consulting to
+          businesses on leveraging these technologies to drive innovation and efficiency.</p>
+        <p>
+          At Vinod Singhal & Co. LLP, Shashwat leads the integration of cutting-edge technologies into audit processes,
+          focusing on the development of automation tools that enhance operational efficiency. His expertise extends
+          beyond AI, encompassing blockchain auditing and fraud detection, where he applies his knowledge to create
+          advanced solutions that address the evolving needs of the financial and audit industries. Shashwat’s role is
+          critical in positioning the firm at the forefront of technological advancements, ensuring that it remains a
+          leader in adopting and implementing new digital strategies.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet voluptas sed quas itaque earum dolor vitae voluptatum animi
-           non placeat consectetur architecto maiores necessitatibus quam, dicta illum officia illo adipisci consequuntur amet reprehenderit nihil
-            optio. Rerum tempore magni modi veritatis dolorum, corporis quo enim?</p>
 
-        <p>His commitment to excellence is evident through his extensive experience, navigating the intricacies of
-          financial scrutiny practices across diverse sectors.</p>
-
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odio libero distinctio rem iste sit explicabo omnis tenetur, 
-          reprehenderit ab cupiditate neque! Voluptatibus quos, at id tempore dolore nisi quisquam.</p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
@@ -1898,7 +1904,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/Vikram.JPG">
+          <img src="<?php echo base_url(); ?>assets/part/Vikram1.jpg">
         </figure>
         <h1>VIKRAM SINGH DAGUR</h1>
         <p><b>AI, Blockchains & Digital Literacy</b></p>
@@ -1911,18 +1917,25 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p> VIKRAM SINGH Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore dolore et veniam ducimus illo iusto deserunt corrupti ut reiciendis!
-           Laborum maiores adipisci aperiam, nam aliquam blanditiis inventore facilis temporibus quis dignissimos aspernatur corporis obcaecati!.</p>
-
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet voluptas sed quas itaque earum dolor vitae voluptatum animi
-           non placeat consectetur architecto maiores necessitatibus quam, dicta illum officia illo adipisci consequuntur amet reprehenderit nihil
-            optio. Rerum tempore magni modi veritatis dolorum, corporis quo enim?</p>
-
-        <p>His commitment to excellence is evident through his extensive experience, navigating the intricacies of
-          financial scrutiny practices across diverse sectors.</p>
-
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odio libero distinctio rem iste sit explicabo omnis tenetur, 
-          reprehenderit ab cupiditate neque! Voluptatibus quos, at id tempore dolore nisi quisquam.</p>
+        <p>Vikram is a distinguished law graduate with a Diploma in Labour Laws from the University of Rajasthan and a
+          Bachelor's degree in Arts. He brings a wealth of expertise in Motor Vehicle & Insurance Laws, Trade Marks Act,
+          Stamp Act, Labour Laws, Insurance, and Land Acquisition. Over the years, Vikram has successfully served
+          numerous clients across these fields.</p>
+        <p>
+          Vikram also specializes in the Right to Information Act, assisting clients in obtaining crucial information
+          from authorities at various levels. His sharp skills in legal interpretation and exceptional drafting
+          abilities make him a valuable asset in litigation. His experience includes working as an Investigation
+          Officer, where he managed various types of insurance claim investigations, including Life, Motor OD, Theft,
+          MACT, and WC Claims, while maintaining strong liaison with government and administrative authorities.</p>
+        <p>
+          In addition, Vikram has extensive experience in handling taxation-related issues and frequently appears as
+          Counsel before the Hon’ble High Court of Rajasthan at the Jaipur bench, as well as the District and Sessions
+          Courts in Jaipur, representing clients in both civil and criminal cases. He has had the privilege of assisting
+          Mr. Bharat Vyas, former Additional Advocate General for the Government of Rajasthan.</p>
+        <p>
+          Vikram’s expertise extends to the preparation and drafting of all kinds of legal documents, with a particular
+          focus on Banking laws, especially the SARFAESI Act, and the preparation of due diligence reports on property.
+        </p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
@@ -1952,17 +1965,22 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p> PRACHI LATH Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore dolore et veniam ducimus illo iusto deserunt corrupti ut reiciendis!
-           Laborum maiores adipisci aperiam, nam aliquam blanditiis inventore facilis temporibus quis dignissimos aspernatur corporis obcaecati!.</p>
+        <p> PRACHI LATH Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore dolore et veniam ducimus illo
+          iusto deserunt corrupti ut reiciendis!
+          Laborum maiores adipisci aperiam, nam aliquam blanditiis inventore facilis temporibus quis dignissimos
+          aspernatur corporis obcaecati!.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet voluptas sed quas itaque earum dolor vitae voluptatum animi
-           non placeat consectetur architecto maiores necessitatibus quam, dicta illum officia illo adipisci consequuntur amet reprehenderit nihil
-            optio. Rerum tempore magni modi veritatis dolorum, corporis quo enim?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet voluptas sed quas itaque earum dolor
+          vitae voluptatum animi
+          non placeat consectetur architecto maiores necessitatibus quam, dicta illum officia illo adipisci consequuntur
+          amet reprehenderit nihil
+          optio. Rerum tempore magni modi veritatis dolorum, corporis quo enim?</p>
 
         <p>His commitment to excellence is evident through his extensive experience, navigating the intricacies of
           financial scrutiny practices across diverse sectors.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odio libero distinctio rem iste sit explicabo omnis tenetur, 
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odio libero distinctio rem iste sit
+          explicabo omnis tenetur,
           reprehenderit ab cupiditate neque! Voluptatibus quos, at id tempore dolore nisi quisquam.</p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
@@ -1980,7 +1998,7 @@
       <!-- Left Side -->
       <div class="member_profile_left">
         <figure>
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg">
+          <img src="<?php echo base_url(); ?>assets/part/rohitr.jpg">
         </figure>
         <h1>ROHIT DARYANI</h1>
         <p><b>Practice Head - Ajmer</b></p>
@@ -1993,17 +2011,22 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p> ROHIT DARYANI Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore dolore et veniam ducimus illo iusto deserunt corrupti ut reiciendis!
-           Laborum maiores adipisci aperiam, nam aliquam blanditiis inventore facilis temporibus quis dignissimos aspernatur corporis obcaecati!.</p>
+        <p> ROHIT DARYANI Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore dolore et veniam ducimus illo
+          iusto deserunt corrupti ut reiciendis!
+          Laborum maiores adipisci aperiam, nam aliquam blanditiis inventore facilis temporibus quis dignissimos
+          aspernatur corporis obcaecati!.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet voluptas sed quas itaque earum dolor vitae voluptatum animi
-           non placeat consectetur architecto maiores necessitatibus quam, dicta illum officia illo adipisci consequuntur amet reprehenderit nihil
-            optio. Rerum tempore magni modi veritatis dolorum, corporis quo enim?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet voluptas sed quas itaque earum dolor
+          vitae voluptatum animi
+          non placeat consectetur architecto maiores necessitatibus quam, dicta illum officia illo adipisci consequuntur
+          amet reprehenderit nihil
+          optio. Rerum tempore magni modi veritatis dolorum, corporis quo enim?</p>
 
         <p>His commitment to excellence is evident through his extensive experience, navigating the intricacies of
           financial scrutiny practices across diverse sectors.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odio libero distinctio rem iste sit explicabo omnis tenetur, 
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odio libero distinctio rem iste sit
+          explicabo omnis tenetur,
           reprehenderit ab cupiditate neque! Voluptatibus quos, at id tempore dolore nisi quisquam.</p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
@@ -2034,17 +2057,22 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p> RAJENDRA PRASAD SABAT Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore dolore et veniam ducimus illo iusto deserunt corrupti ut reiciendis!
-           Laborum maiores adipisci aperiam, nam aliquam blanditiis inventore facilis temporibus quis dignissimos aspernatur corporis obcaecati!.</p>
+        <p> RAJENDRA PRASAD SABAT Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore dolore et veniam
+          ducimus illo iusto deserunt corrupti ut reiciendis!
+          Laborum maiores adipisci aperiam, nam aliquam blanditiis inventore facilis temporibus quis dignissimos
+          aspernatur corporis obcaecati!.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet voluptas sed quas itaque earum dolor vitae voluptatum animi
-           non placeat consectetur architecto maiores necessitatibus quam, dicta illum officia illo adipisci consequuntur amet reprehenderit nihil
-            optio. Rerum tempore magni modi veritatis dolorum, corporis quo enim?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum eveniet voluptas sed quas itaque earum dolor
+          vitae voluptatum animi
+          non placeat consectetur architecto maiores necessitatibus quam, dicta illum officia illo adipisci consequuntur
+          amet reprehenderit nihil
+          optio. Rerum tempore magni modi veritatis dolorum, corporis quo enim?</p>
 
         <p>His commitment to excellence is evident through his extensive experience, navigating the intricacies of
           financial scrutiny practices across diverse sectors.</p>
 
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odio libero distinctio rem iste sit explicabo omnis tenetur, 
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti odio libero distinctio rem iste sit
+          explicabo omnis tenetur,
           reprehenderit ab cupiditate neque! Voluptatibus quos, at id tempore dolore nisi quisquam.</p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
@@ -2071,11 +2099,31 @@
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
         </ul>
       </div>
-     
+
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p> ASHISH AMAR SAINI - His commitment to excellence is evident through his extensive experience, navigating the intricacies of
-          financial scrutiny practices across diverse sectors.</p>
+        <p> Ashish Amar Saini is an accomplished Chartered Accountant with diverse experience across industries such as
+          agriculture, steel, coal, power, pharmaceutical, banking, and media. </p>
+        <p>
+          For the past few years, Ashish has specialized in agricultural consultancy, driving business development,
+          preparing Detailed Project Reports (DPRs), and securing government grants for agro-based industries and MSMEs.
+          <br><br>
+          Ashish is spearheading the firm’s agriculture and MSME vertical, offering tailored solutions to complex
+          challenges in the sector. He has successfully led initiatives that include feasibility studies, project
+          planning and execution, financial modeling for funding, and ensuring project compliance with relevant
+          regulations. His efforts have been instrumental in securing government grants and approvals, as well as
+          promoting technology adoption and digital transformation in agriculture.
+          <br><br>
+          In addition to his agricultural focus, Ashish has played a pivotal role in statutory and internal audits for
+          major steel and power companies, ensuring compliance with financial reporting standards and regulatory
+          requirements.
+          <br><br>
+          Ashish's multifaceted experience also includes significant contributions to the media, entertainment, and IT
+          sectors. He has managed comprehensive budgets for films, television serials, and advertisements, and has
+          overseen cash flow management and MIS development.
+          His background in banking, finance, and pharmaceuticals further highlights his versatility and depth of
+          knowledge in financial controls, fraud detection, and regulatory compliance.
+        </p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
@@ -2101,10 +2149,12 @@
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
         </ul>
       </div>
-     
+
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, tempore non beatae quia officia impedit quas rerum, porro repudiandae similique iste ipsa voluptates consequatur rem, fuga doloremque nesciunt eius totam fugiat possimus consectetur deleniti.</p>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, tempore non beatae quia officia impedit
+          quas rerum, porro repudiandae similique iste ipsa voluptates consequatur rem, fuga doloremque nesciunt eius
+          totam fugiat possimus consectetur deleniti.</p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
@@ -2130,10 +2180,12 @@
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
         </ul>
       </div>
-     
+
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, tempore non beatae quia officia impedit quas rerum, porro repudiandae similique iste ipsa voluptates consequatur rem, fuga doloremque nesciunt eius totam fugiat possimus consectetur deleniti.</p>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, tempore non beatae quia officia impedit
+          quas rerum, porro repudiandae similique iste ipsa voluptates consequatur rem, fuga doloremque nesciunt eius
+          totam fugiat possimus consectetur deleniti.</p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
@@ -2159,10 +2211,12 @@
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
         </ul>
       </div>
-     
+
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, tempore non beatae quia officia impedit quas rerum, porro repudiandae similique iste ipsa voluptates consequatur rem, fuga doloremque nesciunt eius totam fugiat possimus consectetur deleniti.</p>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, tempore non beatae quia officia impedit
+          quas rerum, porro repudiandae similique iste ipsa voluptates consequatur rem, fuga doloremque nesciunt eius
+          totam fugiat possimus consectetur deleniti.</p>
 
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
@@ -2178,9 +2232,10 @@
 <section style="background-color: #E7EEF3;">
   <div class="container mt-md-5 mt-2 pump">
 
-    <h5 class="foot whhh" >MEET</h5>
+    <h5 class="foot whhh">MEET</h5>
     <h1 class="foot" style="font-weight: 800;">Our Experts</h1>
-    <p class="text-center">We aim to empower our clients in form of futuristic, wholesome & practically adaptable recommendations.</p>
+    <p class="text-center">We aim to empower our clients in form of futuristic, wholesome & practically adaptable
+      recommendations.</p>
 
     <div class="row mt-md-5 mt-3 cstm_key_people  ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
       <h4 class="mb-4 p-0" style="font-weight: 700;">Managing Partner
@@ -2194,7 +2249,7 @@
           </div>
         </div>
       </div>
-      
+
     </div>
     <div class="row mt-md-5 mt-4 cstm_key_people ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
       <h4 class="mb-4 p-0" style="font-weight: 700;">NATIONAL HEADS
@@ -2232,14 +2287,14 @@
           <img src="<?php echo base_url(); ?>assets/part/rahul.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>RAHUL KUMAR SRIVASTAV</h5>
-            <span>National Head - Government Accounting 
-            Practice Head - Patna</span>
+            <span>National Head - Government Accounting
+              Practice Head - Patna</span>
           </div>
         </div>
       </div>
-</div>
+    </div>
 
-<div class="row mt-md-5 mt-4 cstm_key_people ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
+    <div class="row mt-md-5 mt-4 cstm_key_people ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
       <h4 class="mb-4 p-0" style="font-weight: 700;">CORE TEAM MEMBERS
 
       </h4>
@@ -2403,7 +2458,7 @@
       </div>
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup31">
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/akhil.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>AKHIL RAJ</h5>
             <span>Practice Head - Ernakulam</span>
@@ -2430,7 +2485,7 @@
       </div>
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup38">
-          <img src="<?php echo base_url(); ?>assets/part/noimage.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/rohitr.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>ROHIT DARYANI</h5>
             <span>Practice Head - Ajmer</span>
@@ -2458,7 +2513,7 @@
 
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup33">
-          <img src="<?php echo base_url(); ?>assets/part/munish.jpg" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/munishs.JPG" alt="" width="100%">
           <div class="member_txt">
             <h5>MUNISH SHARMA</h5>
             <span>Practice Co-Head - Jammu</span>
@@ -2475,7 +2530,7 @@
           </div>
         </div>
       </div>
-      
+
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup26">
           <img src="<?php echo base_url(); ?>assets/part/bika.jpg" alt="" width="100%">
@@ -2525,7 +2580,7 @@
           </div>
         </div>
       </div>
-     
+
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup37">
           <img src="<?php echo base_url(); ?>assets/part/Prachi.jpg" alt="" width="100%">
@@ -2579,15 +2634,15 @@
 
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup36">
-          <img src="<?php echo base_url(); ?>assets/part/Vikram.JPG" alt="" width="100%">
+          <img src="<?php echo base_url(); ?>assets/part/Vikram1.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>VIKRAM SINGH DAGUR</h5>
-            <span>Legal - Civil</span>
+            <span>AI, Blockchains & Digital Literacy</span>
           </div>
         </div>
       </div>
 
-      </div>
+    </div>
 
   </div>
 </section>

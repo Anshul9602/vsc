@@ -67,16 +67,16 @@
     </div>
 </div>
 
-<div style="display:flex; vertical-align:center; al" class="container mt-5">
+<div style="display:flex; vertical-align:center; " class="container mt-5">
     <div class="row">
         <div class="col-md-2">
             <br /><br /><br /><br />
-            <h3 style="color:#3177AF">Pan India Presence </h3>
+            <h3 style="color:#3177AF">PAN Bharat Presence </h3>
             <p style="text-align:justify">
                 Welcome to our nationwide network! We are proud to have a strong presence across all states in
                 India, ensuring that we are always close to our clients.
                 <br /><br />
-                Explore our map to find our own .
+                Explore our map with find our own branches in that particular State.
                 <br /><br />
                 <b>Interactive Map:</b>Click on the state to reveal our branches details  within that region.
 
@@ -381,6 +381,18 @@
                 <div class="card mt-3">
                     <div class="card-body">
                         <h4 class="card-title">Rajasthan</h4>
+                        <h5 class="card-subtitle mb-2 text-muted">Ajmer</h5>
+                        <p class="card-text">2nd Floor, Opposite Knowledge Academy, Behind Bikaner Mishthan Bhandar, Makadwali Road, Vaishali Nagar, Ajmer-305001</p>
+                        <p class="card-text">CA Rohit Daryani</p>
+                        <p class="card-text"> <i class="fa fa-phone"></i>+91 8741867420<br>
+                            <i class="fa fa-envelope"></i> rohitdaryani@vsc.co.in
+                        </p>
+                        
+                    </div>
+                </div>
+                <div class="card mt-3">
+                    <div class="card-body">
+                        <h4 class="card-title">Rajasthan</h4>
                         <h5 class="card-subtitle mb-2 text-muted">Udaipur</h5>
                         <p class="card-text">202, 7-A, II Floor, Near Uco Bank, Bapu Bazar, Udaipur – 313001</p>
                         <p class="card-text">CA Shyam Lal Sisodia</p>
@@ -679,14 +691,22 @@
             </div>
             <div class="card mt-3 csr" id="Ass">
                 <div class="card-body">
-                    <h4 class="card-title">Assam(Including North East)</h4>
+                    <h4 class="card-title">North East</h4>
                     <h5 class="card-subtitle mb-2 text-muted">Guwahati (covering whole North East)</h5>
                     <p class="card-text">207, II Floor, Kejriwal Bhawan, G S Road, Paltan Bazar, Guwahati-781008</p>
                     <p class="card-text">CA Bikash Choradia</p>
                     <p class="card-text"> <i class="fa fa-phone"></i>+91 700 260 9752<br>
                         <i class="fa fa-envelope"></i> bikashchoradia@vsc.co.in
                     </p>
+
+
+
+                    <p class="card-text">CA Prachi Lath</p>
+                    <p class="card-text"> <i class="fa fa-phone"></i>+91 9613560939<br>
+                        <i class="fa fa-envelope"></i> prachilath@vsc.co.in
+                    </p>
                     <p class="card-text">GSTn : 18AADFV8895M1Z3</p>
+                    
                 </div>
             </div>
             <div class="csr" id="GA">
@@ -700,6 +720,7 @@
                         <p class="card-text"> <i class="fa fa-phone"></i>+91 917 555 7405<br>
                             <i class="fa fa-envelope"></i> nandansirsat@vsc.co.in
                         </p>
+                        <p class="card-text">GSTn : 30AADFV8895M1ZH</p>
                     </div>
                 </div>
                 <div class="card mt-3">
@@ -754,7 +775,7 @@
             </div>
             <div class="card mt-3 csr" id="AN">
                 <div class="card-body">
-                    <h4 class="card-title">Andaman and Nicobar</h4>
+                    <h4 class="card-title">Andaman and Nicobar Islands</h4>
                     <h5 class="card-subtitle mb-2 text-muted">Port Blair</h5>
                     <p class="card-text">3rd Floor, Old CSS Building, Junglighat, Port Blair-744103</p>
                     <p class="card-text">CA Anil Kumar Jain</p>
@@ -772,6 +793,12 @@
                     <p class="card-text">CA Satyajeet Panigrahi</p>
                     <p class="card-text"> <i class="fa fa-phone"></i>+91 827 036 7253<br>
                         <i class="fa fa-envelope"></i> satyajeetpanigrahi@vsc.co.in
+                    </p>
+
+
+                    <p class="card-text">CA Rajendra Prasada Sabat</p>
+                    <p class="card-text"> <i class="fa fa-phone"></i>+91 9337063217<br>
+                        <i class="fa fa-envelope"></i> rajendra@vsc.co.in
                     </p>
                     <p class="card-text">GSTn : 21AADFV8895M1ZG</p>
                 </div>
