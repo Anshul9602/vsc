@@ -96,8 +96,8 @@ color: #4494D4;
                         <div class="col-footer ">
                            
                             <a href="<?php echo base_url(''); ?>" class="footer-links mt-16" ><i class="bi bi-chevron-right"></i> HOME</a>
-                            <a href="<?php echo base_url('About_us'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> ABOUT US</a>
-                            <a href="<?php echo base_url('About_us'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> EXPERT US</a>
+                            <a href="<?php echo base_url('About_Us'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> ABOUT US</a>
+                            <a href="<?php echo base_url('Expert'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> EXPERT US</a>
                             <a href="<?php echo base_url('Service'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> SERVICES</a>
                             <a href="<?php echo base_url('Career'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> CAREER</a>
                             <a href="<?php echo base_url('Contact'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> CONTACT</a>
@@ -112,8 +112,10 @@ color: #4494D4;
                             <p class="str"style="height:2px; width:80px;background:#4494D4;"></p>
                         </div>
                         <div class="col-footer d-flex">
-                            <a style="margin-right: 10px;" href="https://www.linkedin.com/company/vinod-singhal-co-chartered-accountants" class="footer-links mt-16 pr-2"> <i class="bi bi-linkedin"style="border:1px solid white;padding:5px;"></i> </a>
-                            <a style="margin-right: 10px;" href="<?php echo base_url('#'); ?>" class="footer-links mt-16"><i class="bi bi-x"style="border:1px solid white;padding:5px;"></i></a>
+                            <a target="_blank"style="margin-right: 10px;" href="https://www.linkedin.com/company/vinod-singhal-co-chartered-accountants" class="footer-links mt-16 pr-2"> <i class="bi bi-linkedin"style="border:1px solid white;padding:5px;"></i> </a>
+                            <a target="_blank"style="margin-right: 10px;" href="https://x.com/VSC_Office?t=gbih2xJxHPpL7tGJPnv8_w&s=09" class="footer-links mt-16"><i class="bi bi-x"style="border:1px solid white;padding:5px;"></i></a>
+                            <a target="_blank"style="margin-right: 10px;" href="https://www.youtube.com/channel/UCsqm6woPISdrNJQfZjmzwYg" class="footer-links mt-16"><i class="bi bi-youtube"style="border:1px solid white;padding:5px;"></i></a>
+                            <a target="_blank" style="margin-right: 10px;" href="https://www.quora.com/profile/Vinod-Singhal-and-Co-LLP" class="footer-links mt-16"><i class="bi bi-quora"style="border:1px solid white;padding:5px;"></i></a>
                    
                         </div>
                     </div>

@@ -440,21 +440,7 @@
           <p> &#x2022; Forensic/ Special Inspections </p>
         </div>
       </div>
-      <div class="imagesec" style="">
-        <img src="assets/sinner/cs11.jpg" alt="" width="100%">
-      </div>
-      <br>
-      <div class="spaece mt-4"></div>
-      <div class="row">
-        <div class="col-md-6">
-
-         
-        </div>
-        <div class="col-md-6">
-
-         
-        </div>
-      </div>
+      
     </div>
   </div>
   <div id="popup22" class="popup">
@@ -561,11 +547,11 @@
     <ul class="nav nav-tabs" id="myTab" role="tablist">
       <li class="nav-item" style="width: 100%;max-width:50%;">
         <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home"
-          aria-selected="true">ADVISORY PROTFOLIO</a>
+          aria-selected="true">ADVISORY PORTFOLIO</a>
       </li>
       <li class="nav-item" style="width: 100%;max-width:50%;">
         <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile"
-          aria-selected="false">COMPLIANCE PROTFOLIO</a>
+          aria-selected="false">COMPLIANCE PORTFOLIO</a>
       </li>
 
     </ul>
@@ -733,7 +719,7 @@
             </div>
             <div class="col-md-8 mt-3">
               <h5 style="font-weight: 500;">Company Law</h5>
-              <p class="mt-3"> Formation of Bharatn & Offshore Companies</p>
+              <p class="mt-3"> Formation of Indian & Offshore Companies</p>
               <button class="btn btn-outline-primary readMoreBtn" data-popup="popup24"> Read More</button>
             </div>
           </div>

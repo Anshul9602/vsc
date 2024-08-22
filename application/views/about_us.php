@@ -631,7 +631,7 @@
 						<div class="date d1">2023</div>
 						<i class="icon fa fa-home"></i>
 						<div class="content co1">
-							<h2>With offices in nearly every Bharatn state capital, Vinod Singhal & Co LLP has 30+ partners and 30 branches nationwide, now offering Agro & MSME consultancy services.</h2>
+							<h2>With offices in nearly every Indian state capital, Vinod Singhal & Co LLP has 30+ partners and 30 branches nationwide, now offering Agro & MSME consultancy services.</h2>
 
 						</div>
 					</div>

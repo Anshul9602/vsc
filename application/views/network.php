@@ -407,7 +407,7 @@
                         <h4 class="card-title">Rajasthan</h4>
                         <h5 class="card-subtitle mb-2 text-muted">Bharatpur</h5>
                         <p class="card-text">Alora House, Near Surjeet School, Namak Katra, Bharatpur – 321001</p>
-                        <p class="card-text">CA Sunil Kumar</p>
+                        <p class="card-text">CA Sunil Kumar Mittal</p>
                         <p class="card-text"> <i class="fa fa-phone"></i>+91 941 402 3438<br>
                             <i class="fa fa-envelope"></i> sunilmittalca@gmail.com
                         </p>
@@ -548,7 +548,7 @@
                 <div class="card-body">
                     <h4 class="card-title">Haryana</h4>
                     <h5 class="card-subtitle mb-2 text-muted">Gurugram</h5>
-                    <p class="card-text">Villa No.8, Orchid Petals, Sector 49, Sohna Road, Gurugram-122018</p>
+                    <p class="card-text">Office No.35, 1st Floor, Gaushala Market, Near Bus Stand, Gurgaon 122001</p>
                     <p class="card-text">CA Mohit Mittal</p>
                     <p class="card-text"> <i class="fa fa-phone"></i>+91 971 172 0014
                         <br>
@@ -604,6 +604,11 @@
                         <h4 class="card-title">Chandigarh</h4>
                         <h5 class="card-subtitle mb-2 text-muted">Chandigarh</h5>
                         <p class="card-text">SCO 285, I Floor, Sector 32D, Near Nirman Theatre, Chandigarh-160032</p>
+                        <p class="card-text">CA Ashish Kumar</p>
+                        <p class="card-text"> <i class="fa fa-phone"></i>+91 758 928 4026<br>
+                            <i class="fa fa-envelope"></i> ashishkumar@vsc.co.in
+                        </p>
+                    
                         <p class="card-text">CA Jatinder Bansal</p>
                         <p class="card-text"> <i class="fa fa-phone"></i>+91 998 866 6349<br>
                             <i class="fa fa-envelope"></i> jatinderbansal@vsc.co.in
@@ -645,7 +650,7 @@
                     <h5 class="card-subtitle mb-2 text-muted">Patna</h5>
                     <p class="card-text">II Floor, Above Suzuki Service Center, Opp. Loyla high School, I E Road,
                         Kurjee, Sadakat Ashram, Patna-800013</p>
-                    <p class="card-text">CA Rahul Kumar Srivastwa</p>
+                    <p class="card-text">CA Rahul Kumar Srivastava</p>
                     <p class="card-text"> <i class="fa fa-phone"></i>+91 965 040 4850<br>
                         <i class="fa fa-envelope"></i> rahul@vsc.co.in
                     </p>
@@ -686,6 +691,10 @@
                     <p class="card-text"> <i class="fa fa-phone"></i>+91 865 492 9608<br>
                         <i class="fa fa-envelope"></i> rakeshjain@vsc.co.in
                     </p>
+                    <p class="card-text">CA Shiv Shankar Gupta</p>
+                    <p class="card-text"> <i class="fa fa-phone"></i>+91 997 798 8811<br>
+                        <i class="fa fa-envelope"></i> shivgupta@vsc.co.in
+                    </p>
                     <p class="card-text">GSTn : 22AADFV8895M1ZE</p>
                 </div>
             </div>
@@ -702,7 +711,7 @@
 
 
                     <p class="card-text">CA Prachi Lath</p>
-                    <p class="card-text"> <i class="fa fa-phone"></i>+91 9613560939<br>
+                    <p class="card-text"> <i class="fa fa-phone"></i>+91 961 356 0939<br>
                         <i class="fa fa-envelope"></i> prachilath@vsc.co.in
                     </p>
                     <p class="card-text">GSTn : 18AADFV8895M1Z3</p>
@@ -797,7 +806,7 @@
 
 
                     <p class="card-text">CA Rajendra Prasada Sabat</p>
-                    <p class="card-text"> <i class="fa fa-phone"></i>+91 9337063217<br>
+                    <p class="card-text"> <i class="fa fa-phone"></i>+91 933 706 3217<br>
                         <i class="fa fa-envelope"></i> rajendra@vsc.co.in
                     </p>
                     <p class="card-text">GSTn : 21AADFV8895M1ZG</p>
