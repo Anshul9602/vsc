@@ -245,17 +245,14 @@
             <p style="height: 2px;width:10%;background:#fff;"></p>
             <div class="contiontt">
               <p style="color: #fff;max-width:80%;line-height:1.7;text-align: justify;">
-                Vinod Singhal & Co. LLP is a premier Chartered Accountants firm established in Jaipur, Rajasthan with
-                PAN Bharat operations. Founded in Year 1991, the firm possesses around three decades experience across
-                industries and public/private sectors. The firm is focused on providing Auditing & Assurance services,
-                Tax & Regulatory Services and Financial Services.
+              Vinod Singhal & Co. LLP, established in 1991 in Jaipur, Rajasthan, stands as a leading Chartered Accountants firm with operations spanning across India. With nearly three decades of experience, we have cultivated expertise across various industries and both public and private sectors.
+
+
               </p>
               <p style="color: #fff;max-width:80%;line-height:1.7;text-align: justify;">
-                The firm has expertise in the development and implementation of financial controls and performance
-                reporting across PSUs, Banks and Private Sector Entities. It is empanelled with the Comptroller &
-                Auditor General of Bharat (CAG), Reserve Bank of Bharat (RBI), Telecom Regulatory Authority of Bharat
-                (TRAI), MUDRA Ltd. almost all public Sector banks for Concurrent, Internal, Stock, Revenue & System
-                Audit and Office of the Registrar, Rajasthan Co-operative Society, Bihar Cooperative Society.
+              Our firm is dedicated to delivering top-tier services in Auditing & Assurance, Tax & Regulatory Compliance, and Financial Advisory. We have developed a strong proficiency in designing and implementing financial controls and performance reporting mechanisms for Public Sector Undertakings (PSUs), banks, and private sector entities.
+<br><br>
+Vinod Singhal & Co. LLP is proud to be empanelled with prestigious institutions including the Comptroller & Auditor General of India (CAG), Reserve Bank of India (RBI), Telecom Regulatory Authority of India (TRAI), MUDRA Ltd., IREDA, Various States' Income Tax, GST & PF Departments (for Special Audits purpose), and numerous public sector banks for Concurrent, Internal, Stock, Revenue & System Audits. Additionally, we hold empanelment with the Offices of various States' Cooperative Society,  further underscoring our commitment to excellence in the field.
               </p>
             </div>
           </div>
@@ -639,7 +636,7 @@
 						<div class="date d1">2024</div>
 						<i class="icon fa fa-home"></i>
 						<div class="content co1">
-							<h2>We have added 6 new partners and successfully managed their clients' IPO, marking their entry into the IPO market.</h2>
+							<h2>We have added 10 new partners and successfully managed their clients' IPO, marking their entry into the IPO market.</h2>
 
 						</div>
 					</div>

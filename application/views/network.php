@@ -559,7 +559,7 @@
             </div>
             <div class="card mt-3 csr" id="JK">
                 <div class="card-body">
-                    <h4 class="card-title">J&K(Including Ladakh)</h4>
+                    <h4 class="card-title">J&K <br>(Including Ladakh)</h4>
                     <h5 class="card-subtitle mb-2 text-muted">Jammu</h5>
                     <p class="card-text">Gurudwara Sunder Singh Road, Near Hotel Amrita, Jammu-180001</p>
                     <p class="card-text">CA Yogesh Sarin</p>
@@ -650,7 +650,7 @@
                     <h5 class="card-subtitle mb-2 text-muted">Patna</h5>
                     <p class="card-text">II Floor, Above Suzuki Service Center, Opp. Loyla high School, I E Road,
                         Kurjee, Sadakat Ashram, Patna-800013</p>
-                    <p class="card-text">CA Rahul Kumar Srivastava</p>
+                    <p class="card-text">CA Rahul Kumar Shrivastwa</p>
                     <p class="card-text"> <i class="fa fa-phone"></i>+91 965 040 4850<br>
                         <i class="fa fa-envelope"></i> rahul@vsc.co.in
                     </p>
@@ -759,7 +759,7 @@
             </div>
             <div class="card mt-3 csr" id="TG">
                 <div class="card-body">
-                    <h4 class="card-title">Telangana(Including Andhra Pradesh)</h4>
+                    <h4 class="card-title">Telangana <br>(Including Andhra Pradesh)</h4>
                     <h5 class="card-subtitle mb-2 text-muted">Hyderabad</h5>
                     <p class="card-text">1-9-471/23/1, Lalitha Nagar, Adikmet, Hyderabad-500044</p>
                     <p class="card-text">CA Vemula Venkatesh</p>

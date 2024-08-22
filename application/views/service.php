@@ -233,7 +233,7 @@
             Subsidies</p>
           <p> &#x2022; Finance under various MSME schemes</p>
           <p> &#x2022; Various related Compliances</p>
-          <p> &#x2022; End to end consultancy</p>
+          <p> &#x2022; End to End consultancy</p>
         </div>
       </div>
 
@@ -310,7 +310,7 @@
           <img src="assets/sout/as6.jpg" width="100%" alt="">
         </div>
         <div class="col-md-7 mt-3">
-          <p> &#x2022; Blockchian development</p>
+          <p> &#x2022; Blockchain development</p>
           <p> &#x2022; Blockchain consultancy</p><p> &#x2022; Strategy workshop & training</p>
           <p> &#x2022; Ideation & Integration</p>
         </div>
@@ -346,7 +346,7 @@
           <img src="assets/sout/as8.jpg" width="100%" alt="">
         </div>
         <div class="col-md-7 mt-3">
-          <p> &#x2022; Company incorporation</p>
+          <p> &#x2022; Company Incorporation</p>
           <p> &#x2022; Accounting Advisory</p><p> &#x2022; Regular Compliances</p>
           <p> &#x2022; Fund Raising</p>
         </div>
@@ -356,7 +356,7 @@
     </div>
   </div>
   <div id="popup9" class="popup">
-    <div class="popup-content">
+    <div class="popup-content" style="    width: 54%;">
       <span class="close">&times;</span>
       <h2>Taxation</h2>
       <hr>
@@ -385,7 +385,7 @@
           <p> &#x2022; Business Valuation</p>
           <p> &#x2022; Financial Reporting Valuation</p>
           <p> &#x2022; Specialised Valuation</p><p> &#x2022; Financial Modeling</p>
-          <p> &#x2022; Liquidation Value, arbitration & dispute</p>
+          <p> &#x2022; Liquidation Value, Arbitration & Dispute</p>
           <p> &#x2022; Intangible Assets Valuation</p>
         </div>
       </div>
@@ -403,11 +403,11 @@
         </div>
         <div class="col-md-7 mt-3">
           <p> &#x2022; Virtual CFO Services</p>
-          <p> &#x2022; Capital budgeting & planning</p>
+          <p> &#x2022; Capital Budgeting & Planning</p>
           <p> &#x2022; ISO Registration</p>
           <p> &#x2022; FSSAI Registration</p>
           <p> &#x2022; PSARA Licence</p> <p> &#x2022; Formation of Trusts/NGOs & registration</p>
-          <p> &#x2022; Any other related services</p>
+          <p> &#x2022; Any Other Related Services</p>
           <p> &#x2022; UDYAM Registration</p>
           <p> &#x2022; Shop & Establishment Act</p>
           <p> &#x2022; Wage Compliances</p>

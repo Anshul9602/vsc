@@ -436,7 +436,7 @@
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Vinod Kumar Singhal, Founder Partner of VSC & Co. LLP has 30+ years standing in the financial fraternity. He excels in discerning client requirements and translating them into successful outcomes. He is strategist who consults organizations and professionals on planning, positive leadership, coordination, seamless execution, and monitoring.<br><br> His non-traditional approach towards his profession has resulted in growth of the firm in terms of people, services, and network. He believes in stabilizing and scaling the prospects to best possible outcome. Demonstrating mastery in matters related to Business Process Outsourcing, he has played a pivotal role in diversifying the firm's service portfolio beyond traditional audit and taxation to numerous value-added services. <br><br>As a pioneering entrepreneur and an informed investor, he believes in encouraging professionals through the VSC network into entrepreneurship development. He supports them through resources and insightful guidance. His visionary thoughts have led VSC & Co. LLP to establish itself as a Bhartiya firm with a global perspective. The firm has established itself as a pan India firm under his effective & encouraging leadership and positive guidance. He believes in creating long-term relations with clients and employees alike. To achieve this, he has given ‘Quality and Value addition with integrity’ as a mantra to be followed pervasively by the firm.
+        <p>Vinod Kumar Singhal, Founder Partner of Vinod Singhal & Co LLP has 30+ years standing in the financial fraternity. He excels in discerning client requirements and translating them into successful outcomes. He is strategist who consults organizations and professionals on planning, positive leadership, coordination, seamless execution, and monitoring.<br><br> His non-traditional approach towards his profession has resulted in growth of the firm in terms of people, services, and network. He believes in stabilizing and scaling the prospects to best possible outcome. Demonstrating mastery in matters related to Business Process Outsourcing, he has played a pivotal role in diversifying the firm's service portfolio beyond traditional audit and taxation to numerous value-added services. <br><br>As a pioneering entrepreneur and an informed investor, he believes in encouraging professionals through the VSC network into entrepreneurship development. He supports them through resources and insightful guidance. His visionary thoughts have led Vinod Singhal & Co LLP to establish itself as a Bhartiya firm with a global perspective. The firm has established itself as a pan India firm under his effective & encouraging leadership and positive guidance. He believes in creating long-term relations with clients and employees alike. To achieve this, he has given ‘Quality and Value addition with integrity’ as a mantra to be followed pervasively by the firm.
 
 <br><br>
           Since over two decades, Vinod has obtained rich experience in almost every field, such as- Taxation Laws, Company Law, Auditing, Corporate Finance liaison, Non-Residents Exchange control regulations services relating to setting up of liaison/project office in India, etc. He handles various issues with equal ease but his core expertise lies in Financial & Industrial Consultancy. His core area of work is related to Industrial Consultancy, such as set up of new business ventures, SEZ related work, food processing units, cold storages etc. He has also mastered the art of handling matters related to Business Process Outsourcing.
@@ -461,7 +461,7 @@
           <img src="<?php echo base_url(); ?>assets/part/hem.jpg">
         </figure>
         <h1>HEMANT KUMAR BANSAL</h1>
-        <p><b>FCA, DISA, IP, CCA, Certificate Course on
+        <p><b>FCA, DISA, IP, Concurrent Audit (ICAI), Certificate Course on
           preparation of Appeals, Drafting of
           Deeds, & Documents and
           Representation before Appellate
@@ -476,7 +476,7 @@
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
         <p>Hemant Bansal, serving as the managing Partner of VSC, plays a crucial role as the in-charge of the Jaipur
-          Head Office, collaborating closely with network branches. </p>
+          Branch Office, collaborating closely with network branches. </p>
 
         <p>With a career spanning over three decades, he has amassed extensive experience in the corporate sector,
           Auditing, Banking, Project Finance, Direct Taxation, International Taxation, FEMA, Startups, and Management
@@ -505,7 +505,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <figure>
           <img src="<?php echo base_url(); ?>assets/part/raj.jpg">
         </figure>
-        <h1>RAJ NARAYAN PALSANIA</h1>
+        <h1>RAJ NARAYAN PALSANIYA</h1>
         <p><b>FCA, MIA (Florida)</b></p>
 
         <ul class="social-icons list-inline d-none">
@@ -544,7 +544,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <figure>
           <img src="<?php echo base_url(); ?>assets/part/as.jpg">
         </figure>
-        <h1>AS SISODIA</h1>
+        <h1>AS SHISHODIA</h1>
         <p><b>ACA</b></p>
 
         <ul class="social-icons list-inline d-none">
@@ -555,14 +555,14 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>A S Sisodia has an extensive corporate work history with a specialized focus in the dynamic field of
+        <p>A S Shishodia has an extensive corporate work history with a specialized focus in the dynamic field of
           Insurance. </p>
 
         <p>With a remarkable career spanning over 33 years, he dedicated a significant tenure of his professional
           journey to serving the prestigious Oriental Insurance Company Limited, where he ascended to the position of
           Deputy General Manager before retiring.</p>
 
-        <p>A S Sisodia's core area of expertise lies in Risk Management and Consultancies, where he has cultivated a
+        <p>A S Shishodia's core area of expertise lies in Risk Management and Consultancies, where he has cultivated a
           profound understanding through his extensive experience in the insurance sector.</p>
         <p>His tenure at Oriental Insurance Company Limited afforded him the opportunity to navigate diverse
           responsibilities and contribute significantly to the strategic management of risk within the organization.</p>
@@ -584,7 +584,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/sunil1.jpg">
         </figure>
         <h1>SUNIL KUMAR MITTAL</h1>
-        <p><b>FCA, ISA (ICAI), Concurrent Audit (ICAI)</b></p>
+        <p><b>FCA, DISA, Concurrent Audit (ICAI)</b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -637,7 +637,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
         <p>Sandeep Kumar Agarwal brings a wealth of professional expertise to the table as his extensive experience
-          spans across the landscape of PSU/Govt. Audits, with a notable footprint covering the entirety of Bharat.</p>
+          spans across the landscape of PSU/Govt. Audits, with a notable footprint covering the entirety of India.</p>
 
         <p>Furthermore, Sandeep has established himself as a trusted consultant within the construction sector,
           showcasing a profound understanding of its intricate dynamics. His consultancy services encompass a spectrum
@@ -665,8 +665,8 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <figure>
           <img src="<?php echo base_url(); ?>assets/part/shyam.jpg">
         </figure>
-        <h1>SHYAM LAL SISODIA</h1>
-        <p><b>FCA</b></p>
+        <h1>SHYAM LAL SHISHODIA</h1>
+        <p><b>FCA, LLB, Concurrent Audit (ICAI)</b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -676,10 +676,10 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Shyam Lal Sisodia stands out as a seasoned professional with extensive expertise that spans across various
+        <p>Shyam Lal Shishodia stands out as a seasoned professional with extensive expertise that spans across various
           facets of the financial landscape, including Accounting, Auditing, and Direct & Indirect Taxation.</p>
 
-        <p>In addition to his foundational skills, Shyam Lal Sisodia possesses advanced knowledge in project financing,
+        <p>In addition to his foundational skills, Shyam Lal Shishodia possesses advanced knowledge in project financing,
           project planning, and tax management. </p>
 
         <p>His proficiency extends to the meticulous finalization of balance sheets and the precise computation of tax
@@ -790,7 +790,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/rich.jpg">
         </figure>
         <h1>RICHA PANDYA</h1>
-        <p><b>FCA, CISA (ISACA), ISA (ICAI), CIA (IIA), GST(ICAI)</b></p>
+        <p><b>FCA, CISA (ISACA), DISA, CIA (IIA), GST(ICAI)</b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -870,7 +870,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/pratek.jpg">
         </figure>
         <h1>PRATEEK GOYAL</h1>
-        <p><b>FCA, LCS, CCA, FAFD, IndAS (ICAI),
+        <p><b>FCA, LCS, Concurrent Audit (ICAI), FAFD(ICAI), IndAS (ICAI),
           StartUp (ICAI), CSR (ICAI), AML (ICAI),
           Certificate Course on Public Finance
           and Government Accounting (ICAI),
@@ -992,7 +992,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/nandan.jpg">
         </figure>
         <h1>NANDAN MOTILAL SIRSAT</h1>
-        <p><b>FCA, DISA, CCA, GST (ICAI), Valuations
+        <p><b>FCA, DISA, Concurrent Audit (ICAI), GST (ICAI), Valuations
           (ICAI), Certificate Course -Co-operatives</b></p>
 
         <ul class="social-icons list-inline d-none">
@@ -1115,7 +1115,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <figure>
           <img src="<?php echo base_url(); ?>assets/part/rahul.jpg">
         </figure>
-        <h1>RAHUL KUMAR SRIVASTAVA</h1>
+        <h1>RAHUL KUMAR SHRIVASTWA</h1>
         <p><b>FCA</b></p>
 
         <ul class="social-icons list-inline d-none">
@@ -1126,7 +1126,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Rahul Kumar Srivastava brings a wealth of expertise to the domains of Internal Audit and Statutory Audit. With a specialised focus on accounting and auditing for Government departments and Urban Local Bodies (ULBs), Rahul's professional journey is marked by his deep understanding of the intricate financial structures within these entities.<br><br>
+        <p>Rahul Kumar Shrivastwa brings a wealth of expertise to the domains of Internal Audit and Statutory Audit. With a specialised focus on accounting and auditing for Government departments and Urban Local Bodies (ULBs), Rahul's professional journey is marked by his deep understanding of the intricate financial structures within these entities.<br><br>
           In his current role as the National Head of Government Accounting and Practice Head at Patna, Rahul assumes the pivotal responsibility of overseeing and managing a diverse spectrum of financial engagements. Rahul's subject matter expertise in government accounting is invaluable in navigating the unique challenges and regulatory intricacies associated with this specialised field. His ability to lead complex financial engagements with meticulous attention to detail has earned him recognition as a trusted professional in the sector.<br><br>
           His leadership at the Patna branch is characterised by a commitment to excellence, where he ensures that all audits are conducted with precision and in strict compliance with relevant standards and regulations.<br><br>
           Rahul continues to contribute significantly to the organisation, driving rigorous audit practices that uphold the highest standards of financial accountability and transparency.</p>
@@ -1190,7 +1190,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/prince.jpg">
         </figure>
         <h1>PRINCE BANSAL</h1>
-        <p><b>FCA, ISA(ICAI), Concurrent Audit (ICAI), Forensic Audit (ICAI)</b></p>
+        <p><b>FCA, DISA, Concurrent Audit (ICAI), FAFD (ICAI)</b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -1284,7 +1284,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Mohit Mittal, a distinguished Associate Member of The Institute of Chartered Accountants of Bharat (ICAI),
+        <p>Mohit Mittal, a distinguished Associate Member of The Institute of Chartered Accountants of India (ICAI),
           brings a wealth of professional acumen to the fields of Internal Audit and Statutory Audit. </p>
 
         <p>His commitment to excellence is showcased through his extensive experience, navigating the intricacies of
@@ -1525,7 +1525,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/jatin.jpg">
         </figure>
         <h1>JATINDER BANSAL</h1>
-        <p><b>ACA, Concurrent Audit (ICAI), Forensic Audit (ICAI)</b></p>
+        <p><b>ACA, Concurrent Audit (ICAI), FAFD</b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -1745,7 +1745,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Yogesh Sarin, a distinguished Associate Member of The Institute of Chartered Accountants of Bharat (ICAI),
+        <p>Yogesh Sarin, a distinguished Associate Member of The Institute of Chartered Accountants of India (ICAI),
           brings a wealth of professional expertise to the spheres of Internal Audit and Statutory Audit. Yogesh's
           substantial experience in Internal Audit and Statutory Audit showcases his dedication to delivering meticulous
           financial scrutiny services.</p>
@@ -1787,7 +1787,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Munish, an esteemed Associate Member of The Institute of Chartered Accountants of Bharat (ICAI), brings a
+        <p>Munish, an esteemed Associate Member of The Institute of Chartered Accountants of India (ICAI), brings a
           wealth of professional expertise to the domains of Internal Audit and Statutory Audit. </p>
 
         <p>Munish's substantial experience in Internal Audit and Statutory Audit showcases his dedication to delivering
@@ -1829,7 +1829,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>Vemula Venkatesh, an esteemed Associate Member of The Institute of Chartered Accountants of Bharat (ICAI),
+        <p>Vemula Venkatesh, an esteemed Associate Member of The Institute of Chartered Accountants of India (ICAI),
           brings a wealth of professional expertise to the domains of Internal Audit and Statutory Audit.</p>
 
         <p>Vemula's substantial experience in Internal Audit and Statutory Audit showcases his dedication to delivering
@@ -1863,7 +1863,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/sha.jpg">
         </figure>
         <h1>SHASHWAT SINGHAL</h1>
-        <p><b>AI, Blockchains & Digital Literacy</b></p>
+        <p><b></b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -1905,7 +1905,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/Vikram1.jpg">
         </figure>
         <h1>VIKRAM SINGH DAGUR</h1>
-        <p><b>Legal-Civil</b></p>
+        <p><b></b></p>
 
         <ul class="social-icons list-inline d-none">
           <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -1997,7 +1997,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p> Rohit Daryani a associate member of Institute of Chartered Accountant of India (ICAI), having hands on Audit, Indirect Taxation and Secretarial Compliances. Rohit's experience includes statutory audit of large cap listed Pharmaceutical companies, Automobile, Hotel and other Industries which is adds stars to his knowledge of Audit and Secretarial Compliances.
+        <p> Rohit Daryani a associate member of Institute of Chartered Accountants of India (ICAI), having hands on Audit, Indirect Taxation and Secretarial Compliances. Rohit's experience includes statutory audit of large cap listed Pharmaceutical companies, Automobile, Hotel and other Industries which is adds stars to his knowledge of Audit and Secretarial Compliances.
 <br><br>
           In his pivotal role as incharge of our Ajmer Branch, Rohit assumes leadership responsibilities, overseeing and managing diverse Portfolio of Financial engagements. His role extends beyond traditional audits, encompassing Virtual CFO services, business expansion planning, fund raising consultancy and Insurance advisory.</p>
 
@@ -2018,7 +2018,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <figure>
           <img src="<?php echo base_url(); ?>assets/part/raje.jpg">
         </figure>
-        <h1>RAJENDRA PRASAD SABAT</h1>
+        <h1>RAJENDRA PRASADA SABAT</h1>
         <p><b>ACA</b></p>
 
         <ul class="social-icons list-inline d-none">
@@ -2198,8 +2198,9 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
 
     <h5 class="foot whhh">MEET</h5>
     <h1 class="foot" style="font-weight: 800;">Our Experts</h1>
-    <p class="text-center">We aim to empower our clients in form of futuristic, wholesome & practically adaptable
-      recommendations.</p>
+    <p class="text-center" style="max-width: 90%;">At Vinod Singhal & Co. LLP, leadership is defined by action and example—principles that resonate deeply with our key people. Our partners, who bring specialized expertise and extensive experience, lead from the front, embodying the firm's commitment to excellence. They remain accessible to clients, consistently adding value in their advisory and consulting roles.
+<br><br>
+      As John Quincy Adams said, "If your actions inspire others to dream more, learn more, do more, and become more, you are a leader." Our leadership team exemplifies this philosophy, driving both our firm and our clients towards greater achievements.</p>
 
     <div class="row mt-md-5 mt-3 cstm_key_people  ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
       <h4 class="mb-4 p-0" style="font-weight: 700;">Managing Partner
@@ -2250,7 +2251,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <div style="position: relative;" class="partner" data-popup="popup18">
           <img src="<?php echo base_url(); ?>assets/part/rahul.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>RAHUL KUMAR SRIVASTAVA</h5>
+            <h5>RAHUL KUMAR SHRIVASTWA</h5>
             <span>National Head - Government Accounting &
               Practice Head - Patna</span>
           </div>
@@ -2266,7 +2267,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <div style="position: relative;" class="partner" data-popup="popup3">
           <img src="<?php echo base_url(); ?>assets/part/raj.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>RAJ NARAYAN PALSANIA</h5>
+            <h5>RAJ NARAYAN PALSANIYA</h5>
             <span>Executive Partner - Jaipur</span>
           </div>
         </div>
@@ -2275,7 +2276,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <div style="position: relative;" class="partner" data-popup="popup7">
           <img src="<?php echo base_url(); ?>assets/part/shyam.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>SHYAM LAL SISODIA</h5>
+            <h5>SHYAM LAL SHISHODIA</h5>
             <span>Practice Head - Udaipur</span>
           </div>
         </div>
@@ -2360,7 +2361,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/aasani.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>ASHISH AMAR SAINI</h5>
-            <span>ACA,FAFD (ICAI)</span>
+            <span>Executive Partner - AGRO & MSME</span>
           </div>
         </div>
       </div>
@@ -2395,7 +2396,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         <div style="position: relative;" class="partner" data-popup="popup39">
           <img src="<?php echo base_url(); ?>assets/part/raje.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>RAJENDRA PRASAD SABAT</h5>
+            <h5>RAJENDRA PRASADA SABAT</h5>
             <span>Practice Co-Head - Bhubaneswar
             </span>
           </div>
