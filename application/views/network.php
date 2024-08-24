@@ -384,7 +384,7 @@
                         <h5 class="card-subtitle mb-2 text-muted">Ajmer</h5>
                         <p class="card-text">2nd Floor, Opposite Knowledge Academy, Behind Bikaner Mishthan Bhandar, Makadwali Road, Vaishali Nagar, Ajmer-305001</p>
                         <p class="card-text">CA Rohit Daryani</p>
-                        <p class="card-text"> <i class="fa fa-phone"></i>+91 8741867420<br>
+                        <p class="card-text"> <i class="fa fa-phone"></i>+91 874 186 7420<br>
                             <i class="fa fa-envelope"></i> rohitdaryani@vsc.co.in
                         </p>
                         

@@ -2217,7 +2217,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
 
     </div>
     <div class="row mt-md-5 mt-4 cstm_key_people ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
-      <h4 class="mb-4 p-0" style="font-weight: 700;">NATIONAL HEADS
+      <h4 class="mb-4 p-0" style="font-weight: 700;text-transform: uppercase;">Designated Partners
 
       </h4>
       <div class="col-md-3 col-12 mt-3">
@@ -2247,6 +2247,11 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           </div>
         </div>
       </div>
+      
+    </div>
+
+    <div class="row mt-md-5 mt-4 cstm_key_people ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
+      <h4 class="mb-4 p-0" style="font-weight: 700;">PARTNERS</h4>
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup18">
           <img src="<?php echo base_url(); ?>assets/part/rahul.jpg" alt="" width="100%">
@@ -2257,12 +2262,6 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           </div>
         </div>
       </div>
-    </div>
-
-    <div class="row mt-md-5 mt-4 cstm_key_people ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
-      <h4 class="mb-4 p-0" style="font-weight: 700;">CORE TEAM MEMBERS
-
-      </h4>
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup3">
           <img src="<?php echo base_url(); ?>assets/part/raj.jpg" alt="" width="100%">

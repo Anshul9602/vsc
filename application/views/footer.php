@@ -85,7 +85,7 @@ color: #4494D4;
                     <h5 class="">VINOD SINGHAL & CO. LLP</h5>
                     <p class="str" style="height:2px; width:130px;background:#4494D4;"></p>
                     <p style="max-width: 80%;">VINOD SINGHAL & CO. LLP is a LLP firm based in Rajasthan providing the Audit and Assurance Services pan-Bharat.</p>
-                
+                <p><div id="google_translate_element"></div></p>
                 </div>
                 <div class=" row col-md-8 mt-md-3 mb-md-3 mb-0 mt-0">
                     <div class="col-lg-3 col-md-6 col-6  mt-2  tc">
@@ -100,6 +100,7 @@ color: #4494D4;
                             <a href="<?php echo base_url('Expert'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> EXPERT US</a>
                             <a href="<?php echo base_url('Service'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> SERVICES</a>
                             <a href="<?php echo base_url('Career'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> CAREER</a>
+                            <a href="<?php echo base_url('Network'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> BRANCHES</a>
                             <a href="<?php echo base_url('Contact'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> CONTACT</a>
                            
 
@@ -174,6 +175,12 @@ color: #4494D4;
 
 
 
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <!-- Vendor JS Files -->
 <script>
     $(window).scroll(function () {
