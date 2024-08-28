@@ -555,17 +555,9 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       <!-- Right Side -->
       <div class="member_profile_right">
         <div class="at-above-post addthis_tool" data-url=""></div>
-        <p>A S Shishodia has an extensive corporate work history with a specialized focus in the dynamic field of
-          Insurance. </p>
-
-        <p>With a remarkable career spanning over 33 years, he dedicated a significant tenure of his professional
-          journey to serving the prestigious Oriental Insurance Company Limited, where he ascended to the position of
-          Deputy General Manager before retiring.</p>
-
-        <p>A S Shishodia's core area of expertise lies in Risk Management and Consultancies, where he has cultivated a
-          profound understanding through his extensive experience in the insurance sector.</p>
-        <p>His tenure at Oriental Insurance Company Limited afforded him the opportunity to navigate diverse
-          responsibilities and contribute significantly to the strategic management of risk within the organization.</p>
+        <p>A S Sisodia is the associate member of the Institute of Chartered Accountants of India. He has a vast span
+          of corporate work experience in the field of Insurance. He has served the Oriental Insurance Company
+          Limited for 32.5 years in various capacities and retired as the Dy General Manager.</p>
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
       </div>
@@ -772,6 +764,35 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
 
         <p>His seasoned approach to audits within the public sector underscores his ability to navigate complex
           regulatory landscapes and deliver meticulous and comprehensive audit services. </p>
+        <div class="at-below-post addthis_tool" data-url=""></div>
+        <!-- AddThis Share Buttons generic via filter on the_content -->
+      </div>
+      <!-- Right Side -->
+    </div>
+
+  </div>
+</div>
+<div id="popup91" class="popup cstm-key-popup">
+  <span class="close">&times;</span>
+  <div class="popup-content">
+    <div class="member_profile clearfix">
+      <!-- Left Side -->
+      <div class="member_profile_left">
+        <figure>
+          <img src="<?php echo base_url(); ?>assets/part/sandeep.jpg">
+        </figure>
+        <h1 style="text-transform: uppercase;">Sandeep Aggarwal</h1>
+        <p><b>FCA</b></p>
+
+        <ul class="social-icons list-inline d-none">
+          <li><a href="" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        </ul>
+      </div>
+      <!-- Left Side -->
+      <!-- Right Side -->
+      <div class="member_profile_right">
+        <div class="at-above-post addthis_tool" data-url=""></div>
+        <p>Sandeep is a distinguished Fellow Member of The Institute of Chartered Accountants of India (ICAI). With a wealth of experience spanning several years, Sandeep has established himself as a leading expert in the Real Estate sector. His extensive knowledge and expertise encompass a broad spectrum of consultancies and assignments within this dynamic industry. Over the years, he has provided strategic guidance and tailored solutions to numerous clients, helping them navigate the complexities of real estate transactions, regulatory compliance, and financial planning. Sandeep's commitment to excellence and his in-depth understanding of the real estate market make him a trusted advisor in this specialized field.. </p>
         <div class="at-below-post addthis_tool" data-url=""></div>
         <!-- AddThis Share Buttons generic via filter on the_content -->
       </div>
@@ -2253,21 +2274,20 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
     <div class="row mt-md-5 mt-4 cstm_key_people ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
       <h4 class="mb-4 p-0" style="font-weight: 700;">PARTNERS</h4>
       <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup18">
-          <img src="<?php echo base_url(); ?>assets/part/rahul.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>RAHUL KUMAR SHRIVASTWA</h5>
-            <span>National Head - Government Accounting &
-              Practice Head - Patna</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup3">
           <img src="<?php echo base_url(); ?>assets/part/raj.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>RAJ NARAYAN PALSANIYA</h5>
             <span>Executive Partner - Jaipur</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup4">
+          <img src="<?php echo base_url(); ?>assets/part/as.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>AS SHISHODIA</h5>
+            <span>Executive Partner</span>
           </div>
         </div>
       </div>
@@ -2290,6 +2310,33 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         </div>
       </div>
       <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup9">
+          <img src="<?php echo base_url(); ?>assets/part/dinesh.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>DINESH KUMAR PRADHAN</h5>
+            <span>Practice Head - Ranchi</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup91">
+          <img src="<?php echo base_url(); ?>assets/part/sandeep.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5 style="text-transform: uppercase;">Sandeep Aggarwal</h5>
+            <span>Practice Head </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup11">
+          <img src="<?php echo base_url(); ?>assets/part/kk-sodhani.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>KRISHAN KUMAR SODHANI</h5>
+            <span>Executive Partner - Finance</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup10">
           <img src="<?php echo base_url(); ?>assets/part/rich.jpg" alt="" width="100%">
           <div class="member_txt">
@@ -2300,94 +2347,21 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
       </div>
 
       <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup11">
-          <img src="<?php echo base_url(); ?>assets/part/kk-sodhani.jpg" alt="" width="100%">
+        <div style="position: relative;" class="partner" data-popup="popup43">
+          <img src="<?php echo base_url(); ?>assets/part/asi.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>KRISHAN KUMAR SODHANI</h5>
-            <span>Executive Partner - Finance</span>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup9">
-          <img src="<?php echo base_url(); ?>assets/part/dinesh.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>DINESH KUMAR PRADHAN</h5>
-            <span>Practice Head - Ranchi</span>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup17">
-          <img src="<?php echo base_url(); ?>assets/part/manish.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>MANISH KHANDELWAL</h5>
-            <span>Executive Partner - Audits</span>
+            <h5>ASHISH KUMAR</h5>
+            <span>Practice Co-Head - Chandigarh</span>
           </div>
         </div>
       </div>
       <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup15">
-          <img src="<?php echo base_url(); ?>assets/part/nandan.jpg" alt="" width="100%">
+        <div style="position: relative;" class="partner" data-popup="popup18">
+          <img src="<?php echo base_url(); ?>assets/part/rahul.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>NANDAN MOTILAL SIRSAT</h5>
-            <span>Practice Head - Goa</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup14">
-          <img src="<?php echo base_url(); ?>assets/part/rakesh.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>RAKESH KUMAR JAIN</h5>
-            <span>Practice Head - Raipur</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup20">
-          <img src="<?php echo base_url(); ?>assets/part/prince.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>PRINCE BANSAL</h5>
-            <span>Practice Head - Bathinda</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup40">
-          <img src="<?php echo base_url(); ?>assets/part/aasani.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>ASHISH AMAR SAINI</h5>
-            <span>Executive Partner - AGRO & MSME</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup13">
-          <img src="<?php echo base_url(); ?>assets/part/mukesh.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>MUKESH KUMAR AGARWAL</h5>
-            <span>Practice Head - Kolkata</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup19">
-          <img src="<?php echo base_url(); ?>assets/part/manoj.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>MANOJ SURAJMAL BOKADIA</h5>
-            <span>Practice Head - Mumbai</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup21">
-          <img src="<?php echo base_url(); ?>assets/part/ramesh.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>RAMESH SUTHARI</h5>
-            <span>Practice Head - Bengaluru</span>
+            <h5>RAHUL KUMAR SHRIVASTWA</h5>
+            <span>National Head - Government Accounting &
+              Practice Head - Patna</span>
           </div>
         </div>
       </div>
@@ -2402,21 +2376,76 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         </div>
       </div>
       <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup27">
-          <img src="<?php echo base_url(); ?>assets/part/jatin.jpg" alt="" width="100%">
+        <div style="position: relative;" class="partner" data-popup="popup17">
+          <img src="<?php echo base_url(); ?>assets/part/manish.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>JATINDER BANSAL</h5>
-            <span>Practice Co-head - Chandigarh
-            </span>
+            <h5>MANISH KHANDELWAL</h5>
+            <span>Executive Partner - Audits</span>
           </div>
         </div>
       </div>
       <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup25">
-          <img src="<?php echo base_url(); ?>assets/part/kaviya.jpg" alt="" width="100%">
+        <div style="position: relative;" class="partner" data-popup="popup40">
+          <img src="<?php echo base_url(); ?>assets/part/aasani.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>KAVIYA B</h5>
-            <span>Practice Head - Coimbatore</span>
+            <h5>ASHISH AMAR SAINI</h5>
+            <span>Executive Partner - AGRO & MSME</span>
+          </div>
+        </div>
+      </div> 
+
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup15">
+          <img src="<?php echo base_url(); ?>assets/part/nandan.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>NANDAN MOTILAL SIRSAT</h5>
+            <span>Practice Head - Goa</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup42">
+          <img src="<?php echo base_url(); ?>assets/part/shivv.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>SHIV SHANKAR GUPTA</h5>
+            <span>Practice Co-Head - Raipur</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup13">
+          <img src="<?php echo base_url(); ?>assets/part/mukesh.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>MUKESH KUMAR AGARWAL</h5>
+            <span>Practice Head - Kolkata</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup14">
+          <img src="<?php echo base_url(); ?>assets/part/rakesh.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>RAKESH KUMAR JAIN</h5>
+            <span>Practice Head - Raipur</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup21">
+          <img src="<?php echo base_url(); ?>assets/part/ramesh.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>RAMESH SUTHARI</h5>
+            <span>Practice Head - Bengaluru</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup29">
+          <img src="<?php echo base_url(); ?>assets/part/divs.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>DIVYANSH SINGHAL</h5>
+            <span>Practice Head - Dehradun</span>
           </div>
         </div>
       </div>
@@ -2430,71 +2459,23 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         </div>
       </div>
       <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup22">
-          <img src="<?php echo base_url(); ?>assets/part/mohitm.jpg" alt="" width="100%">
+        <div style="position: relative;" class="partner" data-popup="popup19">
+          <img src="<?php echo base_url(); ?>assets/part/manoj.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>MOHIT MITTAL</h5>
-            <span>Practice Head - Gurugram</span>
+            <h5>MANOJ SURAJMAL BOKADIA</h5>
+            <span>Practice Head - Mumbai</span>
           </div>
         </div>
       </div>
       <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup28">
-          <img src="<?php echo base_url(); ?>assets/part/satya.jpg" alt="" width="100%">
+        <div style="position: relative;" class="partner" data-popup="popup20">
+          <img src="<?php echo base_url(); ?>assets/part/prince.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>SATYAJEET PANIGRAHI</h5>
-            <span>Practice Co-Head - Bhubaneswar </span>
+            <h5>PRINCE BANSAL</h5>
+            <span>Practice Head - Bathinda</span>
           </div>
         </div>
       </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup38">
-          <img src="<?php echo base_url(); ?>assets/part/rohitr.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>ROHIT DARYANI</h5>
-            <span>ACA</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup24">
-          <img src="<?php echo base_url(); ?>assets/part/prag.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>PARAG KUMAR SHEKHADA</h5>
-            <span>Practice Head: Surat</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup32">
-          <img src="<?php echo base_url(); ?>assets/part/yogesh.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>YOGESH SARIN</h5>
-            <span>Practice Co-Head - Jammu</span>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup33">
-          <img src="<?php echo base_url(); ?>assets/part/munishs.JPG" alt="" width="100%">
-          <div class="member_txt">
-            <h5>MUNISH SHARMA</h5>
-            <span>Practice Co-Head - Jammu</span>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup29">
-          <img src="<?php echo base_url(); ?>assets/part/divs.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>DIVYANSH SINGHAL</h5>
-            <span>Practice Head - Dehradun</span>
-          </div>
-        </div>
-      </div>
-
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup26">
           <img src="<?php echo base_url(); ?>assets/part/bika.jpg" alt="" width="100%">
@@ -2514,6 +2495,24 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           </div>
         </div>
       </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup37">
+          <img src="<?php echo base_url(); ?>assets/part/Prachi.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>PRACHI LATH</h5>
+            <span>Practice Co-Head - Guwahati</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup22">
+          <img src="<?php echo base_url(); ?>assets/part/mohitm.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>MOHIT MITTAL</h5>
+            <span>Practice Head - Gurugram</span>
+          </div>
+        </div>
+      </div>
 
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup244">
@@ -2524,16 +2523,16 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           </div>
         </div>
       </div>
-
       <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup34">
-          <img src="<?php echo base_url(); ?>assets/part/ven.jpg" alt="" width="100%">
+        <div style="position: relative;" class="partner" data-popup="popup28">
+          <img src="<?php echo base_url(); ?>assets/part/satya.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>VEMULA VENKATESH</h5>
-            <span>Practice Head - Hyderabad</span>
+            <h5>SATYAJEET PANIGRAHI</h5>
+            <span>Practice Co-Head - Bhubaneswar </span>
           </div>
         </div>
-      </div>
+      </div>    
+
 
       <div class="col-md-3 col-12 mt-3">
         <div style="position: relative;" class="partner" data-popup="popup23">
@@ -2545,12 +2544,70 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
         </div>
       </div>
 
+
       <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup37">
-          <img src="<?php echo base_url(); ?>assets/part/Prachi.jpg" alt="" width="100%">
+        <div style="position: relative;" class="partner" data-popup="popup34">
+          <img src="<?php echo base_url(); ?>assets/part/ven.jpg" alt="" width="100%">
           <div class="member_txt">
-            <h5>PRACHI LATH</h5>
-            <span>Practice Co-Head - Guwahati</span>
+            <h5>VEMULA VENKATESH</h5>
+            <span>Practice Head - Hyderabad</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup27">
+          <img src="<?php echo base_url(); ?>assets/part/jatin.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>JATINDER BANSAL</h5>
+            <span>Practice Co-head - Chandigarh
+            </span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup24">
+          <img src="<?php echo base_url(); ?>assets/part/prag.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>PARAG KUMAR SHEKHADA</h5>
+            <span>Practice Head: Surat</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup25">
+          <img src="<?php echo base_url(); ?>assets/part/kaviya.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>KAVIYA B</h5>
+            <span>Practice Head - Coimbatore</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup32">
+          <img src="<?php echo base_url(); ?>assets/part/yogesh.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>YOGESH SARIN</h5>
+            <span>Practice Co-Head - Jammu</span>
+          </div>
+        </div>
+      </div>
+     
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup33">
+          <img src="<?php echo base_url(); ?>assets/part/munishs.JPG" alt="" width="100%">
+          <div class="member_txt">
+            <h5>MUNISH SHARMA</h5>
+            <span>Practice Co-Head - Jammu</span>
+          </div>
+        </div>
+      </div>
+     
+      <div class="col-md-3 col-12 mt-3">
+        <div style="position: relative;" class="partner" data-popup="popup38">
+          <img src="<?php echo base_url(); ?>assets/part/rohitr.jpg" alt="" width="100%">
+          <div class="member_txt">
+            <h5>ROHIT DARYANI</h5>
+            <span>Practice Head - Ajmer</span>
           </div>
         </div>
       </div>
@@ -2563,24 +2620,8 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           </div>
         </div>
       </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup42">
-          <img src="<?php echo base_url(); ?>assets/part/shivv.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>SHIV SHANKAR GUPTA</h5>
-            <span>Practice Co-Head - Raipur</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-3 col-12 mt-3">
-        <div style="position: relative;" class="partner" data-popup="popup43">
-          <img src="<?php echo base_url(); ?>assets/part/asi.jpg" alt="" width="100%">
-          <div class="member_txt">
-            <h5>ASHISH KUMAR</h5>
-            <span>Practice Co-Head - Chandigarh</span>
-          </div>
-        </div>
-      </div>
+      
+      
     </div>
     <div class="row mt-md-5 mt-4 cstm_key_people ml-0 mr-0" style="width: 100%;margin-left:0;margin-right:0;">
       <h4 class="mb-4 p-0" style="font-weight: 700;">PANEL OF EXPERTS

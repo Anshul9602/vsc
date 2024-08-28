@@ -867,7 +867,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           </li>
           <li class="splide__slide">
             <img src="assets/img/icons/gems.png" alt="" style="width:90px;">
-            <p>Gems and Jewelry</p>
+            <p>Gems and Jewellery</p>
           </li>
           <li class="splide__slide">
             <img src="assets/img/icons/government.png" alt="" style="width:90px;">
@@ -879,7 +879,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           </li>
           <li class="splide__slide">
             <img src="assets/img/icons/hotel.png" alt="" style="width:90px;">
-            <p>Hotel & Tiurism</p>
+            <p>Hotel & Tourism</p>
           </li>
           <li class="splide__slide">
             <img src="assets/img/icons/housing.png" alt="" style="width:90px;">
@@ -903,7 +903,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
           </li>
           <li class="splide__slide">
             <img src="assets/img/icons/manufacturing.png" alt="" style="width:90px;">
-            <p>Manaufacturing</p>
+            <p>Manufacturing</p>
           </li>
           <li class="splide__slide">
             <img src="assets/img/icons/mining.png" alt="" style="width:90px;">
