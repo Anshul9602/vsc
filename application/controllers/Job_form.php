@@ -38,8 +38,8 @@ class Job_form extends CI_Controller
 		$config['smtp_host'] = 'ssl://smtp.gmail.com';
 		$config['smtp_port'] = '465';
 		$config['smtp_timeout'] = '7';
-		$config['smtp_user'] = '';
-		$config['smtp_pass'] = 'ottxbxionpddrcmb';
+		$config['smtp_user'] = 'theodinjaipur@gmail.com';
+		$config['smtp_pass'] = 'ilhphiqmihlvezxk';
 		$config['charset'] = 'utf-8';
 		$config['newline'] = "\r\n";
 		$config['mailtype'] = 'html'; // or html
@@ -47,8 +47,8 @@ class Job_form extends CI_Controller
 	
 		$this->email->initialize($config);
 	
-		$from = $_POST['email'];
-		$to = '';
+		$from = 'theodinjaipur@gmail.com';
+		$to = 'anshulkumar969602@gmail.com';
 		$subject = 'Job Form Mailbox';
 		$message = 'Hello Team, <br /> You have a Job Form application from VSC Portal. <br />';
 		unset($_POST['g-recaptcha-response']);
@@ -73,12 +73,22 @@ class Job_form extends CI_Controller
 	
 		// Send the email
 		if ($this->email->send()) {
-			echo "Email sent successfully"; // For debugging
+			echo "<script>
+            alert('Message Sent Successfully!');
+            window.location.href='https://vsc.co.in/Career';
+            </script>";
+			// echo "Email sent successfully"; // For debugging
 		} else {
-			echo "Email sending failed"; // For debugging
+			$errors = $this->email->print_debugger();
+            print_r($errors);
+			// echo "<script>
+            // alert('Email sending failed!');
+            // window.location.href='https://vsc.co.in/Career';
+            // </script>";
+			
 		}
 	
-		redirect(base_url(''));
+		
 	}
 
 	public function insert_data()
