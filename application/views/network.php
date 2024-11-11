@@ -785,8 +785,8 @@
             <div class="card mt-3 csr" id="AN">
                 <div class="card-body">
                     <h4 class="card-title">Andaman and Nicobar Islands</h4>
-                    <h5 class="card-subtitle mb-2 text-muted">Port Blair</h5>
-                    <p class="card-text">3rd Floor, Old CSS Building, Junglighat, Port Blair-744103</p>
+                    <h5 class="card-subtitle mb-2 text-muted">Sri Vijaya Puram (Port Blair)</h5>
+                    <p class="card-text">3rd Floor, Old CSS Building, Junglighat, Sri Vijaya Puram (Port Blair) - 744103</p>
                     <p class="card-text">CA Anil Kumar Jain</p>
                     <p class="card-text"> <i class="fa fa-phone"></i>+91 921 457 9042<br>
                         <i class="fa fa-envelope"></i> aniljain@vsc.co.in
@@ -1217,3 +1217,4 @@
         }
     }
 </script>
+

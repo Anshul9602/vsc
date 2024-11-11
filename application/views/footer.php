@@ -97,7 +97,7 @@ color: #4494D4;
                            
                             <a href="<?php echo base_url(''); ?>" class="footer-links mt-16" ><i class="bi bi-chevron-right"></i> HOME</a>
                             <a href="<?php echo base_url('About_Us'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> ABOUT US</a>
-                            <a href="<?php echo base_url('Expert'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> EXPERT US</a>
+                            <a href="<?php echo base_url('Expert'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> EXPERTS </a>
                             <a href="<?php echo base_url('Service'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> SERVICES</a>
                             <a href="<?php echo base_url('Career'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> CAREER</a>
                             <a href="<?php echo base_url('Network'); ?>" class="footer-links mt-16"><i class="bi bi-chevron-right"></i> BRANCHES</a>
@@ -161,7 +161,7 @@ color: #4494D4;
                 <div class="footer-copyw ">
                     
                     <p class="text-center container mob-size" style=" font-size:14px; color:#f1f1f1; padding:5px;font-weight: 300;">
-                    Copyright © 2024 VSC . All Rights Reserved. Developed By
+                    Copyright © 2017 VSC . All Rights Reserved. Developed By
                     <a href="https://theodin.in/" style="color:#fff;    text-decoration: underline;">
                         The Odin</a> .
                 </p>

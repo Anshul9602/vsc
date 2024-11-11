@@ -2264,7 +2264,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/pratek.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>PRATEEK GOYAL</h5>
-            <span>National Head - Stratergy, R&D and Businees Development</span>
+            <span>National Head - Strategy, R&D and Businees Development</span>
           </div>
         </div>
       </div>
@@ -2287,7 +2287,7 @@ As a seasoned professional, Hemant brings a wealth of knowledge and experience t
           <img src="<?php echo base_url(); ?>assets/part/as.jpg" alt="" width="100%">
           <div class="member_txt">
             <h5>AS SHISHODIA</h5>
-            <span>Executive Partner</span>
+            <span>Practice Head - Jodhpur</span>
           </div>
         </div>
       </div>

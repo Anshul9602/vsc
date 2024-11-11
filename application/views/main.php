@@ -640,6 +640,32 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
     </div>
   </div>
 </section>
+
+<section>
+  <div class="container  pump" style="    align-items: start;">
+
+    <h6 class="foot whhh">Our Certificates</h6>
+    <h1 class="foot" style="font-weight:800;">Trusted by Industry Standards</h1>
+    
+    <p class="text-center mt-md-5 mt-3"></p>
+    <div class="row " style="width:100%;    justify-content: space-between;
+">
+      <div class="col-md-3 col-4">
+      <img src="<?php echo base_url(); ?>assets/iso1.png" alt="" width="100%">
+      </div>
+      <div class="col-md-3 col-4">
+      <img src="<?php echo base_url(); ?>assets/iso2.png" alt="" width="100%">
+      </div>
+      <div class="col-md-3 col-4">
+      <img src="<?php echo base_url(); ?>assets/iso3.png" alt="" width="100%">
+      </div>
+    </div>
+    
+  </div>
+
+</section>
+
+
 <style>
   .hover-overlay {
     position: absolute;

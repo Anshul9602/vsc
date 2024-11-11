@@ -96,6 +96,7 @@
                         <ul>
                             <li><a href="<?php echo base_url('Service'); ?>#ADVISORY_PROTFOLIO">ADVISORY PORTFOLIO</a></li>
                             <li><a href="<?php echo base_url('Service'); ?>#COMPLIANCE_PROTFOLIO">COMPLIANCE PORTFOLIO</a></li>
+                            <li><a href="<?php echo base_url('Service'); ?>#OUTSOURCING_PORTFOLIO">OUTSOURCING PORTFOLIO</a></li>
                            
                         </ul>
                     </li>

@@ -151,8 +151,31 @@
   .tab-pane h5 {
     text-transform: uppercase;
   }
-</style>
+  .whhh {
+    background-color: #0D4771;
+    border-radius: 0 30px 30px 30px;
+    padding: 10px 20px;
+    width: fit-content;
+    text-align: center;
+    color: #fff;
+  }
 
+  @media screen and (max-width: 768px) {
+    .whhh {
+      text-align: center;
+
+      color: #fff;
+      margin: 0 auto 20px;
+    }}
+</style>
+<script src="
+https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js
+"></script>
+<link href="
+https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
+" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-auto-scroll@0.5.3/dist/js/splide-extension-auto-scroll.min.js"> </script>
+<script src="http://www.ajaydiamltd.com//assets/js/splide-extension-auto-scroll.js"></script>
 <link href="<?php echo base_url(); ?>/assets/css/mainpage.css" rel="stylesheet">
 
 <section class="full-width p-0">
@@ -173,6 +196,10 @@
                 regulatory bodies, ensuring comprehensive, top-tier solutions across Bharat.
               </p>
               <br>
+              <p style="color: #fff;max-width:50%;line-height:1.9">
+              As a trusted provider of Outsourced Accounting and Tax Services, we are committed to alleviating the complexities of accounting and tax compliance for our clients. Our mission is to leverage advanced technology and deep industry expertise to streamline and simplify the accounting and tax preparation processes, ensuring seamless support for all our USA-based clients.
+              </p>
+              <br>
 
             </div>
           </div>
@@ -187,6 +214,7 @@
 
 <div id="COMPLIANCE_PROTFOLIO"></div>
 <div id="ADVISORY_PROTFOLIO"></div>
+<div id="OUTSOURCING_PORTFOLIO"></div>
 <section>
 
   <div id="popup1" class="popup">
@@ -541,17 +569,147 @@
     </div>
   </div>
 
+  <!-- OUTSOURCING -->
+
+  <div id="popup31" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Tax Preparation services</h2>
+      <hr>
+      <div class="row align-items-center">
+        <div class="col-md-5 mt-3">
+          <img src="assets/sout/31.jpg" width="100%" alt="">
+        </div>
+        <div class="col-md-7 mt-3">
+          <h5>Business Tax return</h5>
+          <p> &#x2022; S Corp Tax Return (1120s)</p>
+          <p> &#x2022; Partnership Tax Return (1065)</p>
+          <p> &#x2022; C Corp Tax Return (1120)</p>
+            <p> &#x2022; Estate & Trust Returns</p>
+            <br>
+            <p> &#x2022; Individual Tax Return (1040 & 1040NR)</p>
+            <p> &#x2022; Company Formation</p>
+            <p> &#x2022; State Tax Rertun</p>
+            <p> &#x2022; Multistate Tax preparation services</p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <div id="popup32" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Accounting Solutions</h2>
+      <hr>
+      <div class="row align-items-center">
+        <div class="col-md-5 mt-3">
+          <img src="assets/sout/32.png" width="100%" alt="">
+        </div>
+        <div class="col-md-7 mt-3">
+ 
+          <p> &#x2022; Book Keeping Services</p>
+          <p> &#x2022; Payroll Services</p>
+          <p> &#x2022; Forensic Accounting Services</p>
+            <p> &#x2022; IFRS and US GAAP Implementations </p>
+            
+            <p> &#x2022; Monthly Reporting</p>
+           
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <div id="popup33" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Virtual CFO Services</h2>
+      <hr>
+      <div class="row align-items-center">
+        <div class="col-md-5 mt-3">
+          <img src="assets/sout/33.png" width="100%" alt="">
+        </div>
+        <div class="col-md-7 mt-3">
+ 
+          <p> &#x2022; Management Information Reporting</p>
+          <p> &#x2022; Finalization of Books of Accounts</p>
+          <p> &#x2022; Advisory services in areas for Finance & Accounts</p>
+            <p> &#x2022; Secretarial Services</p>
+            
+          
+           
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <div id="popup34" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Attestation & Assurance Services</h2>
+      <hr>
+      <div class="row align-items-center">
+        <div class="col-md-5 mt-3">
+          <img src="assets/sout/34.png" width="100%" alt="">
+        </div>
+        <div class="col-md-7 mt-3">
+ 
+          <p> &#x2022; Financial Auditing Services</p>
+          <p> &#x2022; Employee Benefit Plan Audits</p>
+          <p> &#x2022; Not for Profit Audits</p>
+            <p> &#x2022; Governmental Audit support Services</p>
+            <p> &#x2022; Reviewed Financials</p>
+            <p> &#x2022; Compilations</p>
+            <p> &#x2022; ITGC Audits</p>
+            <p> &#x2022; SoC Audit or SSAE 18 attestation services</p>
+            <p> &#x2022; Business Valuation Services</p>
+            <p> &#x2022; Due Deligence support</p>
+            <p> &#x2022; ESG Audits</p>
+            <p> &#x2022; Data Analytics Services</p>
+            
+          
+           
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <div id="popup35" class="popup">
+    <div class="popup-content">
+      <span class="close">&times;</span>
+      <h2>Change Management Services      </h2>
+      <hr>
+      <div class="row align-items-center">
+        <div class="col-md-5 mt-3">
+          <img src="assets/sout/35.png" width="100%" alt="">
+        </div>
+        <div class="col-md-7 mt-3">
+ 
+          <p> &#x2022; Accounting software change & Implementation Support</p>
+
+            
+          
+           
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
 
   <div class="container ttb mt-4">
 
     <ul class="nav nav-tabs" id="myTab" role="tablist">
-      <li class="nav-item" style="width: 100%;max-width:50%;">
+      <li class="nav-item" style="width: 100%;max-width:33%;">
         <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home"
           aria-selected="true">ADVISORY PORTFOLIO</a>
       </li>
-      <li class="nav-item" style="width: 100%;max-width:50%;">
+      <li class="nav-item" style="width: 100%;max-width:33%;">
         <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile"
           aria-selected="false">COMPLIANCE PORTFOLIO</a>
+      </li>
+      <li class="nav-item" style="width: 100%;max-width:33%;">
+        <a class="nav-link" id="out-tab" data-toggle="tab" href="#out" role="tab" aria-controls="Out"
+          aria-selected="false">OUTSOURCING PORTFOLIO</a>
       </li>
 
     </ul>
@@ -725,16 +883,157 @@
           </div>
         </div>
       </div>
+      <div class="tab-pane fade" id="out" role="tabpanel" aria-labelledby="out-tab">
+        <!-- <p>This is the profile tab content.</p> -->
+        <div class="row justify-content-between sses">
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/sout/31.jpg" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">Tax Preparation services</h5>
+              <p class="mt-3">Business Tax return, Individual Tax Return (1040 & 1040NR), Company Formation</p>
+              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup31"> Read More</button>
+            </div>
+          </div>
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/sout/32.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">Accounting Solutions</h5>
+              <p class="mt-3"> Book Keeping Services, Payroll Services, Forensic Accounting Services</p>
+              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup32"> Read More</button>
+            </div>
+          </div>
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/sout/33.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">Virtual CFO Services</h5>
+              <p class="mt-3">Management Information Reporting, Finalization of Books of Accounts</p>
+              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup33"> Read More</button>
+            </div>
+          </div>
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/sout/34.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">Attestation & Assurance Services</h5>
+              <p class="mt-3">Financial Auditing Services, Employee Benefit Plan Audits, Not for Profit Audits</p>
+              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup34"> Read More</button>
+            </div>
+          </div>
+          <div class="col-md-6 text-black row mt-5">
+            <div class="col-md-4" style="    align-items: center;display:flex;">
+              <img src="assets/sout/35.png" alt>
+            </div>
+            <div class="col-md-8 mt-3">
+              <h5 style="font-weight: 500;">Change Management Services</h5>
+              <p class="mt-3">Accounting software change & Implementation Support</p>
+              <button class="btn btn-outline-primary readMoreBtn" data-popup="popup35"> Read More</button>
+            </div>
+          </div>
+        </div>
+      </div>
 
     </div>
 
   </div>
+</section>
+<section>
+  <div class="container  pump">
+
+    <h5 class="foot whhh"> Softwares we Use</h5>
+    
+    <p class="text-center"></p>
+    <div class="row justify-content-center">
+    <div class="splide sp1 mt-5" role="group" aria-label="Splide Basic HTML Example">
+      <div class="splide__track">
+        <ul class="splide__list">
+          <li class="splide__slide">
+            <img src="assets/soft/1.png" alt="" style="width:100%;">
+           
+          </li>
+          <li class="splide__slide">
+            <img src="assets/soft/2.png" alt="" style="width:100%;">
+           
+          </li>
+          <li class="splide__slide">
+            <img src="assets/soft/3.png" alt="" style="width:100%;">
+           
+          </li>
+          <li class="splide__slide">
+            <img src="assets/soft/4.png" alt="" style="width:100%;">
+           
+          </li>
+          <li class="splide__slide">
+            <img src="assets/soft/5.png" alt="" style="width:100%;">
+           
+          </li>
+          <li class="splide__slide">
+            <img src="assets/soft/6.png" alt="" style="width:100%;">
+           
+          </li>
+          <li class="splide__slide">
+            <img src="assets/soft/7.png" alt="" style="width:100%;">
+           
+          </li>
+          <li class="splide__slide">
+            <img src="assets/soft/8.png" alt="" style="width:100%;">
+           
+          </li>
+          <li class="splide__slide">
+            <img src="assets/soft/9.png" alt="" style="width:100%;">
+           
+          </li>
+          <li class="splide__slide">
+            <img src="assets/soft/10.png" alt="" style="width:100%;">
+           
+          </li>
+         
+
+        </ul>
+      </div>
+    </div>
+    </div>
+    
+  </div>
+
 </section>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 <script>
+
+new Splide(".sp1", {
+        mediaQuery: "min",
+        type: "loop",
+        pagination: false, 
+        breakpoints: {
+          240: {
+            perPage: 3,
+          },
+          640: {
+            perPage: 3,
+          },
+          767: {
+            perPage: 3,
+          },
+          1024: {
+            perPage: 5,
+          },
+        },
+        autoScroll: {
+          speed: 1.5,
+        },
+        focus: "center",
+      }).mount(window.splide.Extensions);
+  
+
   // Get all buttons that open a popup
   var buttons = document.querySelectorAll(".readMoreBtn");
 

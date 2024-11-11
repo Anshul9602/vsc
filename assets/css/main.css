@@ -3664,9 +3664,18 @@ a:hover {
   
   }
   .who{
-    width:40%;
+    width:52%;
     color:#fff;
   }
+  .get-to-know h2 {
+    font-size: 40px;
+    line-height: 70px;
+    font-weight: 800;
+    margin-bottom: 40px;
+}
+.h1, h1 {
+  font-size: 1.5rem;
+}
 
 }
 .pump{
